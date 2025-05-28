@@ -5,7 +5,7 @@ import Logo from '../assets/images/logo.png'; // Use your white shezi tech solut
 
 const Navbar = () => {
   return (
-    <header className="bg-white shadow-sm">
+    <header className="bg-white shadow sticky top-0 z-50 backdrop-blur-sm bg-opacity-90">
       <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
         {/* Logo */}
         <div className="flex items-center space-x-2">
@@ -21,10 +21,10 @@ const Navbar = () => {
             ABOUT US
           </Link>
         
-          <Link to="/projects" className="text-gray-900 hover:text-blue-600">
-            PROJECTS
+          <Link to="/services" className="text-gray-900 hover:text-blue-600">
+          OUR SERVICES
           </Link>
-          <Link to="/blog" className="text-gray-900 hover:text-blue-600">
+          <Link to="/blogs" className="text-gray-900 hover:text-blue-600">
             BLOG
           </Link>
           <Link to="/contact" className="text-gray-900 hover:text-blue-600">
@@ -34,9 +34,11 @@ const Navbar = () => {
 
         {/* Get Quote Button */}
         <div>
-          <button className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-5 py-2 rounded shadow-md">
-            GET QUOTE
-          </button>
+          <Link to={'/contact'} className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-5 py-2 rounded shadow-md"
+
+          >
+            GET In Touch
+          </Link>
         </div>
       </div>
     </header>

@@ -8,6 +8,8 @@ import TestimonialSlider from '../component/TestimonialSlider'
 import CallToActionSection from '../component/WaveSection'
 import BlogSection from '../component/BlogSection'
 import LogoSlider from '../component/LogoSlider'
+import Form from '../component/Forms'
+import ContactPage from './Contact'
 
 const Home = () => {
   return (
@@ -16,10 +18,10 @@ const Home = () => {
   <FeaturesSection/>
   <StatsSection/>
   <StructureSection/>
-  <PricingSection/>
-  <TestimonialSlider/>
   <CallToActionSection/>
   <BlogSection flag={true}/>
+  <TestimonialSlider/>
+  <ContactPage/>
   <LogoSlider/>
   </>
   )

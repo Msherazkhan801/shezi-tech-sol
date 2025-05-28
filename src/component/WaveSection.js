@@ -1,6 +1,7 @@
 // src/components/CallToActionSection.js
 import React from 'react';
 import bg from '../assets/images/call-to-action-bg.png'; // Make sure image is in src/assets
+import { Link } from 'react-router-dom';
 
 const CallToActionSection = () => {
   return (
@@ -14,9 +15,11 @@ const CallToActionSection = () => {
           We combine practice of managing and analyzing project management to its full performance
           and maximize its effectiveness and stay on top of everything.
         </p>
-        <button className="bg-white text-indigo-700 font-semibold px-6 py-3 rounded shadow hover:bg-gray-100">
-          START FREE TRIAL
-        </button>
+        <Link to='/services' className="bg-white text-indigo-700 font-semibold px-6 py-3 rounded shadow hover:bg-gray-100"
+          onClick={() => window.scrollTo(0, 0)}
+        >
+          Our Projects
+        </Link>
       </div>
     </section>
   );

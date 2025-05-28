@@ -1,7 +1,7 @@
-// src/components/StatsSection.js
 import React from 'react';
 import { FaSmile, FaDesktop, FaTrophy } from 'react-icons/fa';
-import statsImage from "../assets/images/SaaS-4.png"; // Replace with your image path
+import CountUp from 'react-countup';
+import statsImage from "../assets/images/proj-image.jpg"; // Replace with your image path
 
 const stats = [
   {
@@ -12,11 +12,11 @@ const stats = [
   {
     icon: <FaDesktop className="text-blue-600 text-4xl mb-2" />,
     number: 1830,
-    label: 'Project Done',
+    label: 'Projects Done',
   },
   {
     icon: <FaTrophy className="text-blue-600 text-4xl mb-2" />,
-    number: 955,
+    number: 155,
     label: 'Total Awards',
   },
 ];
@@ -39,7 +39,9 @@ const StatsSection = () => {
             {stats.map((item, index) => (
               <div key={index} className="flex flex-col items-center text-center">
                 {item.icon}
-                <h3 className="text-2xl font-bold text-gray-900">{item.number}</h3>
+                <h3 className="text-2xl font-bold text-gray-900">
+                  <CountUp start={0} end={item.number} duration={2.5} separator="," />
+                </h3>
                 <p className="text-gray-600 font-medium uppercase text-sm">{item.label}</p>
               </div>
             ))}

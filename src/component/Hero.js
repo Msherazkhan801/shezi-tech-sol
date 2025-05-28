@@ -1,5 +1,6 @@
 import React from "react";
 import heroImage from "../assets/images/SaaS-4.png"; // Replace with your image
+import { Link } from "react-router-dom";
 
 const Hero = () => {
   return (
@@ -18,9 +19,12 @@ const Hero = () => {
             technical research support, and digital solutions tailored to help
             you achieve excellence.
           </p>
-          <button className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded shadow">
+          <Link to={'/services'} className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded shadow"
+          onClick={() => window.scrollTo(0, 0)}
+          
+          >
             Explore Our Services
-          </button>
+          </Link>
         </div>
 
         {/* Right Image */}

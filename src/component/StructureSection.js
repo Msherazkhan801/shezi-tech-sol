@@ -1,6 +1,7 @@
 // src/components/StructureSection.js
 import React from 'react';
 import dashboardImage from '../assets/images/device.png'; // Replace with your actual image
+import { Link } from 'react-router-dom';
 
 const StructureSection = () => {
   return (
@@ -27,9 +28,12 @@ const StructureSection = () => {
           <p className="text-gray-600 mb-6">
             Responsive web design. Agile development innovator termsheet is users interface pitch scrum project research & development. Get Started
           </p>
-          <button className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded shadow-md">
-            GET STARTED
-          </button>
+          <Link to={'/contact'} className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded shadow-md"
+          onClick={() => window.scrollTo(0, 0)}
+          
+          >
+            GET In Touch
+          </Link>
         </div>
       </div>
     </section>

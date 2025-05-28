@@ -1,0 +1,94 @@
+.tech {
+    border-radius: 6px;
+  }
+  
+  .blogContainer {
+    margin-bottom: 30px;
+  }
+  
+  .blogContainer:hover .techDesc {
+    background-color: #fed1a4;
+  }
+  
+  .image {
+    text-align: center;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    max-height: 347px;
+    overflow: hidden;
+  }
+  
+  .image img {
+    height: 264px;
+    width: 100%;
+    object-fit: stretch;
+  }
+  
+  .techDesc {
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 5px 6px rgb(0 0 0 / 16%);
+  }
+  .techDesc h4 {
+    font-size: 22px;
+    font-weight: bold;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .techDesc p {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  
+  .readMore {
+    text-transform: uppercase;
+    padding: 2px;
+    color: #1f1f1f;
+    border-bottom: 1px solid #1f1f1f;
+    width: fit-content;
+  }
+  
+  .overlay {
+    background-color: rgb(0 0 0 / 70%);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+  }
+  .overlay h1 {
+    padding-top: 23%;
+    padding-left: 38%;
+    color: #fff;
+  }
+  @media screen and (min-width: 1600px) {
+    .techDesc h4 {
+      font-size: 24px;
+    }
+  }
+  @media (max-width: 767px) {
+    .techDesc h4 {
+      font-size: 21px;
+    }
+    .tech {
+      margin-bottom: 30px;
+    }
+  
+    .viewAll {
+      margin-top: 30px;
+    }
+  
+    .tech .image {
+      height: 200px;
+      /* padding: 30px 15px; */
+    }
+    .tech img {
+      object-fit: stretch;
+    }
+  }
+  

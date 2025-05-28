@@ -1,6 +1,8 @@
 // src/components/Footer.js
 import React from 'react';
 import Logo from '../assets/images/logo.png'; // Use your white shezi tech solution logo
+import SubscriptionForm from './Subcribr';
+import { Link } from 'react-router-dom';
 
 const Footer = () => {
   return (
@@ -19,10 +21,26 @@ const Footer = () => {
         <div>
           <h4 className="font-semibold text-white mb-4">Company</h4>
           <ul className="space-y-2 text-sm text-gray-300">
-            <li><a href="#" className="hover:underline">About Us</a></li>
-            <li><a href="#" className="hover:underline">Our Services</a></li>
-            <li><a href="#" className="hover:underline">Clients Reviews</a></li>
-            <li><a href="#" className="hover:underline">Contact Us</a></li>
+            <li>
+              <Link to="/about" className="hover:underline">
+                About Us
+              </Link>
+            </li>
+            <li>
+              <Link to="/services" className="hover:underline">
+                Our Services
+              </Link>
+            </li>
+            <li>
+              <Link to="/contact" className="hover:underline">
+                Contact Us
+              </Link>
+            </li>
+            <li>
+              <Link to="/blogs" className="hover:underline">
+                Blog
+              </Link>
+            </li>
           </ul>
         </div>
 
@@ -43,14 +61,8 @@ const Footer = () => {
             Subscribe and get 10% off from our architecture company.
           </p>
           <div className="flex">
-            <input
-              type="email"
-              placeholder="Enter Your Email Address..."
-              className="w-full px-4 py-2 rounded-l bg-[#2c2f36] text-sm text-gray-200 focus:outline-none"
-            />
-            <button className="bg-blue-600 hover:bg-blue-700 text-white text-sm font-bold px-4 rounded-r">
-              SUBSCRIBE
-            </button>
+         <SubscriptionForm/>
+         
           </div>
         </div>
       </div>

@@ -1,69 +1,28 @@
-// src/components/BlogSection.js
-import React from 'react';
-import Img1 from '../assets/images/blog_1.jpg';
-import Img2 from '../assets/images/blog_1.jpg';
-import Img3 from '../assets/images/blog_1.jpg';
+import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
+import BlogsContents from '../utlis/BlogData';
+import Pagination from './pagination';
 
-const blogs = [
-  {
-    image: Img1,
-    category: 'INTERIOR',
-    title: 'Minimalist trending in modern architecture 2019',
-    description:
-      'Building first evolved out dynamics between needs means available building materials attendant skills.',
-  },
-  {
-    image: Img2,
-    category: 'ARCHITECTURE',
-    title: 'Terrace in the town yamazaki kentaro design workshop.',
-    description:
-      'Building first evolved out dynamics between needs means available building materials attendant skills.',
-  },
-  {
-    image: Img3,
-    category: 'DESIGN',
-    title: 'W270 house são paulo arquitetos fabio jorge architecture.',
-    description:
-      'Building first evolved out dynamics between needs means available building materials attendant skills.',
-  },
-  {
-    image: Img3,
-    category: 'DESIGN',
-    title: 'W270 house são paulo arquitetos fabio jorge architecture.',
-    description:
-      'Building first evolved out dynamics between needs means available building materials attendant skills.',
-  },
-  {
-    image: Img3,
-    category: 'DESIGN',
-    title: 'W270 house são paulo arquitetos fabio jorge architecture.',
-    description:
-      'Building first evolved out dynamics between needs means available building materials attendant skills.',
-  },
-  {
-    image: Img3,
-    category: 'DESIGN',
-    title: 'W270 house são paulo arquitetos fabio jorge architecture.',
-    description:
-      'Building first evolved out dynamics between needs means available building materials attendant skills.',
-  },
-  {
-    image: Img3,
-    category: 'DESIGN',
-    title: 'W270 house são paulo arquitetos fabio jorge architecture.',
-    description:
-      'Building first evolved out dynamics between needs means available building materials attendant skills.',
-  },
-  {
-    image: Img3,
-    category: 'DESIGN',
-    title: 'W270 house são paulo arquitetos fabio jorge architecture.',
-    description:
-      'Building first evolved out dynamics between needs means available building materials attendant skills.',
-  },
-];
+// Helper to strip HTML tags and truncate
+const truncateText = (htmlString, maxLength = 120) => {
+  const div = document.createElement('div');
+  div.innerHTML = htmlString;
+  const text = div.textContent || div.innerText || '';
+  if (text.length > maxLength) {
+    return text.substring(0, maxLength) + '...';
+  }
+  return text;
+};
 
-const BlogSection = ({flag}) => {
+const BlogSection = ({ flag }) => {
+
+  const blogsPerPage = 9;
+  const [currentPage, setCurrentPage] = useState(1);
+
+  const totalPages = Math.ceil(BlogsContents.length / blogsPerPage);
+  const startIndex = (currentPage - 1) * blogsPerPage;
+  const blogsToShow =flag ? BlogsContents.slice(0, 3) : BlogsContents.slice(startIndex, startIndex + blogsPerPage);
+
   return (
     <section className="bg-white py-20 px-4">
       <div className="max-w-7xl mx-auto text-center mb-14">
@@ -71,43 +30,37 @@ const BlogSection = ({flag}) => {
         <h2 className="text-4xl font-extrabold text-gray-900">Specialized News</h2>
       </div>
 
-      <div className="grid gap-10 md:grid-cols-3">
-        {flag ? blogs.slice(0,3).map((item, index) => (
+      <div className="grid gap-10 md:grid-cols-3 max-w-7xl mx-auto">
+        {blogsToShow.map((item, index) => (
           <div key={index} className="bg-white shadow rounded overflow-hidden border">
             <div className="relative">
-              <img src={item.image} alt={item.title} className="w-full h-56 object-cover" />
-              <span className="absolute top-0 left-0 bg-blue-700 text-white text-xs font-bold px-3 py-1 uppercase">
-                {item.category}
-              </span>
+              <img
+                src={`/${item.thumbnail || item.src}`} // use thumbnail or fallback to src
+                alt={item.title}
+                className="w-full h-56 object-cover"
+              />
+             
             </div>
             <div className="p-6 text-left">
               <h3 className="text-lg font-semibold text-gray-900 mb-2">{item.title}</h3>
-              <p className="text-sm text-gray-600 mb-4">{item.description}</p>
-              <a href="#" className="text-blue-700 font-bold text-sm hover:underline">
+              <p className="text-sm text-gray-600 mb-4">
+                {truncateText(item.description)}
+              </p>
+              <Link
+                to={`/blogs/${item.slug}`}
+                className="text-blue-700 font-bold text-sm hover:underline"
+              >
                 READ MORE
-              </a>
+              </Link>
             </div>
           </div>
-        )):
-        blogs.map((item, index) => (
-          <div key={index} className="bg-white shadow rounded overflow-hidden border">
-            <div className="relative">
-              <img src={item.image} alt={item.title} className="w-full h-56 object-cover" />
-              <span className="absolute top-0 left-0 bg-blue-700 text-white text-xs font-bold px-3 py-1 uppercase">
-                {item.category}
-              </span>
-            </div>
-            <div className="p-6 text-left">
-              <h3 className="text-lg font-semibold text-gray-900 mb-2">{item.title}</h3>
-              <p className="text-sm text-gray-600 mb-4">{item.description}</p>
-              <a href="#" className="text-blue-700 font-bold text-sm hover:underline">
-                READ MORE
-              </a>
-            </div>
-          </div>
-        ))
-      }
+        ))}
       </div>
+     {!flag &&     <Pagination 
+        currentPage={currentPage} 
+        totalPages={totalPages} 
+        onPageChange={setCurrentPage} 
+      />}
     </section>
   );
 };
