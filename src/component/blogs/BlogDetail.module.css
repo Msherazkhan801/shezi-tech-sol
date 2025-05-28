@@ -185,6 +185,10 @@
     }
     .blogColRight {
     }
+    .blogDetailContainer{
+      padding-inline: 3rem;
+
+    }
   }
   @media screen and (max-width: 1023px) {
     .blogDetailCover {
@@ -203,6 +207,10 @@
     .blogColRight {
       margin-bottom: 50px;
     }
+    .blogDetailContainer{
+      padding-inline: 3rem;
+
+    }
   }
   @media screen and (max-width: 767px) {
     .blogDetailCover {
@@ -217,6 +225,10 @@
       top: 0;
       margin-bottom: 0;
       border: none;
+    }
+    .blogDetailContainer{
+      padding-inline: 3rem;
+
     }
   }
   
