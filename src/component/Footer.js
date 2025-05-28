@@ -13,7 +13,7 @@ const Footer = () => {
         <div>
           <img src={Logo} alt="shezi tech solution" className="h-10 mb-4" />
           <p className="text-gray-300 text-sm leading-relaxed">
-            Building your own home is about desire, fantasy. But it’s achievable — anyone can do it.
+            Building your own desire business online. But it’s achievable — anyone can do it.
           </p>
         </div>
 
@@ -46,19 +46,19 @@ const Footer = () => {
 
         {/* Headquarters */}
         <div>
-          <h4 className="font-semibold text-white mb-4">Headquaters</h4>
+          <h4 className="font-semibold text-white mb-4">Office</h4>
           <p className="text-sm text-gray-300 leading-relaxed">
-            962 Fifth Avenue, 3rd Floor <br /> New York, NY10022
+            DHA Phase 1 Islamabad <br /> Pakistan
           </p>
-          <p className="text-sm text-gray-300 mt-2">Hello@TeamXcel.net</p>
-          <p className="text-sm text-gray-300">(+123) 456 789 101</p>
+          <p className="text-sm text-gray-300 mt-2">career@shezitech.co</p>
+          <p className="text-sm text-gray-300">(+92) 3472943510</p>
         </div>
 
         {/* Newsletter */}
         <div>
           <h4 className="font-semibold text-white mb-4">Newsletter Subscription</h4>
           <p className="text-sm text-gray-300 mb-4">
-            Subscribe and get 10% off from our architecture company.
+            Subscribe and get 10% off for each services from our architecture company.
           </p>
           <div className="flex">
          <SubscriptionForm/>
@@ -69,7 +69,7 @@ const Footer = () => {
 
       {/* Bottom line */}
       <div className="border-t border-gray-700 mt-12 pt-4 text-center text-gray-400 text-sm">
-        © 2019 shezi tech solution Powered by TeamXcel
+        © 2019 shezi tech solution Powered by devXel
       </div>
     </footer>
   );
