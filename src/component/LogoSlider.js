@@ -6,12 +6,12 @@ import 'swiper/css';
 import 'swiper/css/free-mode';
 
 const logos = [
-  'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Brooks.svg/512px-Logo_Brooks.svg.png',
-  'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sir_Miller_logo.svg/512px-Sir_Miller_logo.svg.png',
-  'https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lumber_Company_Logo.svg/512px-Lumber_Company_Logo.svg.png',
-  'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Retro_Design_Logo.svg/512px-Retro_Design_Logo.svg.png',
-  'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Logo27.svg/512px-Logo27.svg.png',
-  'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/The_Mountains_are_Calling_Logo.svg/512px-The_Mountains_are_Calling_Logo.svg.png',
+  "https://www.hubspot.com/hubfs/gmail-icon-1.svg", // Apple
+  "https://www.hubspot.com/hubfs/shopify-icon-1.svg", // Microsoft
+  "https://www.hubspot.com/hubfs/mailchimp-icon-1.svg", // Google
+  "https://www.hubspot.com/hubfs/zapier-icon-1.svg", // Amazon
+  "https://cdn2.hubspot.net/hubfs/3409531/geomapper-icon-2-1.png", // Twitter
+  "https://cdn2.hubspot.net/hubfs/521324/GTWLogos%201200x1200-1.png", // Twitter
 ];
 
 const LogoSlider = () => {
@@ -35,7 +35,7 @@ const LogoSlider = () => {
               <img
                 src={logo}
                 alt={`Logo ${index + 1}`}
-                className="h-16 w-auto grayscale hover:grayscale-0 transition duration-300 mx-auto"
+                className="h-16 w-auto  transition duration-300 mx-auto"
               />
             </SwiperSlide>
           ))}
