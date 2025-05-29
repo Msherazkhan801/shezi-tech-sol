@@ -8,6 +8,7 @@ import ContactPage from "./pages/Contact";
 import ProjectPage from "./pages/ProjectPage";
 import AboutUsPage from "./pages/About";
 import ScrollToTop from "./component/ScrollToTop";
+import Career from "./component/Career";
 // import BlogDetailPage from "./component/BlogSection";
 
 function App() {
@@ -22,6 +23,8 @@ function App() {
       <Route path="/contact" element={<ContactPage />} />
       <Route path="/services" element={<ProjectPage />} />
       <Route path="/about" element={<AboutUsPage />} />
+      <Route path="/career" element={<Career/>} />
+      
 
       
     </Routes>

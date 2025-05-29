@@ -7,10 +7,10 @@ import BlogCard from "./BlogsCard";
 const RelatedBlog = ({ related }) => {
   return (
     <div className={`container`}>
-      <div className={`d-flex justify-content-center ${styles.titleContainer}`}>
-        <h2>You may also Read</h2>
+      <div className={`mb-4 justify-content-center ${styles.titleContainer}`}>
+        <strong> <u>You may also Read</u></strong>
       </div>
-      <div className={`row d-flex justify-content-center`}>
+      <div className={`row flex justify-center gap-5`}>
         {BlogsContents.filter((item) => related.includes(item.id)).map((blog) => (
           <BlogCard key={blog.id} blog={blog} />
         ))}

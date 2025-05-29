@@ -10,12 +10,12 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto grid md:grid-cols-4 gap-10">
 
         {/* Logo & About */}
-        <div>
-          <img src={Logo} alt="shezi tech solution" className="h-10 mb-4" />
+        <Link to={'/'}>
+          <img src={Logo} alt="shezi tech solution" className="h-20 mb-4" />
           <p className="text-gray-300 text-sm leading-relaxed">
             Building your own desire business online. But it’s achievable — anyone can do it.
           </p>
-        </div>
+        </Link>
 
         {/* Company Links */}
         <div>

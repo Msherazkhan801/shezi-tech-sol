@@ -10,15 +10,15 @@ const CallToActionSection = () => {
       style={{ backgroundImage: `url(${bg})` }}
     >
       <div className="max-w-3xl mx-auto">
-        <h2 className="text-4xl font-bold mb-6 mt-20">Manage any Projects with Shezi Tech Solution</h2>
+        <h2 id="cta-heading" className="text-4xl font-bold mb-6 mt-20"> Manage Any Project with <span className="text-blue-300">Shezi Tech Solution</span></h2>
         <p className="text-lg text-white/90 mb-8">
-          We combine practice of managing and analyzing project management to its full performance
-          and maximize its effectiveness and stay on top of everything.
+        Optimize your project performance with our expert digital solutions. Stay ahead, stay organized,
+        and elevate your workflow with our full-suite services.
         </p>
         <Link to='/services' className="bg-white text-indigo-700 font-semibold px-6 py-3 rounded shadow hover:bg-gray-100"
           onClick={() => window.scrollTo(0, 0)}
         >
-          Our Projects
+         Explore Our Projects
         </Link>
       </div>
     </section>

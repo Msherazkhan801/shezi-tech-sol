@@ -4,7 +4,7 @@ import styles from "./BlogCard.module.css";
 
 export default function BlogCard({ blog, addRef }) {
   return (
-    <div ref={addRef} className={`col-lg-4 ${styles.blogContainer}`}>
+    <div ref={addRef} className={`col-lg-4 ${styles.blogContainer} flex`}>
       <Link to={`/blogs/${blog.slug}`}>
         <div className={styles.image}>
           <img

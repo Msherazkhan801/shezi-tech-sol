@@ -5,23 +5,23 @@ import Modal from './Modal';
 const features = [
   {
     icon: <FaCode className="text-blue-600 text-3xl" />,
-    title: 'Web Development',
-    description: 'Crafting responsive and high-performance websites tailored to your business needs with the latest technologies.',
+    title: 'Custom Web Development Services',
+    description: 'Get scalable, SEO-friendly, and mobile-optimized websites built using modern tech stacks like React and Node.js for better online visibility.',
   },
   {
     icon: <FaLink className="text-blue-600 text-3xl" />,
-    title: 'Link Building',
-    description: 'Boost your website’s SEO and online presence through strategic, high-quality backlink acquisition.',
+    title: 'High-Authority Link Building',
+    description: 'Improve your website’s Google ranking with white-hat link-building strategies, outreach, and backlink audits for sustainable SEO growth.',
   },
   {
     icon: <FaBook className="text-blue-600 text-3xl" />,
-    title: 'Academic Writing',
-    description: 'Professional academic writing services ensuring well-researched, original, and plagiarism-free papers.',
+    title: 'Academic & Research Writing',
+    description: 'Access expert academic content writing for theses, essays, and technical papers with plagiarism-free guarantees and deep research.',
   },
   {
     icon: <FaCheckCircle className="text-blue-600 text-3xl" />,
-    title: 'Quality Assurance',
-    description: 'Comprehensive QA services to ensure your software is reliable, bug-free, and meets the highest standards.',
+    title: 'Software QA & Testing Solutions',
+    description: 'Ensure bug-free releases with end-to-end manual and automated testing services that enhance product quality, speed, and performance.',
   },
 ];
 
@@ -33,13 +33,20 @@ const FeaturesSection = () => {
         {/* Left Text Content */}
         <div className="md:w-1/2">
           <p className="text-red-600 font-bold uppercase text-sm mb-3">Our Features</p>
-          <h2 className="text-3xl font-extrabold text-gray-900 mb-4 w-2/3">
-            Revolutionize your online business today!
+          <h2
+            id="features-heading"
+            className="text-3xl font-extrabold text-gray-900 mb-4 w-2/3"
+          >
+            Revolutionize Your Online Business with Smart Digital Solutions
           </h2>
           <p className="text-gray-600 text-lg mb-6 w-[87%]">
-            The business current account that is your Accounting software. A simple way to run your business
+            From custom websites and SEO to academic support and quality assurance, we empower your digital presence.
           </p>
-          <button onClick={()=>setIsOpen(true)} className="flex items-center gap-2 text-blue-600 hover:underline font-semibold">
+          <button
+            onClick={() => setIsOpen(true)}
+            className="flex items-center gap-2 text-blue-600 hover:underline font-semibold"
+            aria-label="Watch company introduction video"
+          >
             <FaPlayCircle className="text-4xl" />
             Watch Video
           </button>

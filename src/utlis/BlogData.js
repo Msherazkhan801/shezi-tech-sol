@@ -16,7 +16,7 @@ const BlogsContents = [
   We'll go into their history and how they vary in this article.
       </p>
       `,
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "12/1/2022",
       thumbnail:
         "assets/images/blog-images/wordpress.jpg",
@@ -335,7 +335,7 @@ const BlogsContents = [
   
       </p>
       `,
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "11/29/2022",
       thumbnail: "assets/images/blog-images/angular.jpg",
       src: "assets/images/blog-images/angular.jpg",
@@ -571,7 +571,7 @@ const BlogsContents = [
       
       </p>
       `,
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "11/23/2022",
       thumbnail: "assets/images/blog-images/react.jpg",
       src: "assets/images/blog-images/react.jpg",
@@ -887,7 +887,7 @@ const BlogsContents = [
       
       </p>
       `,
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "11/22/2022",
       thumbnail:
         "assets/images/blog-images/wordpressThems.jpg",
@@ -1187,7 +1187,7 @@ const BlogsContents = [
       
       </p>
       `,
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "11/21/2022",
       thumbnail: "assets/images/blog-images/choong-wordpress.jpg",
       src: "assets/images/blog-images/choong-wordpress.jpg",
@@ -1458,7 +1458,7 @@ const BlogsContents = [
   
       </p>
       `,
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "11/16/2022",
       thumbnail:
         "assets/images/blog-images/website-dev.jpg",
@@ -1793,7 +1793,7 @@ const BlogsContents = [
       </p>
       `,
       image1: "assets/images/blog-images/wordpress-plugin.jpg",
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "11/11/2022",
       thumbnail:
         "assets/images/blog-images/wordpress-plugin.jpg",
@@ -2100,7 +2100,7 @@ const BlogsContents = [
       `,
       image1:
         "assets/images/blog-images/lifcycle.jpg",
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "11/11/2022",
       thumbnail:
         "assets/images/blog-images/lifcycle.jpg",
@@ -2444,7 +2444,7 @@ const BlogsContents = [
       `,
       image1:
         "assets/images/blog-images/Web-development.jpg",
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "11/10/2022",
       thumbnail:
         "assets/images/blog-images/Web-development.jpg",
@@ -2711,7 +2711,7 @@ const BlogsContents = [
       `,
       image1:
         "assets/images/blog-images/team.jpg",
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "11/8/2022",
       thumbnail:
         "assets/images/blog-images/team.jpg",
@@ -2944,11 +2944,11 @@ const BlogsContents = [
       Numerous neighborhood-based companies, including pubs, restaurants, flower shops, hair salons, physicians, and other healthcare providers, are utilizing apps to improve the customer experience. But does every business require an app? We'll break down the factors you should examine if you consider devoting time and resources to developing applications.
       </p>
       `,
-      image1: "assets/images/blog-images/app-for-company/title-image.jpg",
-      author: "Ali Ikram",
+      image1: "assets/images/blog-images/mobile-app.jpg",
+      author: "Sheraz khan",
       date: "11/1/2022",
-      thumbnail: "assets/images/blog-images/app-for-company/title-image.jpg",
-      src: "assets/images/blog-images/app-for-company/title-image.jpg",
+      thumbnail: "assets/images/blog-images/mobile-app.jpg",
+      src: "assets/images/blog-images/mobile-app.jpg",
       altAttribute: "mobile app",
       arr: [
         {
@@ -3119,12 +3119,12 @@ const BlogsContents = [
       Like any other business process, mobile apps need to be planned, structured, and created with the end-user in mind.<br/>
       It is essential to evaluate the outcomes of a mobile app before you decide to create one. And in order to do that, it is important to take a couple of these factors into account before starting the <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.co/blogs/mobile-app-development">mobile app development</a> process in its entirety.</p>
       `,
-      image1: "assets/images/blog-images/factors-to-a-mobile-app/title-image.png",
-      author: "Ali Ikram",
+      image1: "assets/images/blog-images/factor-mob.jpg",
+      author: "Sheraz khan",
       date: "10/14/2022",
       thumbnail:
-        "assets/images/blog-images/factors-to-a-mobile-app/title-image.png",
-      src: "assets/images/blog-images/factors-to-a-mobile-app/title-image.png",
+        "assets/images/blog-images/factor-mob.jpg",
+      src: "assets/images/blog-images/factor-mob.jpg",
       altAttribute: "react developers",
       arr: [
         {
@@ -3309,11 +3309,11 @@ const BlogsContents = [
         So, to assist you in learning how to find and recruit skilled React.js developers, we've put together a list of 10 pointers for you to keep in mind.
         </p>
         `,
-      image1: "assets/images/blog-images/ReactHiring/a.jpg",
-      author: "Ali Ikram",
+      image1: "assets/images/blog-images/reactjs.jpg",
+      author: "Sheraz khan",
       date: "10/14/2022",
-      thumbnail: "assets/images/blog-thumbnails/hiring-react-devs-th.jpg",
-      src: "assets/images/blog-images/ReactHiring/b.jpg",
+      thumbnail: "assets/images/blog-images/reactjs.jpg",
+      src: "assets/images/blog-images/blog-images",
       altAttribute: "react developers",
       arr: [
         {
@@ -3524,11 +3524,11 @@ const BlogsContents = [
         <p>Making an app is a wise business move. But first, you must comprehend the procedure for developing a mobile application, which is why we wrote this manual.</p>
         `,
       image1:
-        "assets/images/blog-images/mobile-app-devlopment/phases-of-mobile-app-development.jpg",
-      author: "Ali Ikram",
+        "assets/images/blog-images/mobilethems.jpg",
+      author: "Sheraz khan",
       date: "10/13/2022",
-      thumbnail: "assets/images/blog-thumbnails/comp-guide-mob-dev-th.jpg",
-      src: "assets/images/blog-images/mobile-app-devlopment/Types of mobile app development.jpg",
+      thumbnail: "assets/images/blog-images/mobilethems.jpg",
+      src: "assets/images/blog-images/mobilethems.jpg",
       altAttribute: "wordpress",
       arr: [
         {
@@ -3814,11 +3814,11 @@ const BlogsContents = [
         <p>You will learn all there is to know about WordPress themes in this tutorial article, including how to pick one that works for you.</p>
         `,
       image1:
-        "assets/images/blog-images/Wordpress-themes/free-wordpress-themes.jpg",
-      author: "Ali Ikram",
+        "assets/images/blog-images/wordpress-plugin.jpg",
+      author: "Sheraz khan",
       date: "10/12/2022",
-      thumbnail: "assets/images/blog-thumbnails/wp-themes-th.jpg",
-      src: "assets/images/blog-images/Wordpress-themes/free-wordpress-themes.jpg",
+      thumbnail: "assets/images/blog-images/wordpress-plugin.jpg",
+      src: "assets/images/blog-images/wordpress-plugin.jpg",
       altAttribute: "wordpress",
       arr: [
         {
@@ -4027,10 +4027,10 @@ const BlogsContents = [
         </p>
     `,
   
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "10/11/2022",
-      thumbnail: "assets/images/blog-thumbnails/hybrid-mob-dev.jpg",
-      src: "assets/images/blog-images/HybridMobileApp/Detail top-min.png",
+      thumbnail: "assets/images/blog-images/mobile-responsive.jpg",
+      src: "assets/images/blog-images/mobile-responsive.jpg",
       altAttribute: "Hybrid-App",
       arr: [
         {
@@ -4175,10 +4175,10 @@ const BlogsContents = [
         <p>This informative article is for you if you've dabbled in HTML, JavaScript, or even a little Python but are unsure which direction to go.</p>
       `,
   
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "10/10/2022",
-      thumbnail: "assets/images/blog-thumbnails/front-vs-back-vs-full-dev-th.jpg",
-      src: "assets/images/blog-images/front-backend-fullstack/main.webp",
+      thumbnail: "assets/images/blog-images/backendvsfrontend.jpg",
+      src: "assets/images/blog-images/backendvsfrontend.jpg",
       altAttribute: "front end back end",
       arr: [
         {
@@ -4325,10 +4325,10 @@ const BlogsContents = [
         </p>
       `,
   
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "10/09/2022",
-      thumbnail: "assets/images/blog-thumbnails/wp-page-builders-th.jpg",
-      src: "assets/images/blog-images/basics-of-wordpress/main.png",
+      thumbnail: "assets/images/blog-images/unique.jpg",
+      src: "assets/images/blog-images/unique.jpg",
       altAttribute: "wordpress page builder",
       arr: [
         {
@@ -4433,10 +4433,10 @@ const BlogsContents = [
         <p>For this reason, some information is provided in this article on how to make maintenance simple, clear, and efficient.</p>
     `,
   
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "10/08/2022",
-      thumbnail: "assets/images/blog-thumbnails/wp-site-maintenance-th.jpg",
-      src: "assets/images/blog-images/wordpress-maintenance/main.png",
+      thumbnail: "assets/images/blog-images/wordpress-mantain.jpg",
+      src: "assets/images/blog-images/wordpress-mantain.jpg",
       altAttribute: "wordpress",
       arr: [
         {
@@ -4583,10 +4583,10 @@ const BlogsContents = [
         <p>The two primary components of web development are the front end and the back end. The user sees the front end, which includes the styles and images. And all of the logic that causes things to occur is in the backend. Finally, We’ll talk more about the qualifications needed to become a backend developer in this article.</p>
     `,
   
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "10/07/2022",
-      thumbnail: "assets/images/blog-thumbnails/back-web-dev-th.jpg",
-      src: "assets/images/blog-images/backend-web-developer/main.png",
+      thumbnail: "assets/images/blog-images/blackandwhite.jpg",
+      src: "assets/images/blog-images/blackandwhite.jpg",
       altAttribute: "backend web development",
       arr: [
         {
@@ -4814,10 +4814,10 @@ const BlogsContents = [
         </p>
         <p>Without further hullabaloo, let's first discuss front-end development before beginning with a guide to it.
         </p>`,
-      author: "Ali Ikram",
+      author: "Sheraz khan",
       date: "10/06/2022",
-      thumbnail: "assets/images/blog-thumbnails/front-end-dev-th.jpg",
-      src: "assets/images/blog-images/beginners-guide/main.png",
+      thumbnail: "assets/images/blog-images/FE-begginer.jpg",
+      src: "assets/images/blog-images/FE-begginer.jpg",
       altAttribute: "front end developer",
       arr: [
         {

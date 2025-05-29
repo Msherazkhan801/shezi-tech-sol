@@ -26,13 +26,20 @@ const BlogSection = ({ flag }) => {
   return (
     <section className="bg-white py-20 px-4">
       <div className="max-w-7xl mx-auto text-center mb-14">
-        <p className="text-gray-500 font-medium">From Blog</p>
-        <h2 className="text-4xl font-extrabold text-gray-900">Specialized News</h2>
+        {/* <p className="text-gray-500 font-medium">From Blog</p> */}
+        <h2      id="blogs-heading" className="text-4xl font-extrabold text-gray-900">Latest Blogs in 2025</h2>
+        <p className="text-gray-600 mt-2">
+          Stay updated with trending tech, SaaS growth hacks, and professional writing insights.
+        </p>
       </div>
 
-      <div className="grid gap-10 md:grid-cols-3 max-w-7xl mx-auto">
+      <div className="grid gap-10 md:grid-cols-3 max-w-7xl mx-auto ">
         {blogsToShow.map((item, index) => (
-          <div key={index} className="bg-white shadow rounded overflow-hidden border">
+            <article
+            key={index}
+            className="bg-white shadow rounded overflow-hidden border"
+            aria-label={`Blog titled ${item.title}`}
+          >
             <div className="relative">
               <img
                 src={`/${item.thumbnail || item.src}`} // use thumbnail or fallback to src
@@ -53,7 +60,7 @@ const BlogSection = ({ flag }) => {
                 READ MORE
               </Link>
             </div>
-          </div>
+            </article>
         ))}
       </div>
      {!flag &&     <Pagination 

@@ -9,15 +9,15 @@ const Hero = () => {
         {/* Left Content */}
         <div className="md:w-1/2 mb-10 md:mb-0">
           <p className="text-red-600 font-semibold uppercase text-sm mb-3">
-            Expert Academic & Tech Solutions
+          Academic Writing & IT Development Services
           </p>
           <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 leading-tight mb-6">
-            Professional Writing & IT Services
+          Custom Academic Writing & SaaS Development Solutions
           </h1>
           <p className="text-gray-600 text-lg mb-6">
-            At Shezi Tech Solution, we specialize in academic content writing,
-            technical research support, and digital solutions tailored to help
-            you achieve excellence.
+          Shezi Tech Solution offers professional academic writing services, technical research support,
+  and end-to-end software development for startups, students, and enterprises.
+  From thesis help to full-stack web apps, we ensure quality and reliability.
           </p>
           <Link to={'/services'} className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded shadow"
           onClick={() => window.scrollTo(0, 0)}

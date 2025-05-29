@@ -4,12 +4,12 @@
   }
   
   .blogDetailCover {
-    margin-top: 180px;
+    margin-top: 50px;
     margin-bottom: 40px;
   }
   
   .authInfo {
-    margin-top: 11em;
+    margin-top: 1em;
     /* border-right: 1px solid #c6c6c6; */
     /* border-bottom: 1px solid #c6c6c6; */
     position: sticky;

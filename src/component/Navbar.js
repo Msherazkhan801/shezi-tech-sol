@@ -10,11 +10,11 @@ const Navbar = () => {
 
   return (
     <header className="bg-white shadow sticky top-0 z-50 backdrop-blur-sm bg-opacity-90">
-      <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
+      <div className="max-w-7xl mx-auto px-4  flex justify-between items-center">
         {/* Logo */}
-        <div className="flex items-center space-x-2">
+        <Link to='/' className="flex items-center space-x-2">
           <img src={Logo} alt="Logo" className="h-20 w-auto" />
-        </div>
+        </Link>
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex space-x-8 text-sm font-semibold">
@@ -29,6 +29,9 @@ const Navbar = () => {
           </Link>
           <Link to="/blogs" className="text-gray-900 hover:text-blue-600">
             BLOG
+          </Link>
+          <Link to="/career" className="text-gray-900 hover:text-blue-600">
+            CAREER
           </Link>
           <Link to="/contact" className="text-gray-900 hover:text-blue-600">
             CONTACT
