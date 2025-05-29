@@ -10,10 +10,16 @@ import BlogSection from '../component/BlogSection'
 import LogoSlider from '../component/LogoSlider'
 import Form from '../component/Forms'
 import ContactPage from './Contact'
+import { Helmet } from 'react-helmet'
 
 const Home = () => {
   return (
     <>
+     <Helmet>
+        <title>Shezi Tech Solution - Software & Tech Services</title>
+        <meta name="description" content="Providing software development and tech tutorials." />
+        <meta name="keywords" content="software, development, coding, tutorials" />
+      </Helmet>
   <Hero/>
   <FeaturesSection/>
   <StatsSection/>

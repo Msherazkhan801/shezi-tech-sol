@@ -38,7 +38,7 @@ const BlogDetail = () => {
                   <li className={styles.socialMedia}>
                     <div className={styles.facebookBtn}>
                       <FacebookShareButton
-                        url={`${URL}/blogs/${respData?.slug}`}
+                        url={`https://www.facebook.com/knowledgethinker/`}
                         quote={"Some random text"}
                         hashtag="#Shezitechsolution"
                       >
@@ -49,7 +49,7 @@ const BlogDetail = () => {
                   <li className={styles.socialMedia}>
                     <div className={styles.twitterBtn}>
                       <TwitterShareButton
-                        url={`${URL}/blogs/${respData?.slug}`}
+                        url={`https://x.com/KnowledgeT97143`}
                         title={respData?.title &&respData?.title}
                       >
                         {twitter}
