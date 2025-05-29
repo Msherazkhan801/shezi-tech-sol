@@ -36,6 +36,7 @@ const LogoSlider = () => {
                 src={logo}
                 alt={`Logo ${index + 1}`}
                 className="h-16 w-auto  transition duration-300 mx-auto"
+                loading="lazy"
               />
             </SwiperSlide>
           ))}

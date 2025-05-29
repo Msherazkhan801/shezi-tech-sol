@@ -81,6 +81,7 @@ const TestimonialSlider = () => {
                       src={item.image}
                       alt={item.name}
                       className="w-16 h-16 rounded-full mx-auto mt-4"
+                      loading="lazy"
                     />
                   </div>
                 </div>

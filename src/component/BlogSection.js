@@ -45,6 +45,7 @@ const BlogSection = ({ flag }) => {
                 src={`/${item.thumbnail || item.src}`} // use thumbnail or fallback to src
                 alt={item.title}
                 className="w-full h-56 object-cover"
+                loading="lazy"
               />
              
             </div>

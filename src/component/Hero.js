@@ -33,6 +33,7 @@ const Hero = () => {
             src={heroImage}
             alt="Academic Services"
             className="w-full h-auto"
+            loading="lazy"
           />
         </div>
       </div>

@@ -50,7 +50,7 @@ const StatsSection = () => {
 
         {/* Right Image */}
         <div className="md:w-1/2">
-          <img src={statsImage} alt="Project Illustration" className="w-full h-auto" />
+          <img src={statsImage} alt="Project Illustration" className="w-full h-auto"  loading="lazy"/>
         </div>
       </div>
     </section>

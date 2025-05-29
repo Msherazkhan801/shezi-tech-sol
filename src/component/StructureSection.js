@@ -14,6 +14,7 @@ const StructureSection = () => {
             src={dashboardImage}
             alt="Dashboard Summary"
             className="w-full h-auto rounded-md"
+            loading="lazy"
           />
         </div>
 

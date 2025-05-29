@@ -52,7 +52,7 @@ const ApplyForm = ({
       noValidate
     >
       {/* Name */}
-      <div className="w-full md:w-1/2 px-3 mb-6 md:mb-0">
+      <div className="w-full  px-3 mb-6 md:mb-0">
         <label
           htmlFor="name"
           className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
@@ -73,7 +73,7 @@ const ApplyForm = ({
       </div>
 
       {/* Email */}
-      <div className="w-full md:w-1/2 px-3">
+      <div className="w-full  px-3">
         <label
           htmlFor="email"
           className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
