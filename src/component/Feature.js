@@ -73,13 +73,14 @@ const FeaturesSection = () => {
   >
     {/* Put your video or content here */}
     <div className="aspect-w-16 aspect-h-16 w-full h-[500px] ">
-    <iframe
-  src="https://www.youtube.com/embed/g0LFciivUis?autoplay=1&mute=1&si=sjWNQErUQ5MJfBQt"
-  title="YouTube video player"
-  allow="autoplay; encrypted-media"
-  allowFullScreen
-  className="w-full h-full"
-/>
+  <video
+        controls
+        className="w-full h-full"
+        src={require('../assets/video/intro.mp4')} // Local file path
+        type="video/mp4"
+        autoPlay  // Auto-play enabled
+        muted     
+      />
     </div>
   </Modal>
 )}
