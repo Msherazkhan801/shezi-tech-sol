@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import Logo from '../assets/images/logo.png';
+import Logo from '../assets/images/Logo2.png';
 import { FiMenu, FiX } from "react-icons/fi"; // Hamburger and close icons
 
 const Navbar = () => {

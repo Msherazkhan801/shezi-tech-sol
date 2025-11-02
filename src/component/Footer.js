@@ -1,6 +1,5 @@
 // src/components/Footer.js
-import React from 'react';
-import Logo from '../assets/images/logo.png'; // Use your white shezi tech solution logo
+import Logo from '../assets/images/Logo2.png'; // Use your white shezi tech solution logo
 import SubscriptionForm from './Subcribr';
 import { Link } from 'react-router-dom';
 
@@ -48,7 +47,7 @@ const Footer = () => {
         <div>
           <h4 className="font-semibold text-white mb-4">Office</h4>
           <p className="text-sm text-gray-300 leading-relaxed">
-            DHA Phase 1 Islamabad <br /> Pakistan
+            Great Central St, Leicester LE1 4JS, <br/>United Kingdom
           </p>
           <p className="text-sm text-gray-300 mt-2">career@shezitech.co</p>
           <p className="text-sm text-gray-300">(+92) 3472943510</p>
@@ -69,7 +68,7 @@ const Footer = () => {
 
       {/* Bottom line */}
       <div className="border-t border-gray-700 mt-12 pt-4 text-center text-gray-400 text-sm">
-        © 2019 shezi tech solution Powered by devXel
+        © 2022 shezi tech solution Powered by Shezi Production.
       </div>
     </footer>
   );
