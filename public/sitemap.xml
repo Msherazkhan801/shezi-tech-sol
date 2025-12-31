@@ -28,7 +28,7 @@
 
   <!-- Blog -->
   <url>
-    <loc>https://shezitechsolution.com/blog</loc>
+    <loc>https://shezitechsolution.com/blogs</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>

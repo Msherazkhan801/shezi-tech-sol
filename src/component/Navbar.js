@@ -74,6 +74,11 @@ const Navbar = () => {
       label: "CAREER",
       icon: <FaBriefcase />,
     },
+    {
+      path: "/contact",
+      label: "Contact",
+      icon: <FaBriefcase />,
+    },
   ];
 
   const desktopContainerVariants = {
