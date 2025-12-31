@@ -130,7 +130,9 @@ const Form = ({
             <option>Back End</option>
             <option>PHP/Laravel</option>
             <option>Shopify</option>
-            <option>Vue.js</option>
+            <option>Vue Js</option>
+            <option>SEO</option>
+            <option>Content Writer</option>
           </select>
           <ValidationError prefix="LookingFor" field="lookingFor" errors={state.errors} />
         </div>
