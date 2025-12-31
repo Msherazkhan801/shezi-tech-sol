@@ -262,50 +262,7 @@ const Career = () => {
       {/* Main Content */}
       <main className="py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
-          {/* Benefits Section */}
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            className="mb-20"
-          >
-            <div className="text-center mb-12">
-              <h2 className="text-4xl font-bold text-gray-900 mb-4">
-                Why Work With{" "}
-                <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                  Shezi Tech?
-                </span>
-              </h2>
-              <p className="text-gray-600 text-lg max-w-3xl mx-auto">
-                We believe in creating an environment where talented people can thrive and grow.
-              </p>
-            </div>
-
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {benefits.map((benefit, index) => (
-                <motion.div
-                  key={index}
-                  initial={{ opacity: 0, y: 30 }}
-                  whileInView={{ opacity: 1, y: 0 }}
-                  viewport={{ once: true }}
-                  transition={{ delay: index * 0.1 }}
-                  whileHover={{ y: -10 }}
-                  className="bg-white p-8 rounded-2xl shadow-lg border border-gray-100 group"
-                >
-                  <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-br from-blue-100 to-purple-100 rounded-xl mb-6 group-hover:from-blue-200 group-hover:to-purple-200 transition-all duration-300">
-                    <div className="text-2xl text-blue-600 group-hover:text-blue-700">
-                      {benefit.icon}
-                    </div>
-                  </div>
-                  <h3 className="text-xl font-bold text-gray-900 mb-3">{benefit.title}</h3>
-                  <p className="text-gray-600">{benefit.desc}</p>
-                  
-                  {/* Hover effect line */}
-                  <div className="mt-6 w-12 h-1 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                </motion.div>
-              ))}
-            </div>
-          </motion.div>
+         
 
           {/* Job Openings */}
           <motion.div
@@ -392,10 +349,7 @@ const Career = () => {
                             <FaGlobe className="text-sm" />
                             {job.location}
                           </span>
-                          <span className="flex items-center gap-1">
-                            <FaCalendarAlt className="text-sm" />
-                            {job.type}
-                          </span>
+                         
                           {job.salary && (
                             <span className="flex items-center gap-1">
                               <FaDollarSign className="text-sm" />
@@ -490,6 +444,50 @@ const Career = () => {
             )}
           </motion.div>
 
+ {/* Benefits Section */}
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            className="mb-20"
+          >
+            <div className="text-center mb-12">
+              <h2 className="text-4xl font-bold text-gray-900 mb-4">
+                Why Work With{" "}
+                <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+                  Shezi Tech?
+                </span>
+              </h2>
+              <p className="text-gray-600 text-lg max-w-3xl mx-auto">
+                We believe in creating an environment where talented people can thrive and grow.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              {benefits.map((benefit, index) => (
+                <motion.div
+                  key={index}
+                  initial={{ opacity: 0, y: 30 }}
+                  whileInView={{ opacity: 1, y: 0 }}
+                  viewport={{ once: true }}
+                  transition={{ delay: index * 0.1 }}
+                  whileHover={{ y: -10 }}
+                  className="bg-white p-8 rounded-2xl shadow-lg border border-gray-100 group"
+                >
+                  <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-br from-blue-100 to-purple-100 rounded-xl mb-6 group-hover:from-blue-200 group-hover:to-purple-200 transition-all duration-300">
+                    <div className="text-2xl text-blue-600 group-hover:text-blue-700">
+                      {benefit.icon}
+                    </div>
+                  </div>
+                  <h3 className="text-xl font-bold text-gray-900 mb-3">{benefit.title}</h3>
+                  <p className="text-gray-600">{benefit.desc}</p>
+                  
+                  {/* Hover effect line */}
+                  <div className="mt-6 w-12 h-1 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                </motion.div>
+              ))}
+            </div>
+          </motion.div>
           {/* Culture & Values */}
           <motion.div
             initial={{ opacity: 0, y: 30 }}
