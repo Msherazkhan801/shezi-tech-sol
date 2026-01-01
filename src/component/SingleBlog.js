@@ -12,7 +12,7 @@ const BlogDetailPage = () => {
   const meta = {
     title: blogData?.title,
     description: blogData?.metadescription,
-    canonical: `https://www.SheziTechSolution.co/blogs/${blogData?.slug}`,
+    canonical: `https://www.shezitechsolution.com//blogs/${blogData?.slug}`,
   };
 
   if (blogData?.hasOwnProperty("metakeywords")) {
