@@ -2,36 +2,83 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
+    
+    <!-- Favicon -->
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    
+    <!-- Logo for search engines and social media -->
+    <link rel="logo" href="%PUBLIC_URL%/logo.png" type="image/png">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
+    
+    <!-- SINGLE description tag (removed duplicate) -->
     <meta name="description" content="Shezi Tech Solution offers professional academic writing, SaaS development, and technical support for students and businesses." />
-<meta name="keywords" content="academic writing services, SaaS development, web development, thesis help, research writing, IT consultancy" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
+    
+    <meta name="keywords" content="academic writing services, SaaS development, web development, thesis help, research writing, IT consultancy" />
+    
+    <!-- Open Graph tags for social sharing -->
+    <meta property="og:title" content="Shezi Tech Solution" />
+    <meta property="og:description" content="Professional academic writing, SaaS development, and technical support services for students and businesses." />
+    <meta property="og:image" content="%PUBLIC_URL%/logo.png" />
+    <meta property="og:url" content="https://www.shezitechsolution.com" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Shezi Tech Solution" />
+    
+    <!-- Twitter Card tags -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Shezi Tech Solution" />
+    <meta name="twitter:description" content="Professional academic writing, SaaS development, and technical support services." />
+    <meta name="twitter:image" content="%PUBLIC_URL%/logo.png" />
+    <meta name="twitter:site" content="@shezitech" />
+    
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo.png" />
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
 
     <title>Shezi Tech Solution</title>
+    
+    <!-- Structured Data for Google Logo -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Shezi Tech Solution",
+      "url": "https://www.shezitechsolution.com",
+      "logo": "https://www.shezitechsolution.com/logo.png",
+      "description": "Professional academic writing, SaaS development, and technical support services for students and businesses.",
+      "sameAs": [
+        "https://www.facebook.com/shezitechsolution",
+        "https://www.twitter.com/shezitech",
+        "https://www.linkedin.com/company/shezi-tech-solution"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-XXX-XXX-XXXX",
+        "contactType": "Customer Service",
+        "areaServed": "Worldwide",
+        "availableLanguage": ["English"]
+      }
+    }
+    </script>
+    
+    <!-- Additional Structured Data for Website -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://www.shezitechsolution.com",
+      "name": "Shezi Tech Solution",
+      "description": "Professional academic writing, SaaS development, and technical support services.",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.shezitechsolution.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
-
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
-
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
   </body>
 </html>
