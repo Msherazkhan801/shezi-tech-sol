@@ -71,11 +71,10 @@ const Footer = () => {
   };
 
   const socialLinks = [
-    { icon: <FaFacebookF />, label: "Facebook", color: "hover:bg-blue-600", href: "https://facebook.com" },
-    { icon: <FaTwitter />, label: "Twitter", color: "hover:bg-blue-400", href: "https://twitter.com" },
+    { icon: <FaFacebookF />, label: "Facebook", color: "hover:bg-blue-600", href: "https://www.facebook.com/profile.php?id=61585756147687" },
     { icon: <FaLinkedinIn />, label: "LinkedIn", color: "hover:bg-blue-700", href: "https://linkedin.com" },
     { icon: <FaInstagram />, label: "Instagram", color: "hover:bg-pink-600", href: "https://instagram.com" },
-    { icon: <FaYoutube />, label: "YouTube", color: "hover:bg-red-600", href: "https://youtube.com" },
+    { icon: <FaYoutube />, label: "YouTube", color: "hover:bg-red-600", href: "https://www.youtube.com/channel/UCjlRubK7n59ujp97X2KXZMw" },
   ];
 
   const companyLinks = [
