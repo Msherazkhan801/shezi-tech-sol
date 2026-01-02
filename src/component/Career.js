@@ -21,51 +21,51 @@ import {
 } from "react-icons/fa";
 
 const jobOpenings = [
-  {
-    id: 1,
-    title: "Frontend Developer",
-    location: "Remote",
-    type: "Full-time",
-    category: "tech",
-    description: "Build and maintain responsive web applications using React, Next.js and Tailwind CSS.",
-    requirements: ["3+ years React", "TypeScript", "CSS/SCSS"],
-    salary: "$60k - $90k",
-    experience: "3+ years",
-    featured: true
-  },
-  {
-    id: 2,
-    title: "Backend Developer",
-    location: "Remote",
-    type: "Full-time",
-    category: "tech",
-    description: "Develop robust APIs and microservices using Node.js, Python and MongoDB.",
-    requirements: ["Node.js/Express", "Python/Django", "Database Design"],
-    salary: "$70k - $100k",
-    experience: "4+ years"
-  },
-  {
-    id: 3,
-    title: "QA Engineer",
-    location: "Remote",
-    type: "Contract",
-    category: "tech",
-    description: "Test web applications and automate test cases for quality assurance.",
-    requirements: ["Automated Testing", "Selenium/Cypress", "API Testing"],
-    salary: "$50k - $80k",
-    experience: "2+ years"
-  },
-  {
-    id: 4,
-    title: "SEO Expert",
-    location: "Remote",
-    type: "Full-time",
-    category: "marketing",
-    description: "Optimize websites for search engines and implement SEO strategies.",
-    requirements: ["Google Analytics", "Keyword Research", "Link Building"],
-    salary: "$45k - $75k",
-    experience: "2+ years"
-  },
+  // {
+  //   id: 1,
+  //   title: "Frontend Developer",
+  //   location: "Remote",
+  //   type: "Full-time",
+  //   category: "tech",
+  //   description: "Build and maintain responsive web applications using React, Next.js and Tailwind CSS.",
+  //   requirements: ["3+ years React", "TypeScript", "CSS/SCSS"],
+  //   salary: "$60k - $90k",
+  //   experience: "3+ years",
+  //   featured: true
+  // },
+  // {
+  //   id: 2,
+  //   title: "Backend Developer",
+  //   location: "Remote",
+  //   type: "Full-time",
+  //   category: "tech",
+  //   description: "Develop robust APIs and microservices using Node.js, Python and MongoDB.",
+  //   requirements: ["Node.js/Express", "Python/Django", "Database Design"],
+  //   salary: "$70k - $100k",
+  //   experience: "4+ years"
+  // },
+  // {
+  //   id: 3,
+  //   title: "QA Engineer",
+  //   location: "Remote",
+  //   type: "Contract",
+  //   category: "tech",
+  //   description: "Test web applications and automate test cases for quality assurance.",
+  //   requirements: ["Automated Testing", "Selenium/Cypress", "API Testing"],
+  //   salary: "$50k - $80k",
+  //   experience: "2+ years"
+  // },
+  // {
+  //   id: 4,
+  //   title: "SEO Expert",
+  //   location: "Remote",
+  //   type: "Full-time",
+  //   category: "marketing",
+  //   description: "Optimize websites for search engines and implement SEO strategies.",
+  //   requirements: ["Google Analytics", "Keyword Research", "Link Building"],
+  //   salary: "$45k - $75k",
+  //   experience: "2+ years"
+  // },
   {
     id: 5,
     title: "Academic Writer",
