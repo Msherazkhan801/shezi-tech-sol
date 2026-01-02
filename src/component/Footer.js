@@ -104,7 +104,7 @@ const Footer = () => {
 
   const contactInfo = [
     { icon: <FaMapMarkerAlt />, text: "Bahria Town phase IV, Islamabad,Pakistan " },
-    { icon: <FaEnvelope />, text: "career@shezitech.com" },
+    { icon: <FaEnvelope />, text: "shezitechsolution@gmail.com" },
     { icon: <FaPhone />, text: "+92 347 294 3510" },
   ];
 
