@@ -73,21 +73,21 @@ const jobOpenings = [
     type: "Contract",
     category: "academic",
     description: "Create high-quality academic content, research papers, and technical documentation.",
-    requirements: ["PhD/Masters", "Research Skills", "English Proficiency"],
+    requirements: ["PhD/Masters", "Research Skills", "English Proficiency",'BBA/MBA ','Software Engineering'],
     salary: "Project-based",
-    experience: "3+ years",
+    experience: "1+ years",
     featured: true
   },
   {
     id: 6,
-    title: "Content Strategist",
+    title: "Academic Writer",
     location: "Remote",
     type: "Full-time",
-    category: "marketing",
+    category: "academic",
     description: "Develop content strategies for tech blogs, SaaS products, and academic resources.",
-    requirements: ["Content Planning", "SEO Writing", "Analytics"],
-    salary: "$55k - $85k",
-    experience: "3+ years"
+    requirements: ["English Proficiency",'BBA/MBA ','Software Engineering', "SEO Writing",'Data Science' ],
+    salary: "20k-40k",
+    experience: "3 months / Fresh Graduate"
   }
 ];
 
@@ -327,7 +327,7 @@ const Career = () => {
                 >
                   {/* Featured badge */}
                   {job.featured && (
-                    <div className="absolute top-4 right-4 z-10">
+                    <div className="absolute top-2 right-4 z-10">
                       <div className="flex items-center gap-1 bg-gradient-to-r from-orange-500 to-red-500 text-white text-xs font-bold px-3 py-1 rounded-full shadow-lg">
                         <FaStar className="text-xs" />
                         <span>Featured</span>
