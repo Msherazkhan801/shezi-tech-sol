@@ -868,310 +868,310 @@ const BlogsContents = [
         },
       ],
     },
-  //   {
-  //     slug: "how-to-choose-wordpress-themes-for-your-website",
-  //     id: 18,
-  //     related: [17, 3, 7],
-  //     metakeywords:
-  //       "Wordpress Themes, Wordpress Website, Ideal wordpress theme, Feature theme",
-  //     metadescription:
-  //       "Finding the ideal Wordpress theme that meets the requirements listed can be challenging, difficult, and time-consuming. Here are the instructions to choose the featured theme for your wordpress website.",
-  //     title: "How to Choose Wordpress Themes for your website",
-  //     description: `
-  //     <p>
+    {
+      slug: "how-to-choose-wordpress-themes-for-your-website",
+      id: 18,
+      related: [17, 3, 7],
+      metakeywords:
+        "Wordpress Themes, Wordpress Website, Ideal wordpress theme, Feature theme",
+      metadescription:
+        "Finding the ideal Wordpress theme that meets the requirements listed can be challenging, difficult, and time-consuming. Here are the instructions to choose the featured theme for your wordpress website.",
+      title: "How to Choose Wordpress Themes for your website",
+      description: `
+      <p>
   
-  //     Find out how to choose a WordPress theme for your company correctly. What to consider and how to choose wisely while choosing WordPress themes.<br/>
-  // This comprehensive guide will teach you all the factors you should consider before selecting or purchasing any theme.<br/>
-  // This should serve as your go-to guide for selecting WordPress themes.
+      Find out how to choose a WordPress theme for your company correctly. What to consider and how to choose wisely while choosing WordPress themes.<br/>
+  This comprehensive guide will teach you all the factors you should consider before selecting or purchasing any theme.<br/>
+  This should serve as your go-to guide for selecting WordPress themes.
   
       
-  //     </p>
-  //     `,
-  //     author: "Sheraz khan",
-  //     date: "11/22/2022",
-  //     thumbnail:
-  //       "assets/images/blog-images/wordpressThems.jpg",
-  //     src: "assets/images/blog-images/wordpressThems.jpg",
-  //     alt: "Wordpress Themes",
-  //     arr: [
-  //       {
-  //         heading: "Table of Contents",
-  //         desc1: `
-  //        <ul>
-  //        <a href="#C1" class="blogContent"><li>Why Is Choosing the Correct WordPress Theme Important?</li> </a>
-  //        <a href="#C2" class="blogContent"><li>Before You Select the Ideal WordPress Theme</li></a>
-  //        <a href="#C3" class="blogContent"><li>WordPress Theme Types</li></a>
-  //        <a href="#C4" class="blogContent"><li>Features That WordPress Themes Must Have</li></a>
-  //        <a href="#C5" class="blogContent"><li>Features in WordPress themes that are unnecessary</li></a>
-  //        <a href="#C6" class="blogContent"><li>The Final Verdict</li></a>
-  //        </ul>
-  //         `,
-  //       },
-  //       {
-  //         s_id: "C1",
-  //         heading: "Why Is Choosing the Correct WordPress Theme Important?",
-  //         desc1: `
+      </p>
+      `,
+      author: "Sheraz khan",
+      date: "11/22/2022",
+      thumbnail:
+        "assets/images/blog-images/wordpressThems.jpg",
+      src: "assets/images/blog-images/wordpressThems.jpg",
+      alt: "Wordpress Themes",
+      arr: [
+        {
+          heading: "Table of Contents",
+          desc1: `
+         <ul>
+         <a href="#C1" class="blogContent"><li>Why Is Choosing the Correct WordPress Theme Important?</li> </a>
+         <a href="#C2" class="blogContent"><li>Before You Select the Ideal WordPress Theme</li></a>
+         <a href="#C3" class="blogContent"><li>WordPress Theme Types</li></a>
+         <a href="#C4" class="blogContent"><li>Features That WordPress Themes Must Have</li></a>
+         <a href="#C5" class="blogContent"><li>Features in WordPress themes that are unnecessary</li></a>
+         <a href="#C6" class="blogContent"><li>The Final Verdict</li></a>
+         </ul>
+          `,
+        },
+        {
+          s_id: "C1",
+          heading: "Why Is Choosing the Correct WordPress Theme Important?",
+          desc1: `
           
-  //         <p>
-  //         WordPress may be used to build a wide range of websites. Several themes are geared toward various markets, including WooCommerce themes, membership site themes, and even multi-purpose themes that can be adjusted to match almost any website.<br/>
-  // There are several customization options available for many WordPress themes. These features may make it difficult for you to utilize different <a class="blogLinks" rel="dofollow" href="http://localhost:3000/blogs/how-to-choose-wordpress-themes-for-your-website">WordPress plugins</a> or change themes if they are not correctly programmed. You will either be forced to stick with that theme or engage a WordPress developer to assist you in upgrading.<br/>
-  // Conversely, some gorgeous WordPress themes might cause your website to load excessively slowly. Your website's speed can negatively impact user experience, search engine rankings, and other factors.<br/>
-  // Your WordPress site's theme serves as its public face and significantly impacts how visitors and search engines interpret it.<br/>
-  // Your objective should be to choose a WordPress theme with a layout that you like, efficient, and simple to personalize.
+          <p>
+          WordPress may be used to build a wide range of websites. Several themes are geared toward various markets, including WooCommerce themes, membership site themes, and even multi-purpose themes that can be adjusted to match almost any website.<br/>
+  There are several customization options available for many WordPress themes. These features may make it difficult for you to utilize different <a class="blogLinks" rel="dofollow" href="http://localhost:3000/blogs/how-to-choose-wordpress-themes-for-your-website">WordPress plugins</a> or change themes if they are not correctly programmed. You will either be forced to stick with that theme or engage a WordPress developer to assist you in upgrading.<br/>
+  Conversely, some gorgeous WordPress themes might cause your website to load excessively slowly. Your website's speed can negatively impact user experience, search engine rankings, and other factors.<br/>
+  Your WordPress site's theme serves as its public face and significantly impacts how visitors and search engines interpret it.<br/>
+  Your objective should be to choose a WordPress theme with a layout that you like, efficient, and simple to personalize.
   
-  //         </p>
+          </p>
           
-  //         `,
-  //       },
-  //       {
-  //         s_id: "C2",
-  //         heading: "Before You Select the Ideal WordPress Theme",
-  //         desc1: `
+          `,
+        },
+        {
+          s_id: "C2",
+          heading: "Before You Select the Ideal WordPress Theme",
+          desc1: `
           
-  //         <p>
-  //         To develop your WordPress site, you'll need to consider a few factors before deciding on the ideal WordPress theme.<br/>
-  // Since there are two versions of WordPress, you must first confirm that you are utilizing the correct version.<br/>
-  // WordPress.com is a constrained hosted platform. The well-known self-hosted version of WordPress.org is the next option.<br/>
-  // See our analysis of WordPress.com vs. WordPress.org to comprehend the differences.<br/>
-  // Because WordPress.org allows you the flexibility to build any website and gives you access to any WordPress theme and all of its capabilities straight out of the box, we strongly advise utilizing it.<br/>
-  // You'll also need your domain name and reliable WordPress hosting to get started.<br/>
-  // The majority of web hosts provide a one-click WordPress installation option. However, if you're using a hosting company, check out our installation instructions for WordPress, which cover all the leading hosting platforms.<br/>
-  // Let's review the most crucial factors when choosing the ideal WordPress theme.
-  
-  
-  //         </p>
-          
-  //         `,
-  //       },
-  //       {
-  //         headings: "1. Clean, uncluttered design",
-  //         desc1: `
-          
-  //         <p>
-  //         Many WordPress themes provide a variety of colors, intricate designs, eye-catching animations, sliders, and other features. Although you could occasionally require such items, you usually don't need all of the other features.<br/>
-  // Find a theme with a design layout that will assist your objective. It must have a pleasing appearance without sacrificing simplicity or utility.<br/>
-  // Make sure the presentation style for the theme is not excessively complex. The goal of your website is to emphasize essential information about your company while assisting customers in finding the information they require as fast as possible.<br/>
-  // A theme is not good if it looks impressive but does nothing to increase your consumer base or email newsletter subscribers.<br/>
-  // The overall goal is to keep the theme you select uncomplicated. In addition, wordPress plugins may be used to expand the functionality of your website.
-  //         </p>
-          
-  //         `,
-  //       },
-  //       {
-  //         headings: "2. Simple to Modify and Customize",
-  //         desc1: `
-          
-  //         <p>
-  //         It's essential to choose a simple WordPress theme to alter so you can give it a unique look and feel.<br/>
-  // Even if the prototype theme is precisely what you need, you'll probably still want to make certain modifications to the theme to make it reflect your brand. <br/>
-  // You should pick a theme that allows you to customize the elements of your site that you want to change because some themes also allow you to make more personalizations than others.<br/>
-  // In general, you'll have control over the widgets, custom logo, layout, font choice, and theme color combinations.
-  
-  //         </p>
-          
-  //         `,
-  //       },
-  //       {
-  //         headings:
-  //           "3. Responsive and appealing across all devices and screen sizes",
-  //         desc1: `
-          
-  //         <p>
-  //         Today, mobile devices account for more than 60% of website traffic. Of course, this number will vary based on the blogging subject you choose, but you must make sure your WordPress website is mobile-friendly.<br/>
-  // The <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/Wordpress-themes">vast majority of WordPress themes</a> will be responsive. This indicates that the theme will adapt its design to fit various screen sizes and devices.<br/>
-  // A WordPress theme's responsiveness does not always imply that it is an excellent example of responsive design.<br/>
-  // You should test your theme across all screen sizes. This is simple to perform; resize your browser window and see how the theme changes.<br/>
-  // To ensure it functions properly on all browsers, you should test your new WordPress theme in several browsers.
-  
-  //         </p>
-          
-  //         `,
-  //       },
-  //       {
-  //         headings: "4. It has a High-Quality Codebase and Regular Updates.",
-  //         desc1: `
-          
-  //         <p>
-  //         The core of your website will be your WordPress theme. In addition to the general design, ensure that it loads quickly and is updated frequently.<br/>
-  //         The size of your WordPress theme may significantly impact your speed and performance. Therefore, you should ensure that your theme is lightweight and has quick loading times because your loading speeds will affect everything, including your user experience and WordPress SEO.<br/>
-  //         You can always perform a website speed test to find out how quickly a theme loads. <br/>
-  //         You may efficiently perform a speed test after installing a free theme. With premium themes, you can do a speed test on the sample URL to get a sense of how quickly the theme loads.<br/>
-  //         A further consideration is the theme's most recent update date. Making sure your theme is updated is essential because WordPress is constantly getting updated.<br/>
-  //         An outdated theme might compromise WordPress security and interfere with other plugins on your website.<br/>
-  //         On the theme listing page at WordPress.org, you can find free WordPress themes of the most recent update date. Your theme should have recently updated and have a consistent update history.<br/>
-  //         You can always be sure that a premium theme has been updated to function with the most recent WordPress version.<br/>
-  //         The developer or development team will have additional resources to update the theme because you paid for it.
-          
-  //         </p>
-          
-  //         `,
-  //       },
-  //       {
-  //         headings: "5. Compatible with the necessary plugins",
-  //         desc1: `
-          
-  //         <p>
-  //         Ideally, selecting a WordPress theme will take care of the design, and WordPress plugins will handle any additional functions.<br/>
-  //         You may use WordPress plugins to build a contact form for your website, gather leads, host promotions, and much more.<br/>
-  //         Themes support most WordPress plugins. However, if your theme is poorly developed or if it adds too much functionality akin to plugins, you can encounter a conflict and get WordPress issues. Additionally, you would lose such functionalities if you ever wanted to switch themes or modify the appearance of your website.<br/>
-  //         Because of this, we advise selecting a basic WordPress theme and utilizing plugins to increase functionality.<br/>
-  //         There's probably a WordPress plugin that can assist you with whatever feature you ever wish to add to your website.
-          
-          
-  //         </p>
-          
-  //         `,
-  //       },
-  //       {
-  //         headings: "6. Has Positive Reviews and Ratings",
-  //         desc1: `
-          
-  //         <p>
-  //         The ratings and reviews left by users of a WordPress theme are another reliable sign of its quality. Visit the theme page on WordPress.org if you're looking for free themes to see user testimonials.<br/>
-  // If the theme is purchased from a third-party marketplace, user testimonials or customer reviews may be seen there.
-  
-  //         </p>
-          
-  //         `,
-  //       },
-  //       {
-  //         headings: "7. Has a responsive and proactive customer support team",
-  //         image1:
-  //           "assets/images/blog-images/wordpress-themes-for-website/section-1.jpg",
-  //         alt: "Wordpress Website",
-  //         desc1: `
-          
-  //         <p>
-  //         Even if you've invested time learning WordPress and possess some strong abilities, there may still be occasions when you require assistance.<br/>
-  // Depending on the theme you select, different support options will be available. For instance, while some free WordPress themes still give frequent support, many do not.<br/>
-  // If you're using a free theme, you may visit the WordPress.org listing page for the theme to see how active the support forum is.<br/>
-  // After purchase, most premium themes give 6 to 12 months of support and updates with the opportunity to renew.<br/>
-  // Most premium themes feature their help desk or customer service on their website.<br/>
-  // You should also review the theme documentation and available customer support alternatives. Finally, you may learn how to set up the theme and get the necessary answers from these tutorials.
-  
-  //         </p>
-          
-  //         `,
-  //       },
-  //       {
-  //         headings: "8. Suitable for search engine optimization",
-  //         desc1: `
-          
-  //         <p>
-  //         Your WordPress theme has a significant impact on how SEO-friendly your site is. The search engine rankings of your website might be impacted by improperly designed HTML, even when the theme is attractive.
-  // Beginners may find it challenging to study a theme's source code independently. For this reason, many WordPress theme developers will tell you that their themes are SEO-friendly.
-  // In terms of search engine rankings, you'll be moving in the right direction if your theme is lightweight and quick to load.
-  
-  //         </p>
-          
-  //         `,
-  //       },
-  //       {
-  //         headings: "9. Prepared for Multilingual Translation",
-  //         desc1: `
-          
-  //         <p>
-  //         WordPress runs more than 40% of the internet. As a result, many website owners wish to create a site in another language or provide content in another language for their target audience. A theme must be multilingual for this purpose.
-  //         </p>
-          
-  //         `,
-  //       },
-  //       {
-  //         s_id: "C3",
-  //         heading: "Types Of WordPress Themes",
-  //         desc1: `
-          
-  //         <p>
-  //         WordPress is a PHP-based content management system (CMS) that is free and open source. It has a GPLv2+ license and is maintained by the WordPress Foundation.<br/>
-  // WordPress uses the themes to refer to the plugin architecture and template system.<br/>
-  // You need to be aware of five main kinds of themes. These are what they are:
-  
-  //         </p>
-          
-  
-  //         <ul>
-  
-  //         <li><p><strong>Free Themes:</strong> These themes are available without charge but often have few features.</p> </li>
-  //         <li><p><strong>Freemium themes:</strong> Those that provide paid extensions as plugin upgrades to expand the capabilities of the base theme.</p> </li>
-  //         <li><p><strong>Premium Themes:</strong> These are themes that cost money and have every feature the seller is capable of offering.</p> </li>
-  //         <li><p><strong>Bespoke Themes:</strong> These themes are created by developers following client-supplied custom specifications.</p> </li>
-  //         <li><p><strong>Theme Frameworks:</strong> These themes serve as the building blocks for other themes.</p> </li>
-  
-  //         </ul>
+          <p>
+          To develop your WordPress site, you'll need to consider a few factors before deciding on the ideal WordPress theme.<br/>
+  Since there are two versions of WordPress, you must first confirm that you are utilizing the correct version.<br/>
+  WordPress.com is a constrained hosted platform. The well-known self-hosted version of WordPress.org is the next option.<br/>
+  See our analysis of WordPress.com vs. WordPress.org to comprehend the differences.<br/>
+  Because WordPress.org allows you the flexibility to build any website and gives you access to any WordPress theme and all of its capabilities straight out of the box, we strongly advise utilizing it.<br/>
+  You'll also need your domain name and reliable WordPress hosting to get started.<br/>
+  The majority of web hosts provide a one-click WordPress installation option. However, if you're using a hosting company, check out our installation instructions for WordPress, which cover all the leading hosting platforms.<br/>
+  Let's review the most crucial factors when choosing the ideal WordPress theme.
   
   
-  //         `,
-  //       },
-  //       {
-  //         s_id: "C4",
-  //         heading: "Features That WordPress Themes Must Have",
-  //         desc1: `
+          </p>
+          
+          `,
+        },
+        {
+          headings: "1. Clean, uncluttered design",
+          desc1: `
+          
+          <p>
+          Many WordPress themes provide a variety of colors, intricate designs, eye-catching animations, sliders, and other features. Although you could occasionally require such items, you usually don't need all of the other features.<br/>
+  Find a theme with a design layout that will assist your objective. It must have a pleasing appearance without sacrificing simplicity or utility.<br/>
+  Make sure the presentation style for the theme is not excessively complex. The goal of your website is to emphasize essential information about your company while assisting customers in finding the information they require as fast as possible.<br/>
+  A theme is not good if it looks impressive but does nothing to increase your consumer base or email newsletter subscribers.<br/>
+  The overall goal is to keep the theme you select uncomplicated. In addition, wordPress plugins may be used to expand the functionality of your website.
+          </p>
+          
+          `,
+        },
+        {
+          headings: "2. Simple to Modify and Customize",
+          desc1: `
+          
+          <p>
+          It's essential to choose a simple WordPress theme to alter so you can give it a unique look and feel.<br/>
+  Even if the prototype theme is precisely what you need, you'll probably still want to make certain modifications to the theme to make it reflect your brand. <br/>
+  You should pick a theme that allows you to customize the elements of your site that you want to change because some themes also allow you to make more personalizations than others.<br/>
+  In general, you'll have control over the widgets, custom logo, layout, font choice, and theme color combinations.
   
-  //         <ul>
+          </p>
+          
+          `,
+        },
+        {
+          headings:
+            "3. Responsive and appealing across all devices and screen sizes",
+          desc1: `
+          
+          <p>
+          Today, mobile devices account for more than 60% of website traffic. Of course, this number will vary based on the blogging subject you choose, but you must make sure your WordPress website is mobile-friendly.<br/>
+  The <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/Wordpress-themes">vast majority of WordPress themes</a> will be responsive. This indicates that the theme will adapt its design to fit various screen sizes and devices.<br/>
+  A WordPress theme's responsiveness does not always imply that it is an excellent example of responsive design.<br/>
+  You should test your theme across all screen sizes. This is simple to perform; resize your browser window and see how the theme changes.<br/>
+  To ensure it functions properly on all browsers, you should test your new WordPress theme in several browsers.
   
-  //         <li><p>Clutter-Free: The WordPress theme should operate without any additional plugins right out of the box. It shouldn't be dependent on anything.</p></li>
-  //         <li><p>Lightweight and Quick: The theme should load quickly and be small in file size. Additionally, speed should be flawlessly tuned.</p></li>
-  //         <li><p>Secure: The theme's source codes should be dependable and valid for use on production websites.</p></li>
-  //         <li><p>Fully Responsive: The theme should allow the website to display flawlessly on tablets, smartphones, and other mobile devices.</p></li>
-  //         <li><p>SEO Optimized: It should be search engine friendly and built to function with all SEO plugins.</p></li>
-  //         <li><p>Mobile-Friendly Menus: The theme's menus should be flawlessly mobile-friendly.</p></li>
-  //         <li><p>AMP Friendly: The theme should work with Google's Accelerated Mobile Pages (AMP) functionality if the website needs to use it.</p></li>
-  //         <li><p>Simple to Customize: It ought to make it simple for beginners without technical knowledge to modify the theme without having to go through any instructions.</p></li>
-  //         <li><p>Supports Page Builders: Many people rely on page builders because they are very helpful in developing pages. Because of this, every popular page builder should be entirely supported by the WordPress theme (not just offer compatibility with them). As a result, you may utilize them to design your website's header, content, and footer.</p></li>
-  //         <li><p>Accessibility Ready (WCAG - Level AA): This is now a legal requirement in many developed nations. In other words, persons with disabilities should be able to visit your website. By meeting the appropriate accessibility criteria, your theme should be usable straight out of the box.</p></li>
-  //         <li><p>E-commerce Ready: It's crucial to choose a theme that fully supports WooCommerce and e-commerce in general if you want to create an online store.</p></li>
-  //         <li><p>WPML and translation ready: It should include a prepared (.POT) file for translators. It should also work with the WordPress Multilingual Plugin (WPML).</p></li>
-  //         <li><p>RTL (right-to-left) languages Support: Right-to-left languages ought to be supported.</p></li>
-  //         <li><p>Validated with the most recent PHP version: The most recent PHP version should run without problems.</p></li>
-  //         <li><p>Validated on the most recent WordPress version: According to the coding specifications of WordPress.org, it should operate on the most current version of WordPress and be 100 percent valid.</p></li>
-  //         <li><p>It Provides Support: Every product you purchase needs to offer appropriate support in case you require assistance.</p></li>
-  //         <li><p>It Provides Updates: Because of how unstable the web is, updates are necessary for any software to continue functioning properly.</p></li>
-  //         <li><p>Adequately Documented: A product must be well documented to aid consumers and developers in learning more about it.</p></li>
-  //         <li><p>GPLv2 or GPLv3: <a href="https://wpengine.com/blog/dos-donts-wordpress-theme/" target="_blank"  class="blogLinks" rel="nofollow">Avoid using WordPress themes</a> that are not GPLv2 or GPLv3 licensed. Other products created for WordPress should be licensed under GPL in the same manner that WordPress is.</p></li>
-  //         <li><p>Fair Pricing Model: The cost should be precise and not limit your user privileges if you purchase a premium theme.</p></li>
+          </p>
+          
+          `,
+        },
+        {
+          headings: "4. It has a High-Quality Codebase and Regular Updates.",
+          desc1: `
+          
+          <p>
+          The core of your website will be your WordPress theme. In addition to the general design, ensure that it loads quickly and is updated frequently.<br/>
+          The size of your WordPress theme may significantly impact your speed and performance. Therefore, you should ensure that your theme is lightweight and has quick loading times because your loading speeds will affect everything, including your user experience and WordPress SEO.<br/>
+          You can always perform a website speed test to find out how quickly a theme loads. <br/>
+          You may efficiently perform a speed test after installing a free theme. With premium themes, you can do a speed test on the sample URL to get a sense of how quickly the theme loads.<br/>
+          A further consideration is the theme's most recent update date. Making sure your theme is updated is essential because WordPress is constantly getting updated.<br/>
+          An outdated theme might compromise WordPress security and interfere with other plugins on your website.<br/>
+          On the theme listing page at WordPress.org, you can find free WordPress themes of the most recent update date. Your theme should have recently updated and have a consistent update history.<br/>
+          You can always be sure that a premium theme has been updated to function with the most recent WordPress version.<br/>
+          The developer or development team will have additional resources to update the theme because you paid for it.
+          
+          </p>
+          
+          `,
+        },
+        {
+          headings: "5. Compatible with the necessary plugins",
+          desc1: `
+          
+          <p>
+          Ideally, selecting a WordPress theme will take care of the design, and WordPress plugins will handle any additional functions.<br/>
+          You may use WordPress plugins to build a contact form for your website, gather leads, host promotions, and much more.<br/>
+          Themes support most WordPress plugins. However, if your theme is poorly developed or if it adds too much functionality akin to plugins, you can encounter a conflict and get WordPress issues. Additionally, you would lose such functionalities if you ever wanted to switch themes or modify the appearance of your website.<br/>
+          Because of this, we advise selecting a basic WordPress theme and utilizing plugins to increase functionality.<br/>
+          There's probably a WordPress plugin that can assist you with whatever feature you ever wish to add to your website.
+          
+          
+          </p>
+          
+          `,
+        },
+        {
+          headings: "6. Has Positive Reviews and Ratings",
+          desc1: `
+          
+          <p>
+          The ratings and reviews left by users of a WordPress theme are another reliable sign of its quality. Visit the theme page on WordPress.org if you're looking for free themes to see user testimonials.<br/>
+  If the theme is purchased from a third-party marketplace, user testimonials or customer reviews may be seen there.
   
-  //         </ul>
+          </p>
+          
+          `,
+        },
+        {
+          headings: "7. Has a responsive and proactive customer support team",
+          image1:
+            "assets/images/blog-images/wordpress-themes-for-website/section-1.jpg",
+          alt: "Wordpress Website",
+          desc1: `
+          
+          <p>
+          Even if you've invested time learning WordPress and possess some strong abilities, there may still be occasions when you require assistance.<br/>
+  Depending on the theme you select, different support options will be available. For instance, while some free WordPress themes still give frequent support, many do not.<br/>
+  If you're using a free theme, you may visit the WordPress.org listing page for the theme to see how active the support forum is.<br/>
+  After purchase, most premium themes give 6 to 12 months of support and updates with the opportunity to renew.<br/>
+  Most premium themes feature their help desk or customer service on their website.<br/>
+  You should also review the theme documentation and available customer support alternatives. Finally, you may learn how to set up the theme and get the necessary answers from these tutorials.
+  
+          </p>
+          
+          `,
+        },
+        {
+          headings: "8. Suitable for search engine optimization",
+          desc1: `
+          
+          <p>
+          Your WordPress theme has a significant impact on how SEO-friendly your site is. The search engine rankings of your website might be impacted by improperly designed HTML, even when the theme is attractive.
+  Beginners may find it challenging to study a theme's source code independently. For this reason, many WordPress theme developers will tell you that their themes are SEO-friendly.
+  In terms of search engine rankings, you'll be moving in the right direction if your theme is lightweight and quick to load.
+  
+          </p>
+          
+          `,
+        },
+        {
+          headings: "9. Prepared for Multilingual Translation",
+          desc1: `
+          
+          <p>
+          WordPress runs more than 40% of the internet. As a result, many website owners wish to create a site in another language or provide content in another language for their target audience. A theme must be multilingual for this purpose.
+          </p>
+          
+          `,
+        },
+        {
+          s_id: "C3",
+          heading: "Types Of WordPress Themes",
+          desc1: `
+          
+          <p>
+          WordPress is a PHP-based content management system (CMS) that is free and open source. It has a GPLv2+ license and is maintained by the WordPress Foundation.<br/>
+  WordPress uses the themes to refer to the plugin architecture and template system.<br/>
+  You need to be aware of five main kinds of themes. These are what they are:
+  
+          </p>
+          
+  
+          <ul>
+  
+          <li><p><strong>Free Themes:</strong> These themes are available without charge but often have few features.</p> </li>
+          <li><p><strong>Freemium themes:</strong> Those that provide paid extensions as plugin upgrades to expand the capabilities of the base theme.</p> </li>
+          <li><p><strong>Premium Themes:</strong> These are themes that cost money and have every feature the seller is capable of offering.</p> </li>
+          <li><p><strong>Bespoke Themes:</strong> These themes are created by developers following client-supplied custom specifications.</p> </li>
+          <li><p><strong>Theme Frameworks:</strong> These themes serve as the building blocks for other themes.</p> </li>
+  
+          </ul>
   
   
-  //         `,
-  //       },
-  //       {
-  //         s_id: "C5",
-  //         heading: "Features in WordPress themes that are unnecessary",
-  //       },
-  //       {
-  //         headings: "1. Ready-Made Demonstrations:",
-  //         desc1: `
-  //         <p>
-  //         Full-Site demos increase the conversion rate for the vendors but not for you as the user.<br/>
-  // The demo site cannot be used in its current form when creating a website. Everything about it will need to be changed, including the content, pictures, and even the fonts and colors. Building it from scratch would be quicker for you than adapting a demo to fit your brand.<br/>
-  // All page builders provide one-page templates and layouts to assist you in creating your pages. When looking for a theme, elements like colors and images immediately catch your attention. These are probably the first things we see and feel since humans are visual beings. However, the truth is that they have no bearing on how your website is built. You won't be utilizing the stock pictures seen in a theme's demo or the pre-installed text or colors.<br/>
-  // As difficult as it may be, you must avoid focusing your choice on the visual example provided by the theme provider. It has always been quicker and more effective to develop it from scratch or blank one-page layouts. This guarantees the design's originality and distinctiveness. It is at least 2-3 times faster than using a full-size demo that has already been created, reusing it, and removing the generated useless components from the leftovers.
+          `,
+        },
+        {
+          s_id: "C4",
+          heading: "Features That WordPress Themes Must Have",
+          desc1: `
   
-  //         </p>
-  //         `,
-  //       },
-  //       {
-  //         headings: "2. Large-Scale Built-In Features",
-  //         desc1: `
-  //         <p>
-  //         Numerous themes include excessive built-in functions that you'll never use. Before choosing a theme, you must be aware of what you require. Sometimes using a plugin to acquire these functionalities is better and simpler. Also, be wary of themes that need you to install five or more plugins for them to function. The WordPress theme should operate independently by design.
-  //         </p>
-  //         `,
-  //       },
-  //       {
-  //         s_id: "C6",
-  //         heading: "The Final Verdict",
-  //         desc1: `
-  //         <p>
-  //         Finding the ideal theme that meets the requirements listed can be challenging, difficult, and time-consuming.<br/>
-  //         <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">shezitechsolution INC.</a> is a <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/who-we-are">website design and development company</a> providing facilities related to Wordpress Development. <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/contact-us">Contact us</a> if you want to hire a team of experienced developers or consultants.
+          <ul>
   
-  //         </p>
-  //         `,
-  //       },
-  //     ],
-  //   },
+          <li><p>Clutter-Free: The WordPress theme should operate without any additional plugins right out of the box. It shouldn't be dependent on anything.</p></li>
+          <li><p>Lightweight and Quick: The theme should load quickly and be small in file size. Additionally, speed should be flawlessly tuned.</p></li>
+          <li><p>Secure: The theme's source codes should be dependable and valid for use on production websites.</p></li>
+          <li><p>Fully Responsive: The theme should allow the website to display flawlessly on tablets, smartphones, and other mobile devices.</p></li>
+          <li><p>SEO Optimized: It should be search engine friendly and built to function with all SEO plugins.</p></li>
+          <li><p>Mobile-Friendly Menus: The theme's menus should be flawlessly mobile-friendly.</p></li>
+          <li><p>AMP Friendly: The theme should work with Google's Accelerated Mobile Pages (AMP) functionality if the website needs to use it.</p></li>
+          <li><p>Simple to Customize: It ought to make it simple for beginners without technical knowledge to modify the theme without having to go through any instructions.</p></li>
+          <li><p>Supports Page Builders: Many people rely on page builders because they are very helpful in developing pages. Because of this, every popular page builder should be entirely supported by the WordPress theme (not just offer compatibility with them). As a result, you may utilize them to design your website's header, content, and footer.</p></li>
+          <li><p>Accessibility Ready (WCAG - Level AA): This is now a legal requirement in many developed nations. In other words, persons with disabilities should be able to visit your website. By meeting the appropriate accessibility criteria, your theme should be usable straight out of the box.</p></li>
+          <li><p>E-commerce Ready: It's crucial to choose a theme that fully supports WooCommerce and e-commerce in general if you want to create an online store.</p></li>
+          <li><p>WPML and translation ready: It should include a prepared (.POT) file for translators. It should also work with the WordPress Multilingual Plugin (WPML).</p></li>
+          <li><p>RTL (right-to-left) languages Support: Right-to-left languages ought to be supported.</p></li>
+          <li><p>Validated with the most recent PHP version: The most recent PHP version should run without problems.</p></li>
+          <li><p>Validated on the most recent WordPress version: According to the coding specifications of WordPress.org, it should operate on the most current version of WordPress and be 100 percent valid.</p></li>
+          <li><p>It Provides Support: Every product you purchase needs to offer appropriate support in case you require assistance.</p></li>
+          <li><p>It Provides Updates: Because of how unstable the web is, updates are necessary for any software to continue functioning properly.</p></li>
+          <li><p>Adequately Documented: A product must be well documented to aid consumers and developers in learning more about it.</p></li>
+          <li><p>GPLv2 or GPLv3: <a href="https://wpengine.com/blog/dos-donts-wordpress-theme/" target="_blank"  class="blogLinks" rel="nofollow">Avoid using WordPress themes</a> that are not GPLv2 or GPLv3 licensed. Other products created for WordPress should be licensed under GPL in the same manner that WordPress is.</p></li>
+          <li><p>Fair Pricing Model: The cost should be precise and not limit your user privileges if you purchase a premium theme.</p></li>
+  
+          </ul>
+  
+  
+          `,
+        },
+        {
+          s_id: "C5",
+          heading: "Features in WordPress themes that are unnecessary",
+        },
+        {
+          headings: "1. Ready-Made Demonstrations:",
+          desc1: `
+          <p>
+          Full-Site demos increase the conversion rate for the vendors but not for you as the user.<br/>
+  The demo site cannot be used in its current form when creating a website. Everything about it will need to be changed, including the content, pictures, and even the fonts and colors. Building it from scratch would be quicker for you than adapting a demo to fit your brand.<br/>
+  All page builders provide one-page templates and layouts to assist you in creating your pages. When looking for a theme, elements like colors and images immediately catch your attention. These are probably the first things we see and feel since humans are visual beings. However, the truth is that they have no bearing on how your website is built. You won't be utilizing the stock pictures seen in a theme's demo or the pre-installed text or colors.<br/>
+  As difficult as it may be, you must avoid focusing your choice on the visual example provided by the theme provider. It has always been quicker and more effective to develop it from scratch or blank one-page layouts. This guarantees the design's originality and distinctiveness. It is at least 2-3 times faster than using a full-size demo that has already been created, reusing it, and removing the generated useless components from the leftovers.
+  
+          </p>
+          `,
+        },
+        {
+          headings: "2. Large-Scale Built-In Features",
+          desc1: `
+          <p>
+          Numerous themes include excessive built-in functions that you'll never use. Before choosing a theme, you must be aware of what you require. Sometimes using a plugin to acquire these functionalities is better and simpler. Also, be wary of themes that need you to install five or more plugins for them to function. The WordPress theme should operate independently by design.
+          </p>
+          `,
+        },
+        {
+          s_id: "C6",
+          heading: "The Final Verdict",
+          desc1: `
+          <p>
+          Finding the ideal theme that meets the requirements listed can be challenging, difficult, and time-consuming.<br/>
+          <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">shezitechsolution INC.</a> is a <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/who-we-are">website design and development company</a> providing facilities related to Wordpress Development. <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/contact-us">Contact us</a> if you want to hire a team of experienced developers or consultants.
+  
+          </p>
+          `,
+        },
+      ],
+    },
   //   {
   //     slug: "why-wordpress-is-best-content-management-system",
   //     id: 17,

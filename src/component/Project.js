@@ -34,7 +34,7 @@ const ProjectCard = ({
               Live Demo
             </a>
           )}
-          {repoLink && (
+          {/* {repoLink && (
             <a 
               href={repoLink} 
               target="_blank" 
@@ -43,7 +43,7 @@ const ProjectCard = ({
             >
               GitHub Repo
             </a>
-          )}
+          )} */}
         </div>
       </div>
     </div>

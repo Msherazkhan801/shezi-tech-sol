@@ -10,10 +10,6 @@ import {
   FaRocket,
   FaArrowRight,
   FaStar,
-  FaEye,
-  FaCalendarAlt,
-  FaGlobe,
-  FaChartLine
 } from "react-icons/fa";
 
 const categories = [
