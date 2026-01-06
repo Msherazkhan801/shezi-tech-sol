@@ -29,7 +29,7 @@ const jobOpenings = [
     category: "tech",
     description: "Build and maintain responsive web applications using React, Next.js and Tailwind CSS.",
     requirements: ["Next","React", "TypeScript", "CSS/SCSS"],
-    salary: "$60k - $90k",
+    salary: "Free/ Unpaid",
     experience: "fresh - 6 Month",
     featured: true
   },
