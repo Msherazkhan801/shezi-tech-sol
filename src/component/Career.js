@@ -21,18 +21,18 @@ import {
 } from "react-icons/fa";
 
 const jobOpenings = [
-  // {
-  //   id: 1,
-  //   title: "Frontend Developer",
-  //   location: "Remote",
-  //   type: "Full-time",
-  //   category: "tech",
-  //   description: "Build and maintain responsive web applications using React, Next.js and Tailwind CSS.",
-  //   requirements: ["3+ years React", "TypeScript", "CSS/SCSS"],
-  //   salary: "$60k - $90k",
-  //   experience: "3+ years",
-  //   featured: true
-  // },
+  {
+    id: 1,
+    title: "Frontend Developer",
+    location: "Remote",
+    type: "Full-time",
+    category: "tech",
+    description: "Build and maintain responsive web applications using React, Next.js and Tailwind CSS.",
+    requirements: ["Next","React", "TypeScript", "CSS/SCSS"],
+    salary: "$60k - $90k",
+    experience: "fresh - 6 Month",
+    featured: true
+  },
   // {
   //   id: 2,
   //   title: "Backend Developer",
