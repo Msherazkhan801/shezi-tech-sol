@@ -38,7 +38,7 @@ const BlogDetail = () => {
                   <li className={styles.socialMedia}>
                     <div className={styles.facebookBtn}>
                       <FacebookShareButton
-                        url={`https://www.facebook.com/knowledgethinker/`}
+                        url={`https://www.facebook.com/profile.php?id=61585756147687`}
                         quote={"Some random text"}
                         hashtag="#Shezitechsolution"
                       >

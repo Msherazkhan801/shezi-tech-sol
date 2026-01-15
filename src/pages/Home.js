@@ -14,7 +14,7 @@ import { Helmet } from 'react-helmet'
 
 const Home = () => {
   return (
-    <>
+    <div className='mt-8'> 
      <Helmet>
         <title>Shezi Tech Solution - Software & Tech Services</title>
         <meta name="description" content="Providing software development and tech tutorials." />
@@ -29,7 +29,7 @@ const Home = () => {
   <TestimonialSlider/>
   <ContactPage/>
   <LogoSlider/>
-  </>
+  </div>
   )
 }
 

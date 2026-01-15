@@ -183,7 +183,7 @@ const Hero = () => {
               </Link>
               
               <Link
-               to="/services"
+               to="/blogs"
                  onClick={() => window.scrollTo(0, 0)}
                 className="group border-2 border-blue-600 text-blue-600 font-semibold px-8 py-4 rounded-xl hover:bg-blue-50 transition-colors duration-300"
               >

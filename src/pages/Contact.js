@@ -91,7 +91,7 @@ const ContactPage = () => {
 
   return (
     <>
-      <section className="min-h-screen flex flex-col lg:flex-row bg-gradient-to-br from-white via-gray-50 to-blue-50 overflow-hidden">
+      <section className="min-h-screen flex flex-col lg:flex-row bg-gradient-to-br from-white via-gray-50 to-blue-50 overflow-hidden mt-20">
         {/* Floating Background Elements */}
         <div className="absolute inset-0 overflow-hidden">
           <motion.div

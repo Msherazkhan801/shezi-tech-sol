@@ -24,9 +24,11 @@ const BlogDetailPage = () => {
   }
 
   return (
-    <DocumentMeta {...meta}>
+    <div className="mt-32">
+    <DocumentMeta {...meta} >
       <BlogDetail />
     </DocumentMeta>
+    </div>
   );
 };
 

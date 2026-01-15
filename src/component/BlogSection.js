@@ -25,7 +25,7 @@ const BlogSection = ({ flag }) => {
   const blogsToShow =flag ? BlogsContents.slice(0, 3) : BlogsContents.slice(startIndex, startIndex + blogsPerPage);
 
   return (
-    <section className="bg-white py-20 px-4">
+    <section className="bg-white py-20 px-4 mt-8">
       <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}

@@ -1172,276 +1172,276 @@ const BlogsContents = [
         },
       ],
     },
-  //   {
-  //     slug: "why-wordpress-is-best-content-management-system",
-  //     id: 17,
-  //     related: [3, 4, 15],
-  //     metakeywords: "Content management system, WordPress",
-  //     metadescription:
-  //       "This content management system WordPress is the most popular CMS on the Internet. It is free to use and has a 40% market share. It is also SEO friendly.",
-  //     title: "28 reasons why WordPress is best content management system",
-  //     description: `
-  //     <p>
+    {
+      slug: "why-wordpress-is-best-content-management-system",
+      id: 17,
+      related: [3, 4, 15],
+      metakeywords: "Content management system, WordPress",
+      metadescription:
+        "This content management system WordPress is the most popular CMS on the Internet. It is free to use and has a 40% market share. It is also SEO friendly.",
+      title: "28 reasons why WordPress is best content management system",
+      description: `
+      <p>
   
-  //     WordPress powers over 1 billion websites of all shapes and sizes, adding fresh content every second. WordPress powers over 40% of all websites. Because of how easy-to-use and effective it is, this content management system(CMS) has rapidly become a favorite among both tech-savvy users and beginners. If you are considering building a website, you should use WordPress to launch a small company website if you are still hesitating. Here are the 28 reasons why WordPress is worthwhile.
+      WordPress powers over 1 billion websites of all shapes and sizes, adding fresh content every second. WordPress powers over 40% of all websites. Because of how easy-to-use and effective it is, this content management system(CMS) has rapidly become a favorite among both tech-savvy users and beginners. If you are considering building a website, you should use WordPress to launch a small company website if you are still hesitating. Here are the 28 reasons why WordPress is worthwhile.
       
-  //     </p>
-  //     `,
-  //     author: "Sheraz khan",
-  //     date: "11/21/2022",
-  //     thumbnail: "assets/images/blog-images/choong-wordpress.jpg",
-  //     src: "assets/images/blog-images/choong-wordpress.jpg",
-  //     alt: "Content Management System",
-  //     arr: [
-  //       {
-  //         headings: "1. It is free to use",
-  //         desc1: `
-  //         <p>
-  //         Whether it is a business website or a personal blog, WordPress low prices are a strong point in favor of using it. If your website begins to receive more traffic than you had planned, they won’t charge you more. In addition, WordPress is not only cost-free but also open source, allowing you to modify its source code in any way you see fit to personalize the functionality or appearance of your website.</p>        
-  //         `,
-  //       },
-  //       {
-  //         headings: "2. The CMS market is dominated by it.",
-  //         desc1: `
-  //         <p>
-  //         Not only is WordPress the most widely used content management system, but <a href="https://wpdatatables.com/content-management-system/" target="_blank"  class="blogLinks" rel="nofollow">it also outperforms</a> its competitors. Utilization data from W3Techs of all websites that employ a free content management system(CMS), 59.5% do so with WordPress CMS. Joomla is the second-most popular CMS, with a 5.9 percent market share.
-  //        </p>
-  //         `,
-  //       },
-  //       {
-  //         headings: "3. Ready to use",
-  //         desc1: `
-  //         <p>
-  //         WordPress is immediately usable after installation. No customization is needed besides the personalization you offer your theme and the plugins that interest you. Most of the features you seek, including the implementation of social media feeds, comments, etc., are included with the installation.
-  //         </p>
-  //         `,
-  //       },
-  //       {
-  //         headings: "4. Search engine friendly",
-  //         desc1: `
-  //         <p>
-  //         WordPress has SEO functionality built in by default. As a result, WordPress-powered websites often rank higher than non-WordPress powered ones in popular search engines like Google and Bing. This is because the structure of the content management system makes it simple for spiders to crawl. WordPress received a personal endorsement from Google’s Matt Cutts in 2009.</p>
-  //         `,
-  //       },
-  //       {
-  //         headings: "5. Adaptability",
-  //         desc1: `
-  //         <p>
-  //         The versatility of WordPress cannot be taken for granted. Whether using WordPress for a personal website, a small business, or an e-commerce website, the CMS is adaptable enough to meet all demands, thanks to its extensions and plugins.
-  //         </p>
-  //         `,
-  //       },
-  //       {
-  //         headings: "6. Secure and safe",
-  //         desc1: `
-  //         <p>
-  //         WordPress has attracted the attention of would-be hackers because of its popularity. The security precautions WordPress’s creators take to maintain the users’ confidence are another factor contributing to its popularity. The WordPress team regularly updates the content management system and the plugins that work with it. However, users should exercise caution and only download plugins from reliable sources, ideally when signed into WordPress directly.
-  //         </p>
-  //         `,
-  //       },
-  //       {
-  //         headings: "7. Customizable",
-  //         desc1: `
+      </p>
+      `,
+      author: "Sheraz khan",
+      date: "11/21/2022",
+      thumbnail: "assets/images/blog-images/choong-wordpress.jpg",
+      src: "assets/images/blog-images/choong-wordpress.jpg",
+      alt: "Content Management System",
+      arr: [
+        {
+          headings: "1. It is free to use",
+          desc1: `
+          <p>
+          Whether it is a business website or a personal blog, WordPress low prices are a strong point in favor of using it. If your website begins to receive more traffic than you had planned, they won’t charge you more. In addition, WordPress is not only cost-free but also open source, allowing you to modify its source code in any way you see fit to personalize the functionality or appearance of your website.</p>        
+          `,
+        },
+        {
+          headings: "2. The CMS market is dominated by it.",
+          desc1: `
+          <p>
+          Not only is WordPress the most widely used content management system, but <a href="https://wpdatatables.com/content-management-system/" target="_blank"  class="blogLinks" rel="nofollow">it also outperforms</a> its competitors. Utilization data from W3Techs of all websites that employ a free content management system(CMS), 59.5% do so with WordPress CMS. Joomla is the second-most popular CMS, with a 5.9 percent market share.
+         </p>
+          `,
+        },
+        {
+          headings: "3. Ready to use",
+          desc1: `
+          <p>
+          WordPress is immediately usable after installation. No customization is needed besides the personalization you offer your theme and the plugins that interest you. Most of the features you seek, including the implementation of social media feeds, comments, etc., are included with the installation.
+          </p>
+          `,
+        },
+        {
+          headings: "4. Search engine friendly",
+          desc1: `
+          <p>
+          WordPress has SEO functionality built in by default. As a result, WordPress-powered websites often rank higher than non-WordPress powered ones in popular search engines like Google and Bing. This is because the structure of the content management system makes it simple for spiders to crawl. WordPress received a personal endorsement from Google’s Matt Cutts in 2009.</p>
+          `,
+        },
+        {
+          headings: "5. Adaptability",
+          desc1: `
+          <p>
+          The versatility of WordPress cannot be taken for granted. Whether using WordPress for a personal website, a small business, or an e-commerce website, the CMS is adaptable enough to meet all demands, thanks to its extensions and plugins.
+          </p>
+          `,
+        },
+        {
+          headings: "6. Secure and safe",
+          desc1: `
+          <p>
+          WordPress has attracted the attention of would-be hackers because of its popularity. The security precautions WordPress’s creators take to maintain the users’ confidence are another factor contributing to its popularity. The WordPress team regularly updates the content management system and the plugins that work with it. However, users should exercise caution and only download plugins from reliable sources, ideally when signed into WordPress directly.
+          </p>
+          `,
+        },
+        {
+          headings: "7. Customizable",
+          desc1: `
   
   
-  //         <p>
+          <p>
           
-  //         With the option of customized theme, you can change the appearance of your WordPress theme in any way you like. For example, you can use one of the numerous themes it offers or purchase one of the many premium themes created by third parties. You can also add and expand a few features to customize how the website works and behaves.
+          With the option of customized theme, you can change the appearance of your WordPress theme in any way you like. For example, you can use one of the numerous themes it offers or purchase one of the many premium themes created by third parties. You can also add and expand a few features to customize how the website works and behaves.
   
-  //         </p>`,
-  //       },
-  //       {
-  //         headings: "8. Mobile friendly",
-  //         desc1: `
-  //        <p>
-  //        Websites that are not responsive to mobile devices are being penalized by Google as they appear lower in search results. To make your website accessible on tablets and smartphones, you don’t need to entirely rebuild it because the majority of WordPress themes are responsive by default. WordPress also allows you to see webpages in “mobile view” for non-responsive themes.
-  //        </p>
-  //     `,
-  //       },
-  //       {
-  //         headings: "9. Simple to use",
-  //         desc1: `
-  //         <p>
-  //         WordPress’s simplicity is another factor that makes it so popular. The content management system is extremely user-friendly and straightforward for beginners to understand. The platform is also very user-friendly.
-  //        </p>
-  //         `,
-  //       },
-  //       {
-  //         headings: "10. Sources of support",
-  //         desc1: `
-  //         <p>
-  //         There is a ton of support available online. Just perform a Google search with the terms “WordPress” and the issue you’re having, and you’ll likely find a wealth of information to assist you. And what’s even better is that they offer forums where users can help one another, fostering a vibrant community.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "11. Big name brands use it too.",
-  //         image1: "assets/images/blog-images/wordpress-why-use-it/CMS-3.jpg",
-  //         alt: "Content Management System",
-  //         desc1: `
-  //         <p>
-  //         Millions of people visit websites powered by WordPress every day, including Mashable, NASA, Mozilla, Coca-Cola, and many others. This means that WordPress should be regarded as a serious option for commercial websites.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "12. Multimedia support",
-  //         desc1: `
-  //         <p>
-  //         The websites with the most content tend to have the lowest bounce rates. Using HTML sections to add embeddable code or upload your video, WordPress makes it simple to incorporate video. To keep visitors interested, you can add audio files, graphics, and other media types.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "13. Integration",
-  //         desc1: `
-  //         <p>
-  //         WordPress interfaces with several well-liked 3rd party <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/wordpress-plugin-what-is-it-and-how-does-it-work">plugins to enhance your website</a>. There are several plugins known that make it simple to deliver email newsletters and campaigns. For an e-commerce website, some plugins let you take credit card payments.  Almost every type of feature you wish to add to your site can be accomplished using a plugin.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "14. Simple to manage",
-  //         desc1: `
-  //         <p>
-  //         WordPress has an automated updater built in for security purposes. Moreover, the content management system also alerts you when new plugins and upgrades are available. As a result, your website will constantly be protected by the latest platforms.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "15. More than just a blog",
-  //         desc1: `
-  //         <p>
-  //         WordPress was first designed as a blog platform, but nowadays, most people and companies use WordPress as a full-fledged website. Therefore, you may post regular blog posts using WordPress without having an impact on your static pages (such as the "Homepage" or "Our work" pages), as WordPress has both post and page structure.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "16. Social media integration",
-  //         desc1: `
-  //         <p>
-  //         Users of social networks can quickly leave comments on your website using those accounts. WordPress makes it simple for users to locate you on social media and communicate with you using accounts they’ve already created.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "17. Saves you money",
-  //         desc1: `
-  //         <p>
-  //         WordPress is cost-effective in more ways than one, not just because it is a free CMS. For instance, you can avoid hiring web engineers and developers because WordPress is open-source and user-friendly software.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "18. Numerous eCommerce solutions",
-  //         desc1: `
-  //         <p>
-  //         With so many e-commerce options available, WordPress users that work on business websites will be appropriately taken care of. Using well-known plugins like WP eCommerce and WooCommerce, you can turn your website into an online store.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "19. You're not committed to one hosting provider.",
-  //         desc1: `
-  //         <p>
-  //         Suppose you choose to change your hosting provider, WordPress experiences almost no delay during the whole process. Moving from one server to another is simple because all web hosts provide WordPress as a content management system(CMS).
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "20. It keeps your site looking fresh.",
-  //         desc1: `
-  //         <p>
-  //         With the help of any of the free or premium <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/Wordpress-themes">themes offered by WordPress</a> or on other websites you can alter the appearance of your website whenever you like. Giving your website a new look keeps your business updated in your clients minds.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "21. It is possible to utilize it as a subscription service.",
-  //         desc1: `
-  //         <p>
-  //         WordPress has plugins you can use to sell memberships if your website offers an ethereal service. In addition, you can generate income by charging visitors to view unique information on your website.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "22. Schedule posts",
-  //         desc1: `
-  //         <p>
-  //         You can easily schedule the content you publish using WordPress. By doing so, you can create all of your material at once and schedule its publication for precise periods across some days. This is particularly practical if most of your traffic comes within a specific time.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "23. Multi-user capability",
-  //         desc1: `
-  //         <p>
-  //         WordPress simplifies providing other users access responsibilities if you are not the only one managing your website. The "WordPress Codex" plugin performs the following functions, among others:
-  //         </p>
-  //         <ul>
-  //         <li><p>All website functionalities are accessible to the super administrator.</p></li>
-  //         <li><p>Access to administrative features is granted to the administrator.</p></li>
-  //         <li><p>Editors can publish their posts and edit or delete those of other users.</p></li>
-  //         <li><p>Posts can be edited and published by authors.</p></li>
-  //         <li><p>Contributors are allowed to edit and create new posts, but they are dependent on administrators to approve them.</p></li>
-  //         <li><p>Subscribers have access to their profiles and may change them.</p></li>
-  //         </ul>
+          </p>`,
+        },
+        {
+          headings: "8. Mobile friendly",
+          desc1: `
+         <p>
+         Websites that are not responsive to mobile devices are being penalized by Google as they appear lower in search results. To make your website accessible on tablets and smartphones, you don’t need to entirely rebuild it because the majority of WordPress themes are responsive by default. WordPress also allows you to see webpages in “mobile view” for non-responsive themes.
+         </p>
+      `,
+        },
+        {
+          headings: "9. Simple to use",
+          desc1: `
+          <p>
+          WordPress’s simplicity is another factor that makes it so popular. The content management system is extremely user-friendly and straightforward for beginners to understand. The platform is also very user-friendly.
+         </p>
+          `,
+        },
+        {
+          headings: "10. Sources of support",
+          desc1: `
+          <p>
+          There is a ton of support available online. Just perform a Google search with the terms “WordPress” and the issue you’re having, and you’ll likely find a wealth of information to assist you. And what’s even better is that they offer forums where users can help one another, fostering a vibrant community.
+         </p>
+         `,
+        },
+        {
+          headings: "11. Big name brands use it too.",
+          image1: "assets/images/blog-images/Proficient.png",
+          alt: "Content Management System",
+          desc1: `
+          <p>
+          Millions of people visit websites powered by WordPress every day, including Mashable, NASA, Mozilla, Coca-Cola, and many others. This means that WordPress should be regarded as a serious option for commercial websites.
+         </p>
+         `,
+        },
+        {
+          headings: "12. Multimedia support",
+          desc1: `
+          <p>
+          The websites with the most content tend to have the lowest bounce rates. Using HTML sections to add embeddable code or upload your video, WordPress makes it simple to incorporate video. To keep visitors interested, you can add audio files, graphics, and other media types.
+         </p>
+         `,
+        },
+        {
+          headings: "13. Integration",
+          desc1: `
+          <p>
+          WordPress interfaces with several well-liked 3rd party <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/wordpress-plugin-what-is-it-and-how-does-it-work">plugins to enhance your website</a>. There are several plugins known that make it simple to deliver email newsletters and campaigns. For an e-commerce website, some plugins let you take credit card payments.  Almost every type of feature you wish to add to your site can be accomplished using a plugin.
+         </p>
+         `,
+        },
+        {
+          headings: "14. Simple to manage",
+          desc1: `
+          <p>
+          WordPress has an automated updater built in for security purposes. Moreover, the content management system also alerts you when new plugins and upgrades are available. As a result, your website will constantly be protected by the latest platforms.
+         </p>
+         `,
+        },
+        {
+          headings: "15. More than just a blog",
+          desc1: `
+          <p>
+          WordPress was first designed as a blog platform, but nowadays, most people and companies use WordPress as a full-fledged website. Therefore, you may post regular blog posts using WordPress without having an impact on your static pages (such as the "Homepage" or "Our work" pages), as WordPress has both post and page structure.
+         </p>
+         `,
+        },
+        {
+          headings: "16. Social media integration",
+          desc1: `
+          <p>
+          Users of social networks can quickly leave comments on your website using those accounts. WordPress makes it simple for users to locate you on social media and communicate with you using accounts they’ve already created.
+         </p>
+         `,
+        },
+        {
+          headings: "17. Saves you money",
+          desc1: `
+          <p>
+          WordPress is cost-effective in more ways than one, not just because it is a free CMS. For instance, you can avoid hiring web engineers and developers because WordPress is open-source and user-friendly software.
+         </p>
+         `,
+        },
+        {
+          headings: "18. Numerous eCommerce solutions",
+          desc1: `
+          <p>
+          With so many e-commerce options available, WordPress users that work on business websites will be appropriately taken care of. Using well-known plugins like WP eCommerce and WooCommerce, you can turn your website into an online store.
+         </p>
+         `,
+        },
+        {
+          headings: "19. You're not committed to one hosting provider.",
+          desc1: `
+          <p>
+          Suppose you choose to change your hosting provider, WordPress experiences almost no delay during the whole process. Moving from one server to another is simple because all web hosts provide WordPress as a content management system(CMS).
+         </p>
+         `,
+        },
+        {
+          headings: "20. It keeps your site looking fresh.",
+          desc1: `
+          <p>
+          With the help of any of the free or premium <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/Wordpress-themes">themes offered by WordPress</a> or on other websites you can alter the appearance of your website whenever you like. Giving your website a new look keeps your business updated in your clients minds.
+         </p>
+         `,
+        },
+        {
+          headings: "21. It is possible to utilize it as a subscription service.",
+          desc1: `
+          <p>
+          WordPress has plugins you can use to sell memberships if your website offers an ethereal service. In addition, you can generate income by charging visitors to view unique information on your website.
+         </p>
+         `,
+        },
+        {
+          headings: "22. Schedule posts",
+          desc1: `
+          <p>
+          You can easily schedule the content you publish using WordPress. By doing so, you can create all of your material at once and schedule its publication for precise periods across some days. This is particularly practical if most of your traffic comes within a specific time.
+         </p>
+         `,
+        },
+        {
+          headings: "23. Multi-user capability",
+          desc1: `
+          <p>
+          WordPress simplifies providing other users access responsibilities if you are not the only one managing your website. The "WordPress Codex" plugin performs the following functions, among others:
+          </p>
+          <ul>
+          <li><p>All website functionalities are accessible to the super administrator.</p></li>
+          <li><p>Access to administrative features is granted to the administrator.</p></li>
+          <li><p>Editors can publish their posts and edit or delete those of other users.</p></li>
+          <li><p>Posts can be edited and published by authors.</p></li>
+          <li><p>Contributors are allowed to edit and create new posts, but they are dependent on administrators to approve them.</p></li>
+          <li><p>Subscribers have access to their profiles and may change them.</p></li>
+          </ul>
           
-  //        `,
-  //       },
-  //       {
-  //         headings: "24. Add testimonials",
-  //         image1: "assets/images/blog-images/wordpress-why-use-it/CMS-2.jpg",
-  //         alt: "Wordpress",
-  //         desc1: `
-  //         <p>
-  //         An excellent selling strategy includes customer reviews of your product and solutions on your website. Several plugins are readily accessible, making publishing consumer endorsements and reviews simple. Some of them include widgets that scroll through customer reviews of your company.
-  //         </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "25. Publish content immediately",
-  //         desc1: `
-  //         <p>
-  //         Nothing prevents you from instantly publishing every blog or insight if you lack patience! The WordPress app for smartphones and tablets makes it possible to submit posts virtually anywhere at any time.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "26. No need to learn HTML code",
-  //         desc1: `
-  //         <p>
-  //         Unless you want to, WYSIWYG (What-You-See-Is-What-You-Get) allows for the easy creation of pages and posts without the need for HTML knowledge.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "27. Universal Dashboard",
-  //         desc1: `
-  //         <p>
-  //         Confusion is eliminated because the WordPress interface appears the same on every platform. In addition, your dashboard can be expanded to include daily statistics, listings of recently posted content, most recent comments, and news alerts.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         headings: "28. WordPress keeps improving",
-  //         desc1: `
-  //         <p>
-  //         WordPress keeps adding new features over time due to its open source coding and creative developers. The CMS is constantly improving because the WordPress team is introducing new features, developers are making new plugins, or programmers have created new tools to personalize your website.
-  //        </p>
-  //        `,
-  //       },
-  //       {
-  //         heading: "The final verdict",
-  //         desc1: `
-  //         <p>
-  //         As you can see, WordPress is a robust content management system that you can use to create both personal and business websites. The 28 ideas listed above should have convinced you to switch to WordPress if you aren't already using it.<br/>
-  //         <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">shezitechsolution INC</a>. is a website design and development company providing facilities related to WordPress Development. <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/contact-us">Contact us</a> if you want to hire a team of experienced developers or consultants.
-  //        </p>
-  //        `,
-  //       },
-  //     ],
-  //   },
+         `,
+        },
+        {
+          headings: "24. Add testimonials",
+          image1: "assets/images/blog-images/wordpress-why-use-it/CMS-2.jpg",
+          alt: "Wordpress",
+          desc1: `
+          <p>
+          An excellent selling strategy includes customer reviews of your product and solutions on your website. Several plugins are readily accessible, making publishing consumer endorsements and reviews simple. Some of them include widgets that scroll through customer reviews of your company.
+          </p>
+         `,
+        },
+        {
+          headings: "25. Publish content immediately",
+          desc1: `
+          <p>
+          Nothing prevents you from instantly publishing every blog or insight if you lack patience! The WordPress app for smartphones and tablets makes it possible to submit posts virtually anywhere at any time.
+         </p>
+         `,
+        },
+        {
+          headings: "26. No need to learn HTML code",
+          desc1: `
+          <p>
+          Unless you want to, WYSIWYG (What-You-See-Is-What-You-Get) allows for the easy creation of pages and posts without the need for HTML knowledge.
+         </p>
+         `,
+        },
+        {
+          headings: "27. Universal Dashboard",
+          desc1: `
+          <p>
+          Confusion is eliminated because the WordPress interface appears the same on every platform. In addition, your dashboard can be expanded to include daily statistics, listings of recently posted content, most recent comments, and news alerts.
+         </p>
+         `,
+        },
+        {
+          headings: "28. WordPress keeps improving",
+          desc1: `
+          <p>
+          WordPress keeps adding new features over time due to its open source coding and creative developers. The CMS is constantly improving because the WordPress team is introducing new features, developers are making new plugins, or programmers have created new tools to personalize your website.
+         </p>
+         `,
+        },
+        {
+          heading: "The final verdict",
+          desc1: `
+          <p>
+          As you can see, WordPress is a robust content management system that you can use to create both personal and business websites. The 28 ideas listed above should have convinced you to switch to WordPress if you aren't already using it.<br/>
+          <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">shezitechsolution INC</a>. is a website design and development company providing facilities related to WordPress Development. <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/contact-us">Contact us</a> if you want to hire a team of experienced developers or consultants.
+         </p>
+         `,
+        },
+      ],
+    },
   //   {
   //     slug: "tips-to-make-best-web-design-for-your-website",
   //     id: 16,
