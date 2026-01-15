@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import  { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import ProjectCard from '../component/Project';
 import { ProjectsData } from '../utlis/ProjectData';

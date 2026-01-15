@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import { Link } from 'react-router-dom';
 import BlogsContents from '../utlis/BlogData';
 import Pagination from './pagination';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion } from 'framer-motion';
 import {FaBookOpen} from 'react-icons/fa';
 // Helper to strip HTML tags and truncate
 const truncateText = (htmlString, maxLength = 120) => {

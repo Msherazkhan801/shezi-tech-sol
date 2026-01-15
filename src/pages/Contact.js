@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import { motion } from "framer-motion";
 import contactImage from "../assets/images/contact-image.avif";
 import Form from "../component/Forms";
@@ -8,7 +8,6 @@ import {
   FaEnvelope, 
   FaMapMarkerAlt,
   FaClock,
-  FaPaperPlane,
   FaUser,
   FaCheckCircle,
   FaArrowRight

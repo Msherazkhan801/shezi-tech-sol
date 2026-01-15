@@ -1,16 +1,15 @@
-import React, { useState, useEffect } from "react";
+import  { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Link, useLocation } from "react-router-dom";
 import Logo from "../assets/images/Logo2.png";
-import { FiMenu, FiX, FiChevronDown, FiArrowRight } from "react-icons/fi";
+import {  FiChevronDown, FiArrowRight } from "react-icons/fi";
 import {
   FaHome,
   FaUser,
   FaCode,
   FaBlog,
   FaBriefcase,
-  FaPhone,
-  FaRocket,
+
   FaChartLine,
   FaGraduationCap,
 } from "react-icons/fa";

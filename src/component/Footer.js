@@ -3,11 +3,9 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Link, useLocation } from 'react-router-dom';
 import {
   FaFacebookF,
-  FaTwitter,
   FaLinkedinIn,
   FaInstagram,
   FaYoutube,
-  FaArrowUp,
   FaEnvelope,
   FaPhone,
   FaMapMarkerAlt,
@@ -77,13 +75,6 @@ const Footer = () => {
     { icon: <FaYoutube />, label: "YouTube", color: "hover:bg-red-600", href: "https://www.youtube.com/channel/UCjlRubK7n59ujp97X2KXZMw" },
   ];
 
-  const companyLinks = [
-    { path: "/about", label: "About Us" },
-    { path: "/services", label: "Our Services" },
-    { path: "/projects", label: "Our Projects" },
-    { path: "/careers", label: "Careers" },
-    { path: "/contact", label: "Contact Us" },
-  ];
 
   const serviceLinks = [
     { path: "/services#web", label: "Web Development" },
