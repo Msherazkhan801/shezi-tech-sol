@@ -1442,639 +1442,639 @@ const BlogsContents = [
         },
       ],
     },
-  //   {
-  //     slug: "tips-to-make-best-web-design-for-your-website",
-  //     id: 16,
-  //     related: [1, 9, 13],
-  //     metakeywords: "Best web design, Web Design Company, Web Design, Best Web",
-  //     metadescription:
-  //       "Web design is an essential part of any website presence. Check your final site design for these ten essentials, whether you work with a web design company or do it yourself.",
-  //     title: "Tips to make the best web design for your website",
-  //     description: `
-  //     <p>
+    {
+      slug: "best-web-design-for-your-website",
+      id: 16,
+      related: [1, 9, 13],
+      metakeywords: "Best web design, Web Design Company, Web Design, Best Web",
+      metadescription:
+        "Web design is an essential part of any website presence. Check your final site design for these ten essentials, whether you work with a web design company or do it yourself.",
+      title: "Tips to make the best web design for your website",
+      description: `
+      <p>
   
-  //     Let’s be clear: learning web design is a difficult skill that can take a lifetime. As the technology develops this profession is getting difficult and challenging, day by day. Almost every business administration needs to deal with web design, but only design specialists correctly understand the skill. Learn the fundamentals of web design if you want to develop a great website so you can express your ideas. You still need prior knowledge to differentiate a skilled web design company from a substandard one and describe what you need them to execute.<br/>
-  // This article will help you thoroughly understand the essentials of designing. Here are the top 10 <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/steps-Involved-in-web-design-and-development-life-cycle">web design guidelines</a> you should be aware of, broken down into three categories: composition, aesthetics, and functionality (with some helpful dos and don’ts). Check your site’s final design with these ten points, whether you work with a <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">web design company<a/> or do it yourself.
+      Let’s be clear: learning web design is a difficult skill that can take a lifetime. As the technology develops this profession is getting difficult and challenging, day by day. Almost every business administration needs to deal with web design, but only design specialists correctly understand the skill. Learn the fundamentals of web design if you want to develop a great website so you can express your ideas. You still need prior knowledge to differentiate a skilled web design company from a substandard one and describe what you need them to execute.<br/>
+  This article will help you thoroughly understand the essentials of designing. Here are the top 10 <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/steps-Involved-in-web-design-and-development-life-cycle">web design guidelines</a> you should be aware of, broken down into three categories: composition, aesthetics, and functionality (with some helpful dos and don’ts). Check your site’s final design with these ten points, whether you work with a <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">web design company<a/> or do it yourself.
   
-  //     </p>
-  //     `,
-  //     author: "Sheraz khan",
-  //     date: "11/16/2022",
-  //     thumbnail:
-  //       "assets/images/blog-images/website-dev.jpg",
-  //     src: "assets/images/blog-images/website-dev.jpg",
-  //     alt: "Best web design",
-  //     arr: [
-  //       {
-  //         heading: "Table of Contents",
-  //         desc1: `
-  //        <ul>
-  //        <a href="#C1" class="blogContent"><li>Composition</li> </a>
-  //        <a href="#C2" class="blogContent"><li>Aesthetics</li></a>
-  //        <a href="#C3" class="blogContent"><li>Functionality</li></a>
-  //        <a href="#C4" class="blogContent"><li>The Final Verdict</li></a>
-  //        </ul>
-  //         `,
-  //       },
-  //       {
-  //         heading: `Composition`,
-  //         s_id: "C1",
-  //       },
-  //       {
-  //         headings: "1. Remove all the fluff",
-  //         desc1: `
-  //         <p>
-  //         Let’s start by discussing one of web design’s most frequent blunders: A congested screen. Most website owners have a wishlist of everything they want to include, and because they don’t know any better, they dump it all on the screen, all on one page.<br/>
-  // Essentially, any feature you include in your web design dilutes all the others. A user loses focus and a seamless experience if too many distractions are present. In contrast, introducing the essential components has more impact since they don’t have to compete for attention.<br/>
-  // <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/web-design-and-development-definition-elements-and-tips">The best web design must have a clear path<a/> or pathways for the user to follow to be effective. There are several approaches to accomplishing this. Still, the initial step is always to make room for high-priority components by eliminating low-priority ones.<br/>
-  //         </p>
+      </p>
+      `,
+      author: "Sheraz khan",
+      date: "11/16/2022",
+      thumbnail:
+        "assets/images/blog-images/website-dev.jpg",
+      src: "assets/images/blog-images/website-dev.jpg",
+      alt: "Best web design",
+      arr: [
+        {
+          heading: "Table of Contents",
+          desc1: `
+         <ul>
+         <a href="#C1" class="blogContent"><li>Composition</li> </a>
+         <a href="#C2" class="blogContent"><li>Aesthetics</li></a>
+         <a href="#C3" class="blogContent"><li>Functionality</li></a>
+         <a href="#C4" class="blogContent"><li>The Final Verdict</li></a>
+         </ul>
+          `,
+        },
+        {
+          heading: `Composition`,
+          s_id: "C1",
+        },
+        {
+          headings: "1. Remove all the fluff",
+          desc1: `
+          <p>
+          Let’s start by discussing one of web design’s most frequent blunders: A congested screen. Most website owners have a wishlist of everything they want to include, and because they don’t know any better, they dump it all on the screen, all on one page.<br/>
+  Essentially, any feature you include in your web design dilutes all the others. A user loses focus and a seamless experience if too many distractions are present. In contrast, introducing the essential components has more impact since they don’t have to compete for attention.<br/>
+  <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/web-design-and-development-definition-elements-and-tips">The best web design must have a clear path<a/> or pathways for the user to follow to be effective. There are several approaches to accomplishing this. Still, the initial step is always to make room for high-priority components by eliminating low-priority ones.<br/>
+          </p>
   
-  //         <h5><strong>Needs:</strong></h5>
-  //         <p>
-  //         Reduce the weight. Check your designs for the necessities. Remove a component if it doesn’t enhance or improve the overall experience. Move an element to another page if it can exist there.<br/>
-  // Put a cap on pull-out menus. Reduce congestion with pull-out menus, but don’t just brush your issues under the rug. Try to keep these concealed menus to a maximum of seven items.
-  //         <p/>
+          <h5><strong>Needs:</strong></h5>
+          <p>
+          Reduce the weight. Check your designs for the necessities. Remove a component if it doesn’t enhance or improve the overall experience. Move an element to another page if it can exist there.<br/>
+  Put a cap on pull-out menus. Reduce congestion with pull-out menus, but don’t just brush your issues under the rug. Try to keep these concealed menus to a maximum of seven items.
+          <p/>
   
-  //         <h5><strong>Needn't:</strong></h5>
+          <h5><strong>Needn't:</strong></h5>
   
-  //         <p>
-  //         Implement sidebars. New visitors are unlikely to use them. Moreover, you should simplify your navigation structure if all the choices don’t fit your main navigation menu.<br/>
-  //         Apply sliders. Sliders in motion or constantly changing their graphics make it harder for you to manage what your users view. It’s preferable only ever to display your finest graphics.
+          <p>
+          Implement sidebars. New visitors are unlikely to use them. Moreover, you should simplify your navigation structure if all the choices don’t fit your main navigation menu.<br/>
+          Apply sliders. Sliders in motion or constantly changing their graphics make it harder for you to manage what your users view. It’s preferable only ever to display your finest graphics.
   
-  //         </p>
+          </p>
           
   
-  //         `,
-  //       },
-  //       {
-  //         headings: "2. Leave plenty of white space.",
-  //         desc1: `
-  //         <p>
-  //         How will you fill all that space now that the clutter has been removed? Could we advise leaving it empty?<br/>
-  // White space, commonly referred to as "negative space," is the empty area around a page's content and functional parts. White space's primary purpose is to create breathing room for your design by minimizing the quantity of text and functional items that people view at once.<br/>
-  //         </p>
+          `,
+        },
+        {
+          headings: "2. Leave plenty of white space.",
+          desc1: `
+          <p>
+          How will you fill all that space now that the clutter has been removed? Could we advise leaving it empty?<br/>
+  White space, commonly referred to as "negative space," is the empty area around a page's content and functional parts. White space's primary purpose is to create breathing room for your design by minimizing the quantity of text and functional items that people view at once.<br/>
+          </p>
   
-  //         <h5><strong>Needs:</strong></h5>
-  //         <p>
-  //         Include white space all around your essential elements. Things attract more attention if that is surrounded by more negative space.<br/>
-  // Avoid dull layouts with auxiliary graphics. Other aesthetic components, such as color or font, might visually fill in the gaps when there is a lot of negative space.
-  //         <p/>
+          <h5><strong>Needs:</strong></h5>
+          <p>
+          Include white space all around your essential elements. Things attract more attention if that is surrounded by more negative space.<br/>
+  Avoid dull layouts with auxiliary graphics. Other aesthetic components, such as color or font, might visually fill in the gaps when there is a lot of negative space.
+          <p/>
   
-  //         <h5><strong>Needn't:</strong></h5>
+          <h5><strong>Needn't:</strong></h5>
   
-  //         <p>
+          <p>
           
-  //         Only use negative space to surround components that are significant priorities. For example, if conversions are your aim, don’t use your logo or sales pitch as negative space around your email or sales CTA.<br/>
-  // Use patterned backgrounds. Backgrounds are intended to be undetectable. Therefore, a lack of negative space in your background will draw focus away from your primary components.
+          Only use negative space to surround components that are significant priorities. For example, if conversions are your aim, don’t use your logo or sales pitch as negative space around your email or sales CTA.<br/>
+  Use patterned backgrounds. Backgrounds are intended to be undetectable. Therefore, a lack of negative space in your background will draw focus away from your primary components.
   
-  //         </p>
-          
-  
-  //         `,
-  //       },
-  //       {
-  //         headings: "3. Use visual hierarchy to direct your user's attention.",
-  //         desc1: `
-  //         <p>
-  //         What do you think about “visual hierarchy” if using a technical phrase like “negative space” didn’t bother you? It involves influencing the components your user sees first, second or last by employing visual elements like size or location. For example, it is a good idea to include a large, strong title at the top of the page and little legal information at the bottom.<br/>
-  // The way you add content to your website matters just as much as what you put into it. Say CTA buttons, for example. They must be strategically placed, given vivid colors to stand out, and suggestive content to promote clicks. It is not enough for them to be present. Size, color, positioning, and negative space are all variables that can either promote or reduce engagement.<br/>
-          
-  //         </p>
-  
-  //         <h5><strong>Needs:</strong></h5>
-  //         <p>
-  //         Scannability-focused design: The majority of people don’t read an entire page. Even on a page they don’t see everything. Make your top priorities difficult to ignore. <br/>
-  // Compare several options: Visual hierarchy can be challenging, but experimentation is sometimes the best course of action. Make a couple of distinct “mockups” and present them to fresh eyes to get their feedback.
-          
-  //         <p/>
-  
-  //         <h5><strong>Needn't:</strong></h5>
-  
-  //         <p>
-          
-  //         Avoid incompatible elements: Order is the basis of visual hierarchy: first this, then that. Ensure that each of your key elements receives a different focus so that your consumers’ eyes can easily follow a unique path.<br/>
-  // To the hilt: The opposite outcome can be achieved by making items overly large or by using an unnecessary color contrast. Use no more than necessary in terms of attention-grabbing strategies.
-  //         </p>
+          </p>
           
   
-  //         `,
-  //       },
-  //       {
-  //         heading: "Aesthetics",
-  //         s_id: "C2",
-  //         image1:
-  //           "assets/images/blog-images/tips-for-best-web-design/section2.jpg",
-  //         alt: "Web Design Company",
-  //       },
-  //       {
-  //         headings: "4. Make wise color selections.",
-  //         desc1: `
-  //         <p>
-  //         Now that you are familiar with principles, let’s discuss the necessities of suitable composition. Color is a strong tool for any designer, so let’s start there.<br/>
-  // One reason is that each color generates a particular emotion. For example, an exhilarating red might work better than a tranquil blue if your brand identity is enthusiastic and energizing. So, in addition to picking the colors that best reflect your business, you must also know how to employ them by playing contrasting hues off to one another to create a visual hierarchy. 
-  //         </p>
+          `,
+        },
+        {
+          headings: "3. Use visual hierarchy to direct your user's attention.",
+          desc1: `
+          <p>
+          What do you think about “visual hierarchy” if using a technical phrase like “negative space” didn’t bother you? It involves influencing the components your user sees first, second or last by employing visual elements like size or location. For example, it is a good idea to include a large, strong title at the top of the page and little legal information at the bottom.<br/>
+  The way you add content to your website matters just as much as what you put into it. Say CTA buttons, for example. They must be strategically placed, given vivid colors to stand out, and suggestive content to promote clicks. It is not enough for them to be present. Size, color, positioning, and negative space are all variables that can either promote or reduce engagement.<br/>
+          
+          </p>
   
-  //         <h5><strong>Needs:</strong></h5>
-  //         <p>
-  //         Establish a hierarchy of colors. Use a single color for your essential elements, highlights, and other less significant elements (background).<br/>
-  // Keep your themes consistent. Once you’ve chosen a color scheme, stick to it. Consistently use the same background and color scheme across the website.
+          <h5><strong>Needs:</strong></h5>
+          <p>
+          Scannability-focused design: The majority of people don’t read an entire page. Even on a page they don’t see everything. Make your top priorities difficult to ignore. <br/>
+  Compare several options: Visual hierarchy can be challenging, but experimentation is sometimes the best course of action. Make a couple of distinct “mockups” and present them to fresh eyes to get their feedback.
+          
+          <p/>
   
-  //         <p/>
+          <h5><strong>Needn't:</strong></h5>
   
-  //         <h5><strong>Needn't:</strong></h5>
-  
-  //         <p>
-  //         Colors have a great effect on marketing of your website or product. Do some research on color theory, and don’t blow an essential chance for branding your product.<br/>
-  // Color Conflict: It’s not enough to choose colors logically; they also need to complement one another. For example, even while red and purple convey your brand effectively, the impact is undermined if the colors clash and result in a poor end-product.
-  
-  //         </p>
+          <p>
+          
+          Avoid incompatible elements: Order is the basis of visual hierarchy: first this, then that. Ensure that each of your key elements receives a different focus so that your consumers’ eyes can easily follow a unique path.<br/>
+  To the hilt: The opposite outcome can be achieved by making items overly large or by using an unnecessary color contrast. Use no more than necessary in terms of attention-grabbing strategies.
+          </p>
           
   
-  //         `,
-  //       },
-  //       {
-  //         headings: "5. Spend money wisely on photos.",
-  //         desc1: `
-  //         <p>
-  //         Using real-life photos in your website design is optional, but if you do, be sure you do it properly. Your company goals can be advanced through compelling, relevant images but you can be held back by low quality images.<br/>
-  //         Many of the same rules apply to photography for best web design. For Example, a magnificent photograph displayed at an art museum can be just as stunning when shown online, but the tone, style, and themes must match.
-  //         </p>
+          `,
+        },
+        {
+          heading: "Aesthetics",
+          s_id: "C2",
+          image1:
+            "assets/images/blog-images/tips-for-best-web-design/section2.jpg",
+          alt: "Web Design Company",
+        },
+        {
+          headings: "4. Make wise color selections.",
+          desc1: `
+          <p>
+          Now that you are familiar with principles, let’s discuss the necessities of suitable composition. Color is a strong tool for any designer, so let’s start there.<br/>
+  One reason is that each color generates a particular emotion. For example, an exhilarating red might work better than a tranquil blue if your brand identity is enthusiastic and energizing. So, in addition to picking the colors that best reflect your business, you must also know how to employ them by playing contrasting hues off to one another to create a visual hierarchy. 
+          </p>
   
-  //         <h5><strong>Needs:</strong></h5>
-  //         <p>
-          
-  //         Employ actual people. Users are more likely to interact with images of people, particularly images of your real employees or clients.<br/>
-  // Create a positive environment: Use the kind of photography that best suits the purpose of your website, as there are virtually endless possibilities to choose from. For example, use excited persons in your website’s images if you want them to be upbeat.
-  //         <p/>
+          <h5><strong>Needs:</strong></h5>
+          <p>
+          Establish a hierarchy of colors. Use a single color for your essential elements, highlights, and other less significant elements (background).<br/>
+  Keep your themes consistent. Once you’ve chosen a color scheme, stick to it. Consistently use the same background and color scheme across the website.
   
-  //         <h5><strong>Needn't:</strong></h5>
+          <p/>
   
-  //         <p>
-  //         Use stock images. Stock images can be helpful but only if the user is unaware they are stock images.<br/>
-  // Reduce the resolution: Low resolution imagery makes a brand appear failed in this modern era. You should use a compressor to compress big file sizes.
-          
-  //         </p>
-          
+          <h5><strong>Needn't:</strong></h5>
   
-  //         `,
-  //       },
-  //       {
-  //         headings: "6. Use typography to strengthen your brand.",
-  //         desc1: `
-  //         <p>
-  //         Although the words you or your copywriter select have great impact, you can also increase their impact by giving them the right aesthetic.<br/>
-  // In particular, font size, text color, style, and the distance between letters, words, and lines are all included in fonts— each of these influences the visual hierarchy and perceptions of your brand.
-  //         </p>
+          <p>
+          Colors have a great effect on marketing of your website or product. Do some research on color theory, and don’t blow an essential chance for branding your product.<br/>
+  Color Conflict: It’s not enough to choose colors logically; they also need to complement one another. For example, even while red and purple convey your brand effectively, the impact is undermined if the colors clash and result in a poor end-product.
   
-  //         <h5><strong>Needs:</strong></h5>
-  //         <p>
-  //         Make use of online fonts. Remember to stick with approved “web safe fonts” that can be viewed on most devices and computer displays despite the wide range of fonts available.<br/>
-  // Look into the different types of fonts: Are you familiar with the Serif fonts? The fonts are complex so familiarize yourself with the five types of fonts.<p/>
-  
-  //         <h5><strong>Needn't:</strong></h5>
-  
-  //         <p>
-  //         Use of vibrant fonts: When used excessively, flashy, attention grabbing fonts become too prominent yet might be useful for titles or isolated words.<br/>
-  // Using the same font for everything: Use a distinct set of headers, subheaders, and body text, and use these sets consistently throughout the whole website.
-          
-  //         </p>
+          </p>
           
   
-  //         `,
-  //       },
-  //       {
-  //         heading: "Functionality",
-  //         s_id: "C3",
-  //       },
-  //       {
-  //         headings: "7. Navigation becomes easier.",
-  //         image1:
-  //           "assets/images/blog-images/tips-for-best-web-design/section3.jpg",
-  //         alt: "Web design",
-  //         desc1: `
+          `,
+        },
+        {
+          headings: "5. Spend money wisely on photos.",
+          desc1: `
+          <p>
+          Using real-life photos in your website design is optional, but if you do, be sure you do it properly. Your company goals can be advanced through compelling, relevant images but you can be held back by low quality images.<br/>
+          Many of the same rules apply to photography for best web design. For Example, a magnificent photograph displayed at an art museum can be just as stunning when shown online, but the tone, style, and themes must match.
+          </p>
   
-  
-  //         <p>
+          <h5><strong>Needs:</strong></h5>
+          <p>
           
-  //         Now turning towards functionality, or what your site can do. The topic of functionality should always begin with navigation, which is the basis of every website.<br/>
-  // Everybody uses a different strategy to navigate the website. The navigation of a successful website should be easy and tailored to the users it is intended for; the fewer users have to think about it, the better.<br/>
-  // However, it is not an easy task. What gets its page, what is moved to a subpage, and what is and is not included in the main menu are the first things to consider when analyzing how the entire website is arranged. Before the web design process actually begins, <a href="https://www.wix.com/blog/2017/10/5-design-tips-for-a-professional-site/" target="_blank"  class="blogLinks" rel="nofollow">each issue must be addressed.<a/><br/>
-  // The next step is to build your navigation that is simple for visitors to use.
+          Employ actual people. Users are more likely to interact with images of people, particularly images of your real employees or clients.<br/>
+  Create a positive environment: Use the kind of photography that best suits the purpose of your website, as there are virtually endless possibilities to choose from. For example, use excited persons in your website’s images if you want them to be upbeat.
+          <p/>
   
-  //         </p>`,
-  //       },
-  //       {
-  //         desc1: `
-  //         <h5><strong>Needs:</strong></h5>
-  //         <p>
-  //         Make an effort to balance the variety of possibilities. Although you want to provide your customers with many options, you don’t want to overburden them. Put these competing objectives into balance by structuring your page category layout.<br/>
-  // Build your navigation around actual user data. For example, some customers might search under “clothing” and others under “accessories” while buying shoes online.<br/>
-  // Build your navigation design on how your users think. If it’s dark out, you can still run some user testing.</p>
-  //         <h5><strong>Needn't:</strong></h5>
+          <h5><strong>Needn't:</strong></h5>
   
-  //         <p>
-  //         Try out some odd forms. While some fresh and brilliant ideas might come from experimenting with limits, it is not advised for something as important as navigation. Instead, stick to the traditions that users are already familiar with like the top header navigation menu, the logo connected to the homepage, the search bar with the magnifying glass symbol, etc.
-  //         </p>
-  //         `,
-  //       },
-  //       {
-  //         headings: "8. Give mobile priority.",
+          <p>
+          Use stock images. Stock images can be helpful but only if the user is unaware they are stock images.<br/>
+  Reduce the resolution: Low resolution imagery makes a brand appear failed in this modern era. You should use a compressor to compress big file sizes.
+          
+          </p>
+          
   
-  //         desc1: `
-  //        <p>
+          `,
+        },
+        {
+          headings: "6. Use typography to strengthen your brand.",
+          desc1: `
+          <p>
+          Although the words you or your copywriter select have great impact, you can also increase their impact by giving them the right aesthetic.<br/>
+  In particular, font size, text color, style, and the distance between letters, words, and lines are all included in fonts— each of these influences the visual hierarchy and perceptions of your brand.
+          </p>
+  
+          <h5><strong>Needs:</strong></h5>
+          <p>
+          Make use of online fonts. Remember to stick with approved “web safe fonts” that can be viewed on most devices and computer displays despite the wide range of fonts available.<br/>
+  Look into the different types of fonts: Are you familiar with the Serif fonts? The fonts are complex so familiarize yourself with the five types of fonts.<p/>
+  
+          <h5><strong>Needn't:</strong></h5>
+  
+          <p>
+          Use of vibrant fonts: When used excessively, flashy, attention grabbing fonts become too prominent yet might be useful for titles or isolated words.<br/>
+  Using the same font for everything: Use a distinct set of headers, subheaders, and body text, and use these sets consistently throughout the whole website.
+          
+          </p>
+          
+  
+          `,
+        },
+        {
+          heading: "Functionality",
+          s_id: "C3",
+        },
+        {
+          headings: "7. Navigation becomes easier.",
+          image1:
+            "assets/images/blog-images/tips-for-best-web-design/section3.jpg",
+          alt: "Web design",
+          desc1: `
+  
+  
+          <p>
+          
+          Now turning towards functionality, or what your site can do. The topic of functionality should always begin with navigation, which is the basis of every website.<br/>
+  Everybody uses a different strategy to navigate the website. The navigation of a successful website should be easy and tailored to the users it is intended for; the fewer users have to think about it, the better.<br/>
+  However, it is not an easy task. What gets its page, what is moved to a subpage, and what is and is not included in the main menu are the first things to consider when analyzing how the entire website is arranged. Before the web design process actually begins, <a href="https://www.wix.com/blog/2017/10/5-design-tips-for-a-professional-site/" target="_blank"  class="blogLinks" rel="nofollow">each issue must be addressed.<a/><br/>
+  The next step is to build your navigation that is simple for visitors to use.
+  
+          </p>`,
+        },
+        {
+          desc1: `
+          <h5><strong>Needs:</strong></h5>
+          <p>
+          Make an effort to balance the variety of possibilities. Although you want to provide your customers with many options, you don’t want to overburden them. Put these competing objectives into balance by structuring your page category layout.<br/>
+  Build your navigation around actual user data. For example, some customers might search under “clothing” and others under “accessories” while buying shoes online.<br/>
+  Build your navigation design on how your users think. If it’s dark out, you can still run some user testing.</p>
+          <h5><strong>Needn't:</strong></h5>
+  
+          <p>
+          Try out some odd forms. While some fresh and brilliant ideas might come from experimenting with limits, it is not advised for something as important as navigation. Instead, stick to the traditions that users are already familiar with like the top header navigation menu, the logo connected to the homepage, the search bar with the magnifying glass symbol, etc.
+          </p>
+          `,
+        },
+        {
+          headings: "8. Give mobile priority.",
+  
+          desc1: `
+         <p>
          
-  //        Older people sometimes associate best web design with desktop screens, but in reality, most users today browse on their mobile devices. You must ensure that your mobile site is in top shape. Not just for your users but also for Google, whose search results algorithm considers mobile responsiveness.<br/>
-  // Your site’s “mobile responsiveness” relates to how effectively it displays on devices with tiny screens. Your visitors won’t like browsing your website if it is chopped off on mobile devices or the graphics are shown incorrectly. Don’t assume your desktop version will transition flawlessly to mobile since, in addition to smaller screens, mobile devices also have an entirely new set of design rules, including controls like “swipes.”
+         Older people sometimes associate best web design with desktop screens, but in reality, most users today browse on their mobile devices. You must ensure that your mobile site is in top shape. Not just for your users but also for Google, whose search results algorithm considers mobile responsiveness.<br/>
+  Your site’s “mobile responsiveness” relates to how effectively it displays on devices with tiny screens. Your visitors won’t like browsing your website if it is chopped off on mobile devices or the graphics are shown incorrectly. Don’t assume your desktop version will transition flawlessly to mobile since, in addition to smaller screens, mobile devices also have an entirely new set of design rules, including controls like “swipes.”
          
-  //        </p>
+         </p>
   
-  //        <h5><strong>Needs:</strong></h5>
-  //         <p>
-  //         Design the mobile-friendly version first. Due to the constrained screen size, you can only include the absolute necessities while developing the mobile edition. Instead of developing the desktop version first and then eliminating components, starting with the mobile version is more simple and adding items afterward.</p>
-  //         Organize devices according to user data. However “mobile” refers to a wide range of devices, different phone and tablet models have different screen sizes and technological requirements. Prioritize those devices in the design based on user data to determine which one your visitors use more frequently.
+         <h5><strong>Needs:</strong></h5>
+          <p>
+          Design the mobile-friendly version first. Due to the constrained screen size, you can only include the absolute necessities while developing the mobile edition. Instead of developing the desktop version first and then eliminating components, starting with the mobile version is more simple and adding items afterward.</p>
+          Organize devices according to user data. However “mobile” refers to a wide range of devices, different phone and tablet models have different screen sizes and technological requirements. Prioritize those devices in the design based on user data to determine which one your visitors use more frequently.
           
-  //         </p>
+          </p>
   
-  //         <h5><strong>Needn't:</strong></h5>
+          <h5><strong>Needn't:</strong></h5>
   
-  //         <p>
-  //         Visit m-dot websites. Before designers realized mobile would surpass desktop, those mobile sites with “m.” in their URLs were an early answer to mobile responsive designs. The ideal approach is to develop a single site that functions on all pertinent devices as they are now slower to load and harmful to SEO.
-  //         </p>
+          <p>
+          Visit m-dot websites. Before designers realized mobile would surpass desktop, those mobile sites with “m.” in their URLs were an early answer to mobile responsive designs. The ideal approach is to develop a single site that functions on all pertinent devices as they are now slower to load and harmful to SEO.
+          </p>
   
-  //         `,
-  //       },
-  //       {
-  //         headings: "9. Make the content simple to read.",
-  //         desc1: `
-  //         <p>
-  //         A website’s readability can suffer if it is made entirely of graphics. If you use a font that looks fine, but nobody can read it is like tossing away the baby with the bathwater.<br/>
-  //         Three concepts come to mind when we suggest that a website should be simple to read: <br/>
-  //         Well-written. The copy material is produced with your company's objectives in mind and in a manner that will appeal to your target market.<br/>
-  //         Well organized. The copy material is presented effectively, preferably in easily digestible blocks that don't overwhelm the reader and with lots of white space.<br/>
-  //         Clear. Reading is made easy by the font and size without effort or double-backing.<br/>
-  //         While font plays a significant role in readability, there are other factors to consider, such as composition and organization, as well as how the text interacts with other elements—not to mention the caliber of the writing itself.<br/>
-  //         If no one can see your content, no amount of beautiful site design will matter.
+          `,
+        },
+        {
+          headings: "9. Make the content simple to read.",
+          desc1: `
+          <p>
+          A website’s readability can suffer if it is made entirely of graphics. If you use a font that looks fine, but nobody can read it is like tossing away the baby with the bathwater.<br/>
+          Three concepts come to mind when we suggest that a website should be simple to read: <br/>
+          Well-written. The copy material is produced with your company's objectives in mind and in a manner that will appeal to your target market.<br/>
+          Well organized. The copy material is presented effectively, preferably in easily digestible blocks that don't overwhelm the reader and with lots of white space.<br/>
+          Clear. Reading is made easy by the font and size without effort or double-backing.<br/>
+          While font plays a significant role in readability, there are other factors to consider, such as composition and organization, as well as how the text interacts with other elements—not to mention the caliber of the writing itself.<br/>
+          If no one can see your content, no amount of beautiful site design will matter.
          
-  //        </p>
+         </p>
   
-  //        <h5><strong>Needs:</strong></h5>
-  //         <p>
+         <h5><strong>Needs:</strong></h5>
+          <p>
           
-  //         Color combinations must be considered. Readability is highly influenced by how the text color contrasts with the background, especially for readers and those with visual impairments. When in doubt, adhere to opposing pairs of tones (bright and dark), and if all else fails, choose the timeless black-and-white option.<br/>
-  // Test strategies with several readers. It's possible that not everyone can read what you can. To ensure complete coverage, test your designs on a range of readers.
+          Color combinations must be considered. Readability is highly influenced by how the text color contrasts with the background, especially for readers and those with visual impairments. When in doubt, adhere to opposing pairs of tones (bright and dark), and if all else fails, choose the timeless black-and-white option.<br/>
+  Test strategies with several readers. It's possible that not everyone can read what you can. To ensure complete coverage, test your designs on a range of readers.
           
-  //         </p>
+          </p>
   
-  //         <h5><strong>Needn't:</strong></h5>
+          <h5><strong>Needn't:</strong></h5>
   
-  //         <p>
-  //         For body text, use flashy or flowing fonts. It's essential to stay with a straightforward font that's easy on the eyes when the user must read line after line of text. On the other hand, elegant fonts work great for making headers and titles more prominent.<br/>
-  // Include long paragraphs of content. Even outside of site design, large blocks of text overwhelm readers. Using forced paragraph breaks or proactive page layouts to divide them apart is preferable.
-  //         </p>
+          <p>
+          For body text, use flashy or flowing fonts. It's essential to stay with a straightforward font that's easy on the eyes when the user must read line after line of text. On the other hand, elegant fonts work great for making headers and titles more prominent.<br/>
+  Include long paragraphs of content. Even outside of site design, large blocks of text overwhelm readers. Using forced paragraph breaks or proactive page layouts to divide them apart is preferable.
+          </p>
   
-  //         `,
-  //       },
-  //       {
-  //         headings: "10. Let your designer know what you desire.",
-  //         desc1: `
-  //         <p>
-  //         Let's imagine you have an excellent concept for a website feature. The more clearly you can communicate it to a designer, the more probable it is that the finished product will look exactly as you intended.<br/>
-  // Best Web design requires both <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/technologies">technical and communication abilities</a> because it's a collaborative effort. The quickest way to obtain a satisfying design is to communicate what you want for your website. After all, web design companies aren't minded readers.
+          `,
+        },
+        {
+          headings: "10. Let your designer know what you desire.",
+          desc1: `
+          <p>
+          Let's imagine you have an excellent concept for a website feature. The more clearly you can communicate it to a designer, the more probable it is that the finished product will look exactly as you intended.<br/>
+  Best Web design requires both <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/technologies">technical and communication abilities</a> because it's a collaborative effort. The quickest way to obtain a satisfying design is to communicate what you want for your website. After all, web design companies aren't minded readers.
          
-  //        </p>
+         </p>
   
-  //        <h5><strong>Needs:</strong></h5>
-  //         <p>
+         <h5><strong>Needs:</strong></h5>
+          <p>
           
-  //         Prioritize your goals and make a plan. Then, either create a wireframe or write out what you want to do. Both aid your memory and serve as a good starting point for your designer.<br/>
-  // Be open-minded. Keep an open mind to your designer's recommendations, even if they differ from what you had in mind. They have to make your website as fantastic as possible. They probably have information that you do not. 
-  //         </p>
+          Prioritize your goals and make a plan. Then, either create a wireframe or write out what you want to do. Both aid your memory and serve as a good starting point for your designer.<br/>
+  Be open-minded. Keep an open mind to your designer's recommendations, even if they differ from what you had in mind. They have to make your website as fantastic as possible. They probably have information that you do not. 
+          </p>
   
-  //         <h5><strong>Needn't:</strong></h5>
+          <h5><strong>Needn't:</strong></h5>
   
-  //         <p>
-  //         Be ambiguous or general. Using vague adjectives like "colorful" or "interactive" isn't very informative. Which hues? How do users communicate? Be as explicit as you can, or let the designer decide.
-  //         </p>
+          <p>
+          Be ambiguous or general. Using vague adjectives like "colorful" or "interactive" isn't very informative. Which hues? How do users communicate? Be as explicit as you can, or let the designer decide.
+          </p>
   
-  //         `,
-  //       },
-  //       {
-  //         s_id: "C4",
-  //         heading: "The final verdict",
-  //         desc1: `
-  //         <p>
-  //         Reading these ten web design guidelines is one thing; putting them into practice is quite another. Don’t be disappointed if you can’t comprehend everything in one sitting because topics like color theory, fonts, composition and mobile responsiveness are in-depth. Only qualified designers can fully understand the delicacy of these fields. Therefore, the most secure path to excellent design is often to hire someone who has an innate understanding of these best web design concepts.<br/>
-  //         If you’re looking for a professional <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">web design company</a>, <a href="https://www.shezitechsolution.com/contact-us" target="_blank"  class="blogLinks" rel="nofollow">contact shezitechsolution</a> now. Or, you can narrow your search results by the skill level, areas of expertise, or even specific sectors in which a designer specializes. 
-  //        </p>
+          `,
+        },
+        {
+          s_id: "C4",
+          heading: "The final verdict",
+          desc1: `
+          <p>
+          Reading these ten web design guidelines is one thing; putting them into practice is quite another. Don’t be disappointed if you can’t comprehend everything in one sitting because topics like color theory, fonts, composition and mobile responsiveness are in-depth. Only qualified designers can fully understand the delicacy of these fields. Therefore, the most secure path to excellent design is often to hire someone who has an innate understanding of these best web design concepts.<br/>
+          If you’re looking for a professional <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">web design company</a>, <a href="https://www.shezitechsolution.com/contact-us" target="_blank"  class="blogLinks" rel="nofollow">contact shezitechsolution</a> now. Or, you can narrow your search results by the skill level, areas of expertise, or even specific sectors in which a designer specializes. 
+         </p>
   
-  //         `,
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     slug: "wordpress-plugin-what-is-it-and-how-does-it-work",
-  //     id: 15,
-  //     related: [3, 4, 7],
-  //     metakeywords:
-  //       "WordPress plugins, WordPress Website, Wordpress plugin directory",
-  //     alt: "WordPress plugins, WordPress Website, Wordpress plugin directory",
-  //     title: "WordPress Plugin: What is it and how does it work",
-  //     metadescription:
-  //       "Find out what a WordPress plugin is, how it works, where to find one and install it for your WordPress website, and which plugin is best suitable from the WordPress plugin directory.",
-  //     heading: "WordPress Plugin: What is it and how does it work",
-  //     description: `
-  //     <p>
+          `,
+        },
+      ],
+    },
+    {
+      slug: "wordpress-plugin-what-is-it-and-how-does-it-work",
+      id: 15,
+      related: [3, 4, 7],
+      metakeywords:
+        "WordPress plugins, WordPress Website, Wordpress plugin directory",
+      alt: "WordPress plugins, WordPress Website, Wordpress plugin directory",
+      title: "WordPress Plugin: What is it and how does it work",
+      metadescription:
+        "Find out what a WordPress plugin is, how it works, where to find one and install it for your WordPress website, and which plugin is best suitable from the WordPress plugin directory.",
+      heading: "WordPress Plugin: What is it and how does it work",
+      description: `
+      <p>
   
-  //     Are you new to WordPress and unsure what a plugin is and how it functions?
-  // A software or a computer program with a set of functionalities is a plugin. It enhances your WordPress website with several innovative features or functionalities.<br/>
-  // In this article, we’ll go into depth about WordPress plugins. For instance, what a plugin is in WordPress, how it functions, where to find and select one for your website, and many other things.
+      Are you new to WordPress and unsure what a plugin is and how it functions?
+  A software or a computer program with a set of functionalities is a plugin. It enhances your WordPress website with several innovative features or functionalities.<br/>
+  In this article, we’ll go into depth about WordPress plugins. For instance, what a plugin is in WordPress, how it functions, where to find and select one for your website, and many other things.
   
   
-  //     </p>
-  //     `,
-  //     image1: "assets/images/blog-images/wordpress-plugin.jpg",
-  //     author: "Sheraz khan",
-  //     date: "11/11/2022",
-  //     thumbnail:
-  //       "assets/images/blog-images/wordpress-plugin.jpg",
-  //     src: "assets/images/blog-images/wordpress-plugin.jpg",
-  //     altAttribute:
-  //       "WordPress plugins, WordPress Website, Wordpress plugin directory",
-  //     arr: [
-  //       {
-  //         heading: "Table of Contents",
-  //         desc1: `
-  //        <ul>
-  //        <a href="#C1" class="blogContent"><li>What is a WordPress plugin?</li> </a>
-  //        <a href="#C2" class="blogContent"><li>How does a Wordpress plugin work?</li></a>
-  //        <a href="#C3" class="blogContent"><li>Finding best plugins for your website</li></a>
-  //        <a href="#C4" class="blogContent"><li>Some essential WordPress plugins for your website</li></a>
-  //        <a href="#C5" class="blogContent"><li>Where can you get Wordpress plugins?</li></a>
-  //        <a href="#C6" class="blogContent"><li>The final verdict</li></a>
-  //        </ul>
-  //         `,
-  //       },
-  //       {
-  //         heading: `What is a WordPress Plugin?`,
-  //         s_id: "C1",
-  //         desc1: `
-  //         <p>
+      </p>
+      `,
+      image1: "assets/images/blog-images/wordpress-plugin.jpg",
+      author: "Sheraz khan",
+      date: "11/11/2022",
+      thumbnail:
+        "assets/images/blog-images/wordpress-plugin.jpg",
+      src: "assets/images/blog-images/wordpress-plugin.jpg",
+      altAttribute:
+        "WordPress plugins, WordPress Website, Wordpress plugin directory",
+      arr: [
+        {
+          heading: "Table of Contents",
+          desc1: `
+         <ul>
+         <a href="#C1" class="blogContent"><li>What is a WordPress plugin?</li> </a>
+         <a href="#C2" class="blogContent"><li>How does a Wordpress plugin work?</li></a>
+         <a href="#C3" class="blogContent"><li>Finding best plugins for your website</li></a>
+         <a href="#C4" class="blogContent"><li>Some essential WordPress plugins for your website</li></a>
+         <a href="#C5" class="blogContent"><li>Where can you get Wordpress plugins?</li></a>
+         <a href="#C6" class="blogContent"><li>The final verdict</li></a>
+         </ul>
+          `,
+        },
+        {
+          heading: `What is a WordPress Plugin?`,
+          s_id: "C1",
+          desc1: `
+          <p>
   
-  //         A WordPress plugin is an add-on software that enhances the operation of your WordPress website or provides new features. It enables WordPress users to expand their website’s functionality without learning how to code. In addition, the WordPress website benefits from the plugin’s upgrades and security features.<br/>
-  //         You can add a ton of WordPress plugins to your website. Smart programmers deserve praise. Since so many plugins are available, you can easily find ones beneficial to your website. 
-  // More than 55,000 free plugins are available in the official WordPress plugin directory.
+          A WordPress plugin is an add-on software that enhances the operation of your WordPress website or provides new features. It enables WordPress users to expand their website’s functionality without learning how to code. In addition, the WordPress website benefits from the plugin’s upgrades and security features.<br/>
+          You can add a ton of WordPress plugins to your website. Smart programmers deserve praise. Since so many plugins are available, you can easily find ones beneficial to your website. 
+  More than 55,000 free plugins are available in the official WordPress plugin directory.
   
           
-  //         </p>
+          </p>
           
-  //         `,
-  //       },
-  //       {
-  //         heading: "How does a WordPress Plugin Work?",
-  //         s_id: "C2",
-  //         desc1: `
-  //          <p>
+          `,
+        },
+        {
+          heading: "How does a WordPress Plugin Work?",
+          s_id: "C2",
+          desc1: `
+           <p>
            
-  //          Not going into the depth of WordPress foundation is one of the fundamental tenets of WordPress development. This is why WordPress was created so that anybody could contribute to it. To put it another way, WordPress was designed to enable a plugin-based extension.<br/>
-  //          The plugin makes your website more functional by adding more code. Alternatively, we can claim that the plugin adds several features to your website without requiring us to change the WordPress core. Consequently, you can alter or adapt your website to suit your needs.<br/>
-  //          Since plugins are robust tools that can modify you can readily create your website, any form of the website. Your website can be an online store, a company website, and many other things.
+           Not going into the depth of WordPress foundation is one of the fundamental tenets of WordPress development. This is why WordPress was created so that anybody could contribute to it. To put it another way, WordPress was designed to enable a plugin-based extension.<br/>
+           The plugin makes your website more functional by adding more code. Alternatively, we can claim that the plugin adds several features to your website without requiring us to change the WordPress core. Consequently, you can alter or adapt your website to suit your needs.<br/>
+           Since plugins are robust tools that can modify you can readily create your website, any form of the website. Your website can be an online store, a company website, and many other things.
            
-  //          </p>
-  //          `,
-  //       },
-  //       {
-  //         heading: "Finding Best Plugins for your website",
-  //         s_id: "C3",
-  //         desc1: `
+           </p>
+           `,
+        },
+        {
+          heading: "Finding Best Plugins for your website",
+          s_id: "C3",
+          desc1: `
   
-  //          <p>
+           <p>
            
-  //          There are now a ton of WordPress plugins accessible. Unfortunately, not every plugin created needs to be of high quality. There might be high-quality plugins and low-quality plugins. So, while selecting the plugin for installation, you should take extra precautions.<br/>
-  //          The following are other ways that a low-quality plugin might affect your website:
+           There are now a ton of WordPress plugins accessible. Unfortunately, not every plugin created needs to be of high quality. There might be high-quality plugins and low-quality plugins. So, while selecting the plugin for installation, you should take extra precautions.<br/>
+           The following are other ways that a low-quality plugin might affect your website:
   
   
-  //          </p>
+           </p>
   
   
   
-  //          <ul>
+           <ul>
   
-  //           <li><p>The speed of your website</p></li>
-  //           <li><p>Halt or crash your website</p></li>
-  //           <li><p>Expose the security flaws on your website</p></li>
-  //           <li><p>Add harmful code to your website.</p></li>
+            <li><p>The speed of your website</p></li>
+            <li><p>Halt or crash your website</p></li>
+            <li><p>Expose the security flaws on your website</p></li>
+            <li><p>Add harmful code to your website.</p></li>
             
-  //          </ul>
+           </ul>
            
-  //          <p>
+           <p>
           
-  //          However, there is nothing to be concerned about. You can discover the ideal plugin for your WordPress website by considering the following factors.
-  //          </p>`,
-  //       },
-  //       {
-  //         headings: "1. Determining Your Website’s Need",
-  //         desc1: `
+           However, there is nothing to be concerned about. You can discover the ideal plugin for your WordPress website by considering the following factors.
+           </p>`,
+        },
+        {
+          headings: "1. Determining Your Website’s Need",
+          desc1: `
   
   
-  //         <p>
+          <p>
           
-  //         Finding the demand for your website is the most important factor.<br/>
-  //         Suppose you go to the WordPress plugin repository or another store without knowing what your website needs. That would be time-consuming and useless. Therefore, you must comprehensively understand the WordPress add-ons your website requires to perform properly. 
+          Finding the demand for your website is the most important factor.<br/>
+          Suppose you go to the WordPress plugin repository or another store without knowing what your website needs. That would be time-consuming and useless. Therefore, you must comprehensively understand the WordPress add-ons your website requires to perform properly. 
   
-  //         </p>`,
-  //       },
-  //       {
-  //         headings: "2. Look for the plugins.",
+          </p>`,
+        },
+        {
+          headings: "2. Look for the plugins.",
   
-  //         desc1: `
-  //        <p>
+          desc1: `
+         <p>
          
-  //        For every type of website, there are a ton of plugins available. As a result, you could still determine which plugin would work best for your website.<br/>
-  //        Once you have determined your website’s requirements, you can effortlessly search for high-quality plugins by going to websites like CodeCanyon and the official WordPress plugin repository.<br/>
-  //        You can write the features your website needs in the search box, and it will show you the appropriate plugins. This will assist you in locating the plugin that precisely achieves the purpose of your website.
+         For every type of website, there are a ton of plugins available. As a result, you could still determine which plugin would work best for your website.<br/>
+         Once you have determined your website’s requirements, you can effortlessly search for high-quality plugins by going to websites like CodeCanyon and the official WordPress plugin repository.<br/>
+         You can write the features your website needs in the search box, and it will show you the appropriate plugins. This will assist you in locating the plugin that precisely achieves the purpose of your website.
          
-  //        </p>
-  //         `,
-  //       },
-  //       {
-  //         headings:
-  //           "3. Verify any rankings, testimonials, and actual installations.",
-  //         desc1: `
-  //         <p>
-  //         It is not sufficient that you only search for the plugin. You must quickly consider the ratings, reviews, and active installation of the plugin before choosing it for your website.<br/>
-  // You can find the ratings for free plugins in the sidebar of the WordPress plugin directory. The star ratings for each plugin range from 1 to 5, with 1 being the lowest rating and five denoting the highest rating.
-  // <br/>
-  // You can learn more about a plugin’s strengths and weaknesses by reading user reviews. In addition, reading customer reviews in-depth will help you select the best plugin. On WordPress.org, look for reviews under the download button.<br/>
-  // Similarly, an extensive active plugin installation indicates that many users utilize the plugin. And it is trustworthy enough to be used on your website. Under the description button on the WordPress plugin directory, you can see the active installation of any plugin.<br/>
-  // Reviews, ratings, and current installs provide a general overview of the plugin’s quality. As a result, choosing the best plugin for your WordPress website is more accessible.
+         </p>
+          `,
+        },
+        {
+          headings:
+            "3. Verify any rankings, testimonials, and actual installations.",
+          desc1: `
+          <p>
+          It is not sufficient that you only search for the plugin. You must quickly consider the ratings, reviews, and active installation of the plugin before choosing it for your website.<br/>
+  You can find the ratings for free plugins in the sidebar of the WordPress plugin directory. The star ratings for each plugin range from 1 to 5, with 1 being the lowest rating and five denoting the highest rating.
+  <br/>
+  You can learn more about a plugin’s strengths and weaknesses by reading user reviews. In addition, reading customer reviews in-depth will help you select the best plugin. On WordPress.org, look for reviews under the download button.<br/>
+  Similarly, an extensive active plugin installation indicates that many users utilize the plugin. And it is trustworthy enough to be used on your website. Under the description button on the WordPress plugin directory, you can see the active installation of any plugin.<br/>
+  Reviews, ratings, and current installs provide a general overview of the plugin’s quality. As a result, choosing the best plugin for your WordPress website is more accessible.
           
           
-  //         </p>
-  //         `,
-  //       },
-  //       {
-  //         headings: "4. Updating and Interoperability",
-  //         desc1: `
+          </p>
+          `,
+        },
+        {
+          headings: "4. Updating and Interoperability",
+          desc1: `
          
-  //         Using a plugin on your WordPress site is unsafe if it isn’t updated often. The constant updating of plugins is necessary to maintain their compatibility with WordPress. If your WordPress version does not support your plugin, you may have to deal with significant problems.<br/>
-  //         You must remember to check for plugin updates if you pick one. On WordPress.org, you can check for plugin updates under the description tab.
+          Using a plugin on your WordPress site is unsafe if it isn’t updated often. The constant updating of plugins is necessary to maintain their compatibility with WordPress. If your WordPress version does not support your plugin, you may have to deal with significant problems.<br/>
+          You must remember to check for plugin updates if you pick one. On WordPress.org, you can check for plugin updates under the description tab.
          
-  //         `,
-  //       },
-  //       {
-  //         headings: "5. Look for Support",
-  //         desc1: `
-  //        <p>
-  //        On the WordPress plugin directory, the page has a forum for free plugins under the support. 
-  // You’re more likely to receive assistance with your plugin problems when you need it if the developers are quick to address user problems. If not, you might need to take safety measures before using the plugin. Because if something goes wrong, you won’t get any assistance.
+          `,
+        },
+        {
+          headings: "5. Look for Support",
+          desc1: `
+         <p>
+         On the WordPress plugin directory, the page has a forum for free plugins under the support. 
+  You’re more likely to receive assistance with your plugin problems when you need it if the developers are quick to address user problems. If not, you might need to take safety measures before using the plugin. Because if something goes wrong, you won’t get any assistance.
   
-  //        </p>
-  //         `,
-  //       },
-  //       {
-  //         s_id: "C4",
-  //         heading: "Some Essential WordPress Plugins for Your Website",
-  //         image1: "assets/images/blog-images/wordpressyoast.png",
-  //         alt: "essential wordpress plugins",
-  //       },
-  //       {
-  //         headings: "1. Yoast SEO",
-  //         desc1: `
-  //         <p>
-  //         <a href="https://yoast.com/" target="_blank"  class="blogLinks" rel="nofollow">Yoast SEO</a> is, without any doubt, one of the most admired plugins among users. Almost all WordPress users who have blogs or websites utilize this plugin. Therefore, locating sites that do not have Yoast SEO installed might be challenging.<br/>
-  //         So if you’re among those who don’t utilize the plugin, you should know that it helps raise the general SEO rating of your website and articles. You can specify your primary keyword, the meta description, slug, SEO title, and the alt attributes of your images, and it also offers advice on the best reading practices. It’s convenient since the plugin provides statistics and practical recommendations on how to enhance your productivity. You get the go-ahead when everything is carried out according to the rules.<br/>
-  //         Who can benefit from Yoast SEO? Since we all want to appear higher in the search results, it is for everyone.
-  //         </p>
-  //         `,
-  //       },
-  //       {
-  //         headings: "2. Akismet",
-  //         desc1: `
-  //         <p>
-  //         Akismet anti-spam isn’t far behind Yoast SEO regarding the number of downloads. Automattic developed the Akismet program to filter out spam comments effectively. We receive spam every day, whether it’s through harmful information, unrelated news, or advertising links. And it’s incredibly challenging to sort them all on your own, particularly if you own a company that receives thousands of responses daily.<br/>
-  //         The plugin is helpful for security reasons and automation since it prevents the publication of harmful or troublesome information on your website.<br/>
-  //         Akismet cross-references all your contact form inputs against the extensive worldwide spam database. So, you can be confident that only the best and correct information reaches you. The plugin is required for blog and company owners who get at least ten daily comments
+         </p>
+          `,
+        },
+        {
+          s_id: "C4",
+          heading: "Some Essential WordPress Plugins for Your Website",
+          image1: "assets/images/blog-images/wordpressyoast.png",
+          alt: "essential wordpress plugins",
+        },
+        {
+          headings: "1. Yoast SEO",
+          desc1: `
+          <p>
+          <a href="https://yoast.com/" target="_blank"  class="blogLinks" rel="nofollow">Yoast SEO</a> is, without any doubt, one of the most admired plugins among users. Almost all WordPress users who have blogs or websites utilize this plugin. Therefore, locating sites that do not have Yoast SEO installed might be challenging.<br/>
+          So if you’re among those who don’t utilize the plugin, you should know that it helps raise the general SEO rating of your website and articles. You can specify your primary keyword, the meta description, slug, SEO title, and the alt attributes of your images, and it also offers advice on the best reading practices. It’s convenient since the plugin provides statistics and practical recommendations on how to enhance your productivity. You get the go-ahead when everything is carried out according to the rules.<br/>
+          Who can benefit from Yoast SEO? Since we all want to appear higher in the search results, it is for everyone.
+          </p>
+          `,
+        },
+        {
+          headings: "2. Akismet",
+          desc1: `
+          <p>
+          Akismet anti-spam isn’t far behind Yoast SEO regarding the number of downloads. Automattic developed the Akismet program to filter out spam comments effectively. We receive spam every day, whether it’s through harmful information, unrelated news, or advertising links. And it’s incredibly challenging to sort them all on your own, particularly if you own a company that receives thousands of responses daily.<br/>
+          The plugin is helpful for security reasons and automation since it prevents the publication of harmful or troublesome information on your website.<br/>
+          Akismet cross-references all your contact form inputs against the extensive worldwide spam database. So, you can be confident that only the best and correct information reaches you. The plugin is required for blog and company owners who get at least ten daily comments
           
-  //         </p>
-  //         `,
-  //       },
-  //       {
-  //         headings: "3. WooCommerce",
-  //         desc1: `
+          </p>
+          `,
+        },
+        {
+          headings: "3. WooCommerce",
+          desc1: `
   
-  //         <p>
-  //         The <a href="https://wordpress.org/plugins/woocommerce/" target="_blank"  class="blogLinks" rel="nofollow">WooCommerce plugin</a> enables you to convert your website into an online store to sell your goods to customers.<br/>
-  //         As developers developed this plugin for business usage, all its users must be entrepreneurs. WooCommerce customization options are versatile, and that’s an excellent thing. In addition to the default settings, several developers have established a community and produced extensions to make selling as simple as possible. You can sell both physical and digital products with WooCommerce, and you can also add product variants, affiliate links, and a variety of payment options.
+          <p>
+          The <a href="https://wordpress.org/plugins/woocommerce/" target="_blank"  class="blogLinks" rel="nofollow">WooCommerce plugin</a> enables you to convert your website into an online store to sell your goods to customers.<br/>
+          As developers developed this plugin for business usage, all its users must be entrepreneurs. WooCommerce customization options are versatile, and that’s an excellent thing. In addition to the default settings, several developers have established a community and produced extensions to make selling as simple as possible. You can sell both physical and digital products with WooCommerce, and you can also add product variants, affiliate links, and a variety of payment options.
          
-  //         </p>
+          </p>
          
-  //         `,
-  //       },
-  //       {
-  //         headings: "4. WP Rocket",
-  //         desc1: `
+          `,
+        },
+        {
+          headings: "4. WP Rocket",
+          desc1: `
           
   
-  //         <p>
-  //         WP Rocket is the widely used plugin among premium caching plugins. It speeds up the website and cuts down on loading time. But, unfortunately, it has graphics that load slowly. This implies that pictures are only loaded when visible to users in their browser viewport.<br/>
-  //         Setting up the plugin is quite simple and quick. Over 100,000 sites have this plugin installed. This plugin has three premium options between 49$ and 249$.
+          <p>
+          WP Rocket is the widely used plugin among premium caching plugins. It speeds up the website and cuts down on loading time. But, unfortunately, it has graphics that load slowly. This implies that pictures are only loaded when visible to users in their browser viewport.<br/>
+          Setting up the plugin is quite simple and quick. Over 100,000 sites have this plugin installed. This plugin has three premium options between 49$ and 249$.
   
-  //         </p>
+          </p>
   
-  //         `,
-  //       },
-  //       {
-  //         headings: "5. Elementor",
-  //         desc1: `
+          `,
+        },
+        {
+          headings: "5. Elementor",
+          desc1: `
           
   
-  //         <p>
+          <p>
           
-  //         Elementor enables you to create unique pages without being constrained by the features of your current <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/Wordpress-themes">WordPress theme</a> since a fantastic landing page is crucial. So what is the actual process? Thanks to the visual design interface it offers, you can either start from scratch or use one of the provided templates to create your page.<br/>
-  // Installing this plugin on your website is one of those things you need to do since it greatly benefits you, especially if you desire complete control over your design. The Elementor collection has a lot of free templates that you can use to start building a page right immediately. 
+          Elementor enables you to create unique pages without being constrained by the features of your current <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/Wordpress-themes">WordPress theme</a> since a fantastic landing page is crucial. So what is the actual process? Thanks to the visual design interface it offers, you can either start from scratch or use one of the provided templates to create your page.<br/>
+  Installing this plugin on your website is one of those things you need to do since it greatly benefits you, especially if you desire complete control over your design. The Elementor collection has a lot of free templates that you can use to start building a page right immediately. 
   
   
-  //         </p>
+          </p>
   
-  //         `,
-  //       },
-  //       {
-  //         headings: "6. WPForms",
-  //         desc1: `
-          
-  
-  //         <p>
-          
-  //         Let’s introduce WPForms, another plugin on our list of essential WordPress plugins, as we wrap up our list of the most popular WordPress plugins. This plugin enables you to create an elaborate form for your WordPress website quickly. In addition, WPForms offers a simple drag-and-drop interface that makes developing contact forms quite simple.<br/>
-  // This plugin was developed for those who wish to be able to design modern forms without paying web developers. WPForms Pro provides advanced options to build quizzes, payment forms, survey forms, and more.
-  
-  
-  //         </p>
-  
-  //         `,
-  //       },
-  //       {
-  //         s_id: "C5",
-  //         heading: "Where Can You Get WordPress Plugins?",
-  //         image1: "assets/images/blog-images/plguin.jpg",
-  //         alt: "Wordpress plugin",
-  //         desc1: `
+          `,
+        },
+        {
+          headings: "6. WPForms",
+          desc1: `
           
   
-  //         <p>
+          <p>
           
-  //         You should only download plugins from reliable sources. Most reliable providers have quality control over their collection’s plugins and security protections in place.<br/>
-  //         Here are some alternative places to shop for WordPress plugins where you can safely get both free and commercial plugins:
-          
-  
-  //         </p>
-  
-  //         <ul>
-  //         <li>CodeCanyon</li>
-  //         <li>PremiumWP</li>
-  //         <li>Envato Elements</li>
-  
-  //         </ul>
-  
-  //         Although, be aware of the third-party sites that provide premium plugins. They may be available for free download but are pirated. While getting premium plugins for free could be fascinating, the dangers aren’t worth it.<br/>
-  // It is against the law to steal from plugin developers who put in a lot of effort while developing them. Additionally, these free plugins frequently include malicious code that can harm your website or steal your visitor’s personal information.<br/>
-  // Freemium is now a third option available in addition to free and premium. The main idea of a freemium plugin is that if you use a free plugin and want more capabilities, you can upgrade to a premium version.<br/>
+          Let’s introduce WPForms, another plugin on our list of essential WordPress plugins, as we wrap up our list of the most popular WordPress plugins. This plugin enables you to create an elaborate form for your WordPress website quickly. In addition, WPForms offers a simple drag-and-drop interface that makes developing contact forms quite simple.<br/>
+  This plugin was developed for those who wish to be able to design modern forms without paying web developers. WPForms Pro provides advanced options to build quizzes, payment forms, survey forms, and more.
   
   
-  //         `,
-  //       },
-  //       {
-  //         s_id: "C6",
-  //         heading: "The final verdict",
-  //         desc1: `
+          </p>
+  
+          `,
+        },
+        {
+          s_id: "C5",
+          heading: "Where Can You Get WordPress Plugins?",
+          image1: "assets/images/blog-images/plguin.jpg",
+          alt: "Wordpress plugin",
+          desc1: `
           
   
-  //         <p>
+          <p>
           
-  //         A WordPress plugin is a beneficial tool for complete website development. Using WordPress plugins, you can enhance your website’s functionality by including SEO optimization, spam prevention, caching, security, social media, backups, pop-up windows, drag-and-drop <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/wordpress-page-builders">page builders</a>, etc.<br/>
-  //         Here are some of the WordPress plugins from famous and dependable sources you can use on your site:<br/>
+          You should only download plugins from reliable sources. Most reliable providers have quality control over their collection’s plugins and security protections in place.<br/>
+          Here are some alternative places to shop for WordPress plugins where you can safely get both free and commercial plugins:
           
   
-  //         </p>
+          </p>
   
-  //         <ul>
-  //         <li>Everest forms</li>
-  //         <li>Easy social sharing</li>
-  //         <li>Yoast SEO</li>
-  //         <li>Wordfence security</li>
-  //         <li>Elementor</li>
+          <ul>
+          <li>CodeCanyon</li>
+          <li>PremiumWP</li>
+          <li>Envato Elements</li>
   
-  //         </ul>
+          </ul>
   
-  //         <p>
-  //         So there you have it, our comprehensive explanation of a WordPress plugin. After reading this article, we hope your questions about WordPress plugins have been answered.<br/>
-  //         <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">shezitechsolution INC<a/>. is a website design and development company providing facilities related to WordPress development. <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/contact-us">Contact us</a> to hire a team of experienced developers or consultants.
-  //         </p>
+          Although, be aware of the third-party sites that provide premium plugins. They may be available for free download but are pirated. While getting premium plugins for free could be fascinating, the dangers aren’t worth it.<br/>
+  It is against the law to steal from plugin developers who put in a lot of effort while developing them. Additionally, these free plugins frequently include malicious code that can harm your website or steal your visitor’s personal information.<br/>
+  Freemium is now a third option available in addition to free and premium. The main idea of a freemium plugin is that if you use a free plugin and want more capabilities, you can upgrade to a premium version.<br/>
   
-  //         `,
-  //       },
-  //     ],
-  //   },
+  
+          `,
+        },
+        {
+          s_id: "C6",
+          heading: "The final verdict",
+          desc1: `
+          
+  
+          <p>
+          
+          A WordPress plugin is a beneficial tool for complete website development. Using WordPress plugins, you can enhance your website’s functionality by including SEO optimization, spam prevention, caching, security, social media, backups, pop-up windows, drag-and-drop <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/wordpress-page-builders">page builders</a>, etc.<br/>
+          Here are some of the WordPress plugins from famous and dependable sources you can use on your site:<br/>
+          
+  
+          </p>
+  
+          <ul>
+          <li>Everest forms</li>
+          <li>Easy social sharing</li>
+          <li>Yoast SEO</li>
+          <li>Wordfence security</li>
+          <li>Elementor</li>
+  
+          </ul>
+  
+          <p>
+          So there you have it, our comprehensive explanation of a WordPress plugin. After reading this article, we hope your questions about WordPress plugins have been answered.<br/>
+          <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">shezitechsolution INC<a/>. is a website design and development company providing facilities related to WordPress development. <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/contact-us">Contact us</a> to hire a team of experienced developers or consultants.
+          </p>
+  
+          `,
+        },
+      ],
+    },
   //   {
   //     slug: "steps-Involved-in-web-design-and-development-life-cycle",
   //     id: 14,

@@ -33,17 +33,17 @@ const jobOpenings = [
     experience: "fresh - 6 Month",
     featured: true
   },
-  // {
-  //   id: 2,
-  //   title: "Backend Developer",
-  //   location: "Remote",
-  //   type: "Full-time",
-  //   category: "tech",
-  //   description: "Develop robust APIs and microservices using Node.js, Python and MongoDB.",
-  //   requirements: ["Node.js/Express", "Python/Django", "Database Design"],
-  //   salary: "$70k - $100k",
-  //   experience: "4+ years"
-  // },
+  {
+    id: 2,
+    title: "Graphic Designer",
+    location: "Remote",
+    type: "Full-time",
+    category: "tech",
+    description: "good is figma,Illustrator,adobe photo shop",
+    requirements: ["Illustrator", "Figma", "photo shop"],
+    salary: "Free/Unpaid",
+    experience: "resh - 6 Month"
+  },
   // {
   //   id: 3,
   //   title: "QA Engineer",
