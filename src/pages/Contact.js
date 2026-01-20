@@ -68,7 +68,7 @@ const ContactPage = () => {
     {
       icon: <FaEnvelope />,
       title: "Email Us",
-      info: "info@shezitech.com",
+      info: "shezitechsolution@gmail.com",
       subInfo: "24/7 Support",
       color: "from-purple-500 to-pink-500"
     },
