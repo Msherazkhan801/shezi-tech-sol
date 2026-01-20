@@ -63,7 +63,7 @@ const AboutUsPage = () => {
   ];
 
   const stats = [
-    { number: "500+", label: "Projects Completed", icon: <FaTrophy /> },
+    { number: "50+", label: "Projects Completed", icon: <FaTrophy /> },
     { number: "98%", label: "Client Satisfaction", icon: <FaUsers /> },
     { number: "50+", label: "Expert Team Members", icon: <FaCode /> },
     { number: "24/7", label: "Support Available", icon: <FaGlobe /> }

@@ -352,7 +352,7 @@ const StatsSection = () => {
                   className="absolute -bottom-8 left-1/4 right-1/4 bg-gradient-to-r from-blue-600 to-red-600 text-white py-3 px-6 rounded-xl shadow-2xl"
                 >
                   <div className="text-center">
-                    <div className="text-lg font-bold">Trusted by 500+ Companies</div>
+                    <div className="text-lg font-bold">Trusted by 100+ Companies</div>
                     <div className="text-sm opacity-90">Startups to Enterprises</div>
                   </div>
                 </motion.div>
