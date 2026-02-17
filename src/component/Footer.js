@@ -86,10 +86,10 @@ const Footer = () => {
 
   const quickLinks = [
     { path: "/blogs", label: "Blog" },
-    { path: "/privacy", label: "Privacy Policy" },
-    { path: "/terms", label: "Terms of Service" },
-    { path: "/sitemap", label: "Sitemap" },
-    { path: "/faq", label: "FAQ" },
+    { path: "#", label: "Privacy Policy" },
+    { path: "#", label: "Terms of Service" },
+    { path: "#", label: "Sitemap" },
+    { path: "#", label: "FAQ" },
   ];
 
   const contactInfo = [
