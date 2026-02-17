@@ -54,6 +54,15 @@ export const ProjectsData = [
     category: "web",
   },
   {
+    title: "AGSA Portal",
+    description: "Platform to connect service provider and seeker.",
+    techStack: ["MERN (MongoDB, Express, React, Node.js)"],
+    liveLink: "https://agsaportals.com/",
+    repoLink: "https://github.com/Msherazkhan801/",
+    imageUrl: "assets/images/agsa.png",
+    category: "web",  // example academic category
+  },
+  {
     title: "SMAC",
     description: "Platform to connect service provider and seeker.",
     techStack: ["MERN (MongoDB, Express, React, Node.js)"],

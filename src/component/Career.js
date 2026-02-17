@@ -21,29 +21,29 @@ import {
 } from "react-icons/fa";
 
 const jobOpenings = [
-  {
-    id: 1,
-    title: "Frontend Developer",
-    location: "Remote",
-    type: "Full-time",
-    category: "tech",
-    description: "Build and maintain responsive web applications using React, Next.js and Tailwind CSS.",
-    requirements: ["Next","React", "TypeScript", "CSS/SCSS"],
-    salary: "Free/ Unpaid",
-    experience: "fresh - 6 Month",
-    featured: true
-  },
-  {
-    id: 2,
-    title: "Graphic Designer",
-    location: "Remote",
-    type: "Full-time",
-    category: "tech",
-    description: "good is figma,Illustrator,adobe photo shop",
-    requirements: ["Illustrator", "Figma", "photo shop"],
-    salary: "Free/Unpaid",
-    experience: "resh - 6 Month"
-  },
+  // {
+  //   id: 1,
+  //   title: "Frontend Developer",
+  //   location: "Remote",
+  //   type: "Full-time",
+  //   category: "tech",
+  //   description: "Build and maintain responsive web applications using React, Next.js and Tailwind CSS.",
+  //   requirements: ["Next","React", "TypeScript", "CSS/SCSS"],
+  //   salary: "Free/ Unpaid",
+  //   experience: "fresh - 6 Month",
+  //   featured: true
+  // },
+  // {
+  //   id: 2,
+  //   title: "Graphic Designer",
+  //   location: "Remote",
+  //   type: "Full-time",
+  //   category: "tech",
+  //   description: "good is figma,Illustrator,adobe photo shop",
+  //   requirements: ["Illustrator", "Figma", "photo shop"],
+  //   salary: "Free/Unpaid",
+  //   experience: "resh - 6 Month"
+  // },
   // {
   //   id: 3,
   //   title: "QA Engineer",
@@ -66,29 +66,29 @@ const jobOpenings = [
   //   salary: "$45k - $75k",
   //   experience: "2+ years"
   // },
-  {
-    id: 5,
-    title: "Academic Writer",
-    location: "Remote",
-    type: "Contract",
-    category: "academic",
-    description: "Create high-quality academic content, research papers, and technical documentation.",
-    requirements: ["PhD/Masters", "Research Skills", "English Proficiency",'BBA/MBA ','Software Engineering'],
-    salary: "Project-based",
-    experience: "1+ years",
-    featured: true
-  },
-  {
-    id: 6,
-    title: "Academic Writer",
-    location: "Remote",
-    type: "Full-time",
-    category: "academic",
-    description: "Develop content strategies for tech blogs, SaaS products, and academic resources.",
-    requirements: ["English Proficiency",'BBA/MBA ','Software Engineering', "SEO Writing",'Data Science' ],
-    salary: "20k-40k",
-    experience: "3 months / Fresh Graduate"
-  }
+  // {
+  //   id: 5,
+  //   title: "Academic Writer",
+  //   location: "Remote",
+  //   type: "Contract",
+  //   category: "academic",
+  //   description: "Create high-quality academic content, research papers, and technical documentation.",
+  //   requirements: ["PhD/Masters", "Research Skills", "English Proficiency",'BBA/MBA ','Software Engineering'],
+  //   salary: "Project-based",
+  //   experience: "1+ years",
+  //   featured: true
+  // },
+  // {
+  //   id: 6,
+  //   title: "Academic Writer",
+  //   location: "Remote",
+  //   type: "Full-time",
+  //   category: "academic",
+  //   description: "Develop content strategies for tech blogs, SaaS products, and academic resources.",
+  //   requirements: ["English Proficiency",'BBA/MBA ','Software Engineering', "SEO Writing",'Data Science' ],
+  //   salary: "20k-40k",
+  //   experience: "3 months / Fresh Graduate"
+  // }
 ];
 
 const benefits = [
@@ -352,7 +352,7 @@ const Career = () => {
                          
                           {job.salary && (
                             <span className="flex items-center gap-1">
-                              <FaDollarSign className="text-sm" />
+                              {/* <FaDollarSign className="text-sm" /> */}
                               {job.salary}
                             </span>
                           )}
