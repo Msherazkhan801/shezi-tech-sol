@@ -85,15 +85,15 @@ const Footer = () => {
   ];
 
   const quickLinks = [
-    { path: "/blogs", label: "Blog" },
-    { path: "#", label: "Privacy Policy" },
-    { path: "#", label: "Terms of Service" },
-    { path: "#", label: "Sitemap" },
-    { path: "#", label: "FAQ" },
+    { path: "blogs", label: "Blog" },
+    { path: "policy", label: "Privacy Policy" },
+    { path: "terms", label: "Terms of Service" },
+    { path: "sitemap.xml", label: "Sitemap" },
+    { path: "faq", label: "FAQ" },
   ];
 
   const contactInfo = [
-    { icon: <FaMapMarkerAlt />, text: "Bahria Town phase IV, Islamabad,Pakistan " },
+    // { icon: <FaMapMarkerAlt />, text: "Bahria Town phase IV, Islamabad,Pakistan " },
     { icon: <FaEnvelope />, text: "shezitechsolution@gmail.com" },
     { icon: <FaPhone />, text: "+92 347 294 3510" },
   ];
@@ -203,7 +203,7 @@ const Footer = () => {
                   transition={{ delay: index * 0.05 }}
                 >
                   <Link
-                    to={link.path}
+                    to={`/${link.path}`}
                     onClick={scrollToTop}
                     className={`text-sm text-gray-300 hover:text-blue-400 transition-colors duration-300 flex items-center gap-2 group ${
                       location.pathname === link.path ? 'text-blue-400 font-semibold' : ''

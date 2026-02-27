@@ -9,6 +9,10 @@ import ProjectPage from "./pages/ProjectPage";
 import AboutUsPage from "./pages/About";
 import ScrollToTop from "./component/ScrollToTop";
 import Career from "./component/Career";
+import Faqs from "./pages/Faqs";
+import ErrorPage from "./pages/ErrorPage";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
+import TermsOfService from "./pages/TermsOfService";
 // import BlogDetailPage from "./component/BlogSection";
 
 function App() {
@@ -24,6 +28,10 @@ function App() {
       <Route path="/services" element={<ProjectPage />} />
       <Route path="/about" element={<AboutUsPage />} />
       <Route path="/career" element={<Career/>} />
+      <Route path="/faq" element={<Faqs/>} />
+      <Route path="/policy" element={<PrivacyPolicy/>} />
+      <Route path="/terms" element={<TermsOfService/>} />
+      <Route path="*" element={<ErrorPage/>} />
       
 
       

@@ -23,3 +23,6 @@ code {
 .swiper-pagination-bullet-active {
   background: #2563eb; /* blue-600 */
 }
+ul,li{
+  text-decoration: dotted;
+}

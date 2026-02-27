@@ -2075,621 +2075,621 @@ const BlogsContents = [
         },
       ],
     },
-  //   {
-  //     slug: "steps-Involved-in-web-design-and-development-life-cycle",
-  //     id: 14,
-  //     related: [1, 2, 5],
-  //     metakeywords:
-  //       "Web development, Web design, Design development, Web design development, Software development",
-  //     alt: "Top 7 Steps Involved in Web Design and Development Life Cycle",
-  //     title: "Top 7 Steps Involved in Web Design and Development Life Cycle",
-  //     metadescription:
-  //       "Follow these technical steps to web design and development lifecycle to get great quality. 1. Research and Analysis, 2. Design the website, 3. Content creation, 4. Software development, 5. Testing, 6. SEO, 7. Maintenance",
-  //     heading: "Top 7 Steps Involved in Web Design and Development Life Cycle",
-  //     description: `
-  //     <p>
+    {
+      slug: "steps-Involved-in-web-design-and-development-life-cycle",
+      id: 14,
+      related: [1, 2, 5],
+      metakeywords:
+        "Web development, Web design, Design development, Web design development, Software development",
+      alt: "Top  Steps Involved in Web Design and Development Life Cycle in 2026",
+      title: "Top  Steps Involved in Web Design and Development Life Cycle in 2026",
+      metadescription:
+        "Follow these technical steps to web design and development lifecycle to get great quality. 1. Research and Analysis, 2. Design the website, 3. Content creation, 4. Software development, 5. Testing, 6. SEO, 7. Maintenance",
+      heading: "Top  Steps Involved in Web Design and Development Life Cycle in 2026",
+      description: `
+      <p>
   
-  //     You now have a business or a business concept, and you're thinking about creating a website for it. You are on the appropriate page.<br/>
-  //     In this tutorial, we'll outline the seven key stages of web development that will help you build beautiful, highly effective websites.<br/>
-  //     To develop, a business needs more than just a website. To draw in more prospective clients, your website must be effective and have good user experience.<br/>
-  //     If you follow the phases of web design and development, you may finish up with the required outcomes of fantastic quality.<br/>
-  //     Let's get going.
+      You now have a business or a business concept, and you're thinking about creating a website for it. You are on the appropriate page.<br/>
+      In this tutorial, we'll outline the seven key stages of web development that will help you build beautiful, highly effective websites.<br/>
+      To develop, a business needs more than just a website. To draw in more prospective clients, your website must be effective and have good user experience.<br/>
+      If you follow the phases of web design and development, you may finish up with the required outcomes of fantastic quality.<br/>
+      Let's get going.
   
   
-  //     </p>
-  //     `,
-  //     image1:
-  //       "assets/images/blog-images/lifcycle.jpg",
-  //     author: "Sheraz khan",
-  //     date: "11/11/2022",
-  //     thumbnail:
-  //       "assets/images/blog-images/lifcycle.jpg",
-  //     src: "assets/images/blog-images/lifcycle.jpg",
-  //     altAttribute:
-  //       "Top 7 Steps Involved in Web Design and Development Life Cycle",
-  //     arr: [
-  //       {
-  //         heading: "Table of Contents",
-  //         desc1: `
-  //        <ul>
-  //        <a href="#C1" class="blogContent"><li>What is the web development lifecycle?</li> </a>
-  //        <a href="#C2" class="blogContent"><li>7 phases of Web development lifecycle</li></a>
-  //        <a href="#C3" class="blogContent"><li>The final verdict</li></a>
-  //        </ul>
-  //         `,
-  //       },
-  //       {
-  //         heading: `What is the Web Development Life Cycle?`,
-  //         s_id: "C1",
-  //         desc1: `
-  //         <p>
+      </p>
+      `,
+      image1:
+        "assets/images/blog-images/lifcycle.jpg",
+      author: "Sheraz khan",
+      date: "11/11/2022",
+      thumbnail:
+        "assets/images/blog-images/lifcycle.jpg",
+      src: "assets/images/blog-images/lifcycle.jpg",
+      altAttribute:
+        "Top 7 Steps Involved in Web Design and Development Life Cycle",
+      arr: [
+        {
+          heading: "Table of Contents",
+          desc1: `
+         <ul>
+         <a href="#C1" class="blogContent"><li>What is the web development lifecycle?</li> </a>
+         <a href="#C2" class="blogContent"><li>7 phases of Web development lifecycle</li></a>
+         <a href="#C3" class="blogContent"><li>The final verdict</li></a>
+         </ul>
+          `,
+        },
+        {
+          heading: `What is the Web Development Life Cycle?`,
+          s_id: "C1",
+          desc1: `
+          <p>
   
-  //         The life cycle of web design and development is comparable to that of software development.
-  //         The stages of web development are described. It includes all the procedures from establishing the objective to maintaining the website once it is online
-  //         <br/>
-  //         A website may take shape thanks to code, but it doesn't mean it is made entirely of coding. Behind the scenes, there are other additional processes that take place, including designing and content generation.<br/>
-  //         To create an amazing website by providing helpful tips at the appropriate times, the entire team from the client-side, server-side, and marketing side should have a fundamental understanding of the web development cycle.<br/>
-  //         In the majority of cases, the web development life cycle consists of 5 to 8 phases. We'll go over the crucial seven phases of the web development process in this blog.
+          The life cycle of web design and development is comparable to that of software development.
+          The stages of web development are described. It includes all the procedures from establishing the objective to maintaining the website once it is online
+          <br/>
+          A website may take shape thanks to code, but it doesn't mean it is made entirely of coding. Behind the scenes, there are other additional processes that take place, including designing and content generation.<br/>
+          To create an amazing website by providing helpful tips at the appropriate times, the entire team from the client-side, server-side, and marketing side should have a fundamental understanding of the web development cycle.<br/>
+          In the majority of cases, the web development life cycle consists of 5 to 8 phases. We'll go over the crucial seven phases of the web development process in this blog.
          
           
-  //         </p>
+          </p>
           
-  //         `,
-  //       },
-  //       {
-  //         heading: "7 Phases of Web Development",
-  //         s_id: "C2",
-  //         desc1: `
-  //          <p>
-  //          Before discussing the phases, let's speak about the most crucial element: goal setting.
-  // It is more important to define the aim to the <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/how-to-work-with-your-outsource-development-team">team</a> members before a project begins or to comprehend the client's goals.<br/>
-  // Without a clear objective, the team may quickly become sidetracked from working toward the intended outcome. Therefore, make careful to understand the purpose of the website before beginning the web building process.
-  //          </p>
-  //          `,
-  //       },
-  //       {
-  //         desc1: `
-  //         <h4>1. Research and Analysis</h4>
+          `,
+        },
+        {
+          heading: "7 Phases of Web Development",
+          s_id: "C2",
+          desc1: `
+           <p>
+           Before discussing the phases, let's speak about the most crucial element: goal setting.
+  It is more important to define the aim to the <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/how-to-work-with-your-outsource-development-team">team</a> members before a project begins or to comprehend the client's goals.<br/>
+  Without a clear objective, the team may quickly become sidetracked from working toward the intended outcome. Therefore, make careful to understand the purpose of the website before beginning the web building process.
+           </p>
+           `,
+        },
+        {
+          desc1: `
+          <h4>1. Research and Analysis</h4>
   
-  //          <p>
-  //          The first and most important phase in the web development process is research and analysis. The research that has to be done before developing and producing the website's content is included in this step. You must define the following in this step:
-  //          </p>
+           <p>
+           The first and most important phase in the web development process is research and analysis. The research that has to be done before developing and producing the website's content is included in this step. You must define the following in this step:
+           </p>
   
-  //          <ul>
+           <ul>
   
-  //           <li><p>Potential target audiences</p></li>
-  //           <li><p>Purpose of the website</p></li>
-  //           <li><p>The services provided</p></li>
-  //           <li><p>Adequate demand for the service</p></li>
-  //           <li><p>Expectations of the look of the website</p></li>
-  //           <li><p>Competitor analysis</p></li>
-  //           <li><p>Budget estimation</p></li>
-  //           <li><p>Resources needed</p></li>
-  //           <li><p>Timeframe for each phase</p></li>
+            <li><p>Potential target audiences</p></li>
+            <li><p>Purpose of the website</p></li>
+            <li><p>The services provided</p></li>
+            <li><p>Adequate demand for the service</p></li>
+            <li><p>Expectations of the look of the website</p></li>
+            <li><p>Competitor analysis</p></li>
+            <li><p>Budget estimation</p></li>
+            <li><p>Resources needed</p></li>
+            <li><p>Timeframe for each phase</p></li>
             
-  //          </ul>
+           </ul>
            
-  //          <p>
-  //          You will provide a clear notion for <a href="https://www.neoito.com/blog/web-design-and-development-phases/" target="_blank"  class="blogLinks" rel="nofollow">developing the website design</a> and content in this phase. With accurate definitions and statistics, the team members will have a clear image and explanation of their job.<br/>
-  //          The team is now aware of the needs and target audiences for the website.
+           <p>
+           You will provide a clear notion for <a href="https://www.neoito.com/blog/web-design-and-development-phases/" target="_blank"  class="blogLinks" rel="nofollow">developing the website design</a> and content in this phase. With accurate definitions and statistics, the team members will have a clear image and explanation of their job.<br/>
+           The team is now aware of the needs and target audiences for the website.
            
-  //          </p>`,
-  //       },
-  //       {
-  //         desc1: `<h4>2. Designing the Website</h4>
+           </p>`,
+        },
+        {
+          desc1: `<h4>2. Designing the Website</h4>
   
-  //         <p>
+          <p>
           
-  //         Designers will plan the web design with an interactive layout for clients after they have a good knowledge of the website's requirements.<br/>
-  //         Hubspot estimates that 90% of website visitors leave quickly because of bad design. It is an important and necessary step in the web development process as well.<br/>
-  //         You will create a sitemap and the website's wireframe based on the data gathered. Wireframe and Sitemap<br/>
-  //         A sitemap offers a high-level overview of the website, including a list of webpages and their locations. The sitemap is regarded as the website's blueprint. Additionally, it informs the search engine which page on your website is crucial.<br/>
-  //         Simple sitemap creation in 5 steps:
-  //         </p>
+          Designers will plan the web design with an interactive layout for clients after they have a good knowledge of the website's requirements.<br/>
+          Hubspot estimates that 90% of website visitors leave quickly because of bad design. It is an important and necessary step in the web development process as well.<br/>
+          You will create a sitemap and the website's wireframe based on the data gathered. Wireframe and Sitemap<br/>
+          A sitemap offers a high-level overview of the website, including a list of webpages and their locations. The sitemap is regarded as the website's blueprint. Additionally, it informs the search engine which page on your website is crucial.<br/>
+          Simple sitemap creation in 5 steps:
+          </p>
   
-  //         <ul>
+          <ul>
   
-  //          <li><p>Review the structure of your pages</p></li>
-  //          <li><p>Code your URLs</p></li>
-  //          <li><p>Validate the code</p></li>
-  //          <li><p>Adding your sitemap to the root and robots.txt</p></li>
-  //          <li><p>Submit your sitemap</p></li>
+           <li><p>Review the structure of your pages</p></li>
+           <li><p>Code your URLs</p></li>
+           <li><p>Validate the code</p></li>
+           <li><p>Adding your sitemap to the root and robots.txt</p></li>
+           <li><p>Submit your sitemap</p></li>
            
-  //         </ul>
+          </ul>
           
-  //         <p>
-  //         A UX developer creates the wireframe. It provides information about the key website parts, like the CTA, subscription box, etc. You must thoroughly discuss every aspect of the website before beginning to code. The website user interface is clearly shown in the wireframe.<br/>
-  //         Making a layout is the initial stage in the designing process. An actual website's header, footer, text placement, positioning of photos, and arrangement of videos are all represented graphically in a layout.<br/>
-  //         We also incorporate the website's logo, color scheme, and typeface in this process. Always keep the website's aim and target audience in mind while choosing such elements.<br/>
-  //         The software architect will turn to UI/UX design after finishing the layout. The visual display and behind-the-scenes effort of website design are both included in the UI and UX designing.<br/>
-  //         You should bear in mind that the website's viewers want it to be interactive while you develop it. The design must be appealing to the eye.<br/>
+          <p>
+          A UX developer creates the wireframe. It provides information about the key website parts, like the CTA, subscription box, etc. You must thoroughly discuss every aspect of the website before beginning to code. The website user interface is clearly shown in the wireframe.<br/>
+          Making a layout is the initial stage in the designing process. An actual website's header, footer, text placement, positioning of photos, and arrangement of videos are all represented graphically in a layout.<br/>
+          We also incorporate the website's logo, color scheme, and typeface in this process. Always keep the website's aim and target audience in mind while choosing such elements.<br/>
+          The software architect will turn to UI/UX design after finishing the layout. The visual display and behind-the-scenes effort of website design are both included in the UI and UX designing.<br/>
+          You should bear in mind that the website's viewers want it to be interactive while you develop it. The design must be appealing to the eye.<br/>
   
-  //         </p>`,
-  //       },
-  //       {
-  //         image1:
-  //           "assets/images/blog-images/7-steps-in-web-design-and-dev/section-2.jpg",
-  //         alt: "content creation",
-  //         desc1: `
-  //         <h4>3. The Content Creation</h4>
+          </p>`,
+        },
+        {
+          image1:
+            "assets/images/blog-images/lifecycle.png",
+          alt: "content creation",
+          desc1: `
+          <h4>3. The Content Creation</h4>
   
-  //          <p>
-  //          Content is king, as we have heard. Yes, the finest material frequently generates good income. It's simple to convince your users when your material is engaging.<br/>
-  //          The purpose of a website is to tell the visitor about your service or product. The visitor will not be able to learn all the specifics of the service or product if the information is confusing. Your visitor won't take any action. Writing engaging content is essential to the creation of websites.<br/>
-  //          Therefore, developing content entails all that is necessary for the website, such as:
+           <p>
+           Content is king, as we have heard. Yes, the finest material frequently generates good income. It's simple to convince your users when your material is engaging.<br/>
+           The purpose of a website is to tell the visitor about your service or product. The visitor will not be able to learn all the specifics of the service or product if the information is confusing. Your visitor won't take any action. Writing engaging content is essential to the creation of websites.<br/>
+           Therefore, developing content entails all that is necessary for the website, such as:
           
-  //          </p>
+           </p>
   
-  //          <ul>
+           <ul>
   
-  //           <li><p>Web page content - for home and all other landing pages</p></li>
-  //           <li><p>Product or service description</p></li>
-  //           <li><p>Images and the image content</p></li>
-  //           <li><p>Creating videos</p></li>
-  //           <li><p>Creating video scripts</p></li>
-  //           <li><p>Writing a CTA</p></li>
-  //           <li><p>Blogs</p></li>
-  //           <li><p>Case studies</p></li>
-  //           <li><p>Testimonials</p></li>
+            <li><p>Web page content - for home and all other landing pages</p></li>
+            <li><p>Product or service description</p></li>
+            <li><p>Images and the image content</p></li>
+            <li><p>Creating videos</p></li>
+            <li><p>Creating video scripts</p></li>
+            <li><p>Writing a CTA</p></li>
+            <li><p>Blogs</p></li>
+            <li><p>Case studies</p></li>
+            <li><p>Testimonials</p></li>
             
             
-  //          </ul>
+           </ul>
            
-  //          <p>
-  //          Always keep your target audience in mind when writing content. The writing should be straightforward, enticing, and compelling.<br/>
-  //          We also need to consider SEO. Considering that content is crucial in making your website SEO-friendly.<br/>
-  //          So provide engaging and SEO-friendly content. To create material that is well-optimized, such tools include:
+           <p>
+           Always keep your target audience in mind when writing content. The writing should be straightforward, enticing, and compelling.<br/>
+           We also need to consider SEO. Considering that content is crucial in making your website SEO-friendly.<br/>
+           So provide engaging and SEO-friendly content. To create material that is well-optimized, such tools include:
   
   
-  //          </p>
+           </p>
   
-  //          <ul>
+           <ul>
   
-  //           <li><p>Google docs</p></li>
-  //           <li><p>Dropbox paper</p></li>
-  //           <li><p>Grammarly</p></li>
-  //           <li><p>Word counter</p></li>
+            <li>Google docs</li>
+            <li>Dropbox paper</li>
+            <li>Grammarly</li>
+            <li>Word counter</li>
             
             
-  //          </ul>
-  //         `,
-  //       },
-  //       {
-  //         desc1: `
-  //         <br/>
-  //         <h4>4. Software Development</h4>
+           </ul>
+          `,
+        },
+        {
+          desc1: `
+          <br/>
+          <h4>4. Software Development</h4>
   
-  //          <p>
-  //          The fourth stage of the <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/web-design-and-development-definition-elements-and-tips">web design and development</a> cycle involves coding. The foundation of the website is coding. The real development of the website happens during this phase.<br/>
-  //          In software development, there are two divisions:
+           <p>
+           The fourth stage of the <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/web-design-and-development-definition-elements-and-tips">web design and development</a> cycle involves coding. The foundation of the website is coding. The real development of the website happens during this phase.<br/>
+           In software development, there are two divisions:
           
-  //          </p>
+           </p>
   
-  //          <ul>
+           <ul>
   
-  //           <li><p>Frontend development</p></li>
-  //           <li><p>Backend development</p></li>
+            <li><p>Frontend development</p></li>
+            <li><p>Backend development</p></li>
             
             
             
-  //          </ul>
+           </ul>
   
-  //          <h5>Frontend Development</h5>
+           <h5>Frontend Development</h5>
   
-  //          <p>Everything we see on the website was created by front end developers, as the name suggests.
-  //          The list of top languages for web development is as follows:
-  //          </p>
+           <p>Everything we see on the website was created by front end developers, as the name suggests.
+           The list of top languages for web development is as follows:
+           </p>
   
-  //          <ul>
+           <ul>
   
-  //           <li><p>Java script</p></li>
-  //           <li><p>HTML</p></li>
-  //           <li><p>CSS</p></li>
-  //           <li><p>Bootstrap frameworks</p></li>
+            <li><p>Java script</p></li>
+            <li><p>HTML</p></li>
+            <li><p>CSS</p></li>
+            <li><p>Bootstrap frameworks</p></li>
             
             
-  //          </ul>
+           </ul>
   
-  //          <p>For better frontend development, developers also utilize frameworks or libraries like Vue, React, Angular, etc.</p>
+           <p>For better frontend development, developers also utilize frameworks or libraries like Vue, React, Angular, etc.</p>
   
-  //          <h5>Backend Development</h5>
+           <h5>Backend Development</h5>
   
-  //          <p>The functioning of the website is entirely empowered by backend development. It will occasionally be used to update the webpage.<br/>
-  //          List of top languages for back-end web development
-  //          </p>
+           <p>The functioning of the website is entirely empowered by backend development. It will occasionally be used to update the webpage.<br/>
+           List of top languages for back-end web development
+           </p>
   
-  //          <ul>
+           <ul>
   
-  //           <li><p>PHP</p></li>
-  //           <li><p>Python</p></li>
-  //           <li><p>SQL</p></li>
-  //           <li><p>Ruby</p></li>
-  //           <li><p>Golang</p></li>
+            <li><p>PHP</p></li>
+            <li><p>Python</p></li>
+            <li><p>SQL</p></li>
+            <li><p>Ruby</p></li>
+            <li><p>Golang</p></li>
   
-  //          </ul>
+           </ul>
   
-  //          <p>Also utilized in back end programming are tools like node.js and.net.<br/>
-  //          CMS is used to create the majority of websites (Content management system). To operate the site properly, many CMS plugins are included in this. CRM websites include, for instance:
-  //          </p>
+           <p>Also utilized in back end programming are tools like node.js and.net.<br/>
+           CMS is used to create the majority of websites (Content management system). To operate the site properly, many CMS plugins are included in this. CRM websites include, for instance:
+           </p>
   
-  //          <ul>
+           <ul>
   
-  //           <li><p>Zoho</p></li>
-  //           <li><p>Podio</p></li>
-  //           <li><p>Sales force, and more.</p></li>
-  //         `,
-  //       },
-  //       {
-  //         desc1: `
+            <li><p>Zoho</p></li>
+            <li><p>Podio</p></li>
+            <li><p>Sales force, and more.</p></li>
+          `,
+        },
+        {
+          desc1: `
           
-  //         <h4>5. Testing</h4>
-  //         <p>
-  //         To offer a better user experience, the website is put through a number of quality tests before launch.<br/>
-  //         In order to secure your website, testing is essential. If your website is not adequately tested, it will be vulnerable to several threats.<br/>
-  //         The quality assessment test consists of:
-  //         </p>
-  //         <ul>
-  //         <li><p>Checking the speed of the website,</p></li>
-  //         <li><p>User interference,</p></li>
-  //         <li><p>Security checks,</p></li>
-  //         <li><p>Admin check,</p></li>
-  //         <li><p>Mobile-friendly appearance,</p></li>
-  //         <li><p>Stress testing,</p></li>
-  //         <li><p>Loading testing and more.</p></li>
-  //         </ul>
-  //         <p>
-  //         To ensure that the website is free of all defects, these tests should be performed. Numerous problems can harm the website's performance if testing is unsuccessful.<br/>
-  //         Numerous tools are available to examine the website. Among them are:
-  //         </p>
-  //         <ul>
-  //         <li><p>Webload</p></li>
-  //         <li><p>Test IO</p></li>
-  //         <li><p>W3C link checker</p></li>
-  //         <li><p>Spider</p></li>
-  //         <li><p>Net sparker</p></li>
-  //         </ul>
-  //         <p>
-  //         We need to host and launch the website once the testing is over. A domain name and a cloud service like Amazon Web Service, Microsoft Azure, or Google Cloud Products are required to purchase for hosting.<br/>
-  //         We require CI equipment like,
-  //         </p>
-  //         <ul>
-  //         <li><p>GitHub</p></li>
-  //         <li><p>Heroku</p></li>
-  //         <li><p>Netlify</p></li>
-  //         <li><p>DeployBot</p></li>
-  //         <li><p>Octopus Deploy</p></li>
-  //         <li><p>GitLab</p></li>
-  //         <li><p>Jenkins</p></li>
-  //         <li><p>AWS CodeDeploy</p></li>
-  //         <li><p>Bamboo</p></li>
-  //         <li><p>CircleCI</p></li>
-  //         <li><p>TeamCity</p></li>
-  //         </ul>
-  //         <p>
-  //         There are many different deployment tools available. Choose the deployment tool that best suits the needs of your website.
-  //         </p>
-  //         `,
-  //       },
-  //       {
-  //         desc1: `
-  //         <h4>6. Marketing and SEO</h4>
-  //         <p>
-  //         As a result, we created a website with improved user experience, performance, and design. However, what if it doesn't come up in web searches. Won't it hurt?
-  //         You must make your website search engine friendly in order to prevent this and make it simple for consumers to locate.<br/>
-  //         Keywords are the foundation of search engine marketing. Without a keyword, a website is like a vehicle without gas!<br/>
-  //         Because you need traffic to make money, make sure your website is SEO-optimized to bring you more visitors.<br/>
-  //         To find keywords, there are various tools at your disposal. Additionally, there are tools available to determine whether a site is properly optimized. There are several solutions available for tracking website traffic.<br/>
-  //         Here are some helpful pointers for optimizing your website for search engines:
-  //         </p>
-  //         <ul>
-  //         <li><p>Make the URLs simple.</p></li>
-  //         <li><p>Make the website compatible with all devices.</p></li>
-  //         <li><p>Optimize your images.</p></li>
-  //         <li><p>Avoid keyword stuffing in content.</p></li>
-  //         <li><p>Use internal linking.</p></li>
-  //         <li><p>Optimize meta title and meta description with keywords.</p></li>
-  //         <li><p>Integrate social media pages.</p></li>
-  //         </ul>
-  //         <h5>Tools for SEO</h5>
-  //         <ul>
-  //         <li><p>Google Keyword Planner</p></li>
-  //         <li><p>SEMRUSH</p></li>
-  //         <li><p>Ahrefs</p></li>
-  //         </ul>
-  //         `,
-  //       },
-  //       {
-  //         desc1: `
-  //         <h4>7. Maintenance</h4>
-  //         <p>
-  //         The website is launched online once it has received the all-clear from the testing team and has been made SEO-friendly.<br/>
-  //         Therefore, following the launch, you will be busy managing website upkeep. You will upgrade the website each time you upgrade your product.<br/>
-  //         Every trend calls for a website update, from little to significant. You will thus require the finest upkeep for the website in the long term after constructing it.
-  //         </p>
-  //         `,
-  //       },
-  //       {
-  //         s_id: "C3",
-  //         heading: "The final verdict",
-  //         desc1: `
-  //         <p>
-  //         The web development cycle comprises important stages at each stage. A different collection of material and human resources are required at each phase. Therefore, for superior outcomes, examine the wants and goals prior to beginning the web design and development investigation.
-  // It is important to realize that there is more to web development than just writing and releasing. The process of designing and developing a website is ongoing, and you may always make changes to the site to meet your demands.<br/>
-  // For optimal results, follow the trend and make the necessary adjustments.<br/>
-  // <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">shezitechsolution</a> has built its reputation on providing top-notch website design and development services. Our products are completely unique, readily adaptable, naturally scalable, high-performing, feature-rich, user-friendly, and extremely secure. To learn more about our services or to have an initial conversation with a member of our sales team, <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/contact-us">get in touch with us</a>.
-  //         </p>
-  //         `,
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     slug: "web-design-and-development-definition-elements-and-tips",
-  //     id: 13,
-  //     related: [1, 2, 5],
-  //     metakeywords:
-  //       "Web design and development, Best web design, Design development, Web design development, Web designer, Web developers",
-  //     alt: "Web Design and web development featured Image",
-  //     title: "Web design and development | Definition, Elements and Tips",
-  //     metadescription:
-  //       "Web design and development refers to creating a website. Web design determines the appearance of a website while Web development refers to website code.",
-  //     heading: "Web design and development | Definition, Elements and Tips",
-  //     description: `
-  //     <p>
+          <h4>5. Testing</h4>
+          <p>
+          To offer a better user experience, the website is put through a number of quality tests before launch.<br/>
+          In order to secure your website, testing is essential. If your website is not adequately tested, it will be vulnerable to several threats.<br/>
+          The quality assessment test consists of:
+          </p>
+          <ul>
+          <li><p>Checking the speed of the website,</p></li>
+          <li><p>User interference,</p></li>
+          <li><p>Security checks,</p></li>
+          <li><p>Admin check,</p></li>
+          <li><p>Mobile-friendly appearance,</p></li>
+          <li><p>Stress testing,</p></li>
+          <li><p>Loading testing and more.</p></li>
+          </ul>
+          <p>
+          To ensure that the website is free of all defects, these tests should be performed. Numerous problems can harm the website's performance if testing is unsuccessful.<br/>
+          Numerous tools are available to examine the website. Among them are:
+          </p>
+          <ul>
+          <li><p>Webload</p></li>
+          <li><p>Test IO</p></li>
+          <li><p>W3C link checker</p></li>
+          <li><p>Spider</p></li>
+          <li><p>Net sparker</p></li>
+          </ul>
+          <p>
+          We need to host and launch the website once the testing is over. A domain name and a cloud service like Amazon Web Service, Microsoft Azure, or Google Cloud Products are required to purchase for hosting.<br/>
+          We require CI equipment like,
+          </p>
+          <ul>
+          <li><p>GitHub</p></li>
+          <li><p>Heroku</p></li>
+          <li><p>Netlify</p></li>
+          <li><p>DeployBot</p></li>
+          <li><p>Octopus Deploy</p></li>
+          <li><p>GitLab</p></li>
+          <li><p>Jenkins</p></li>
+          <li><p>AWS CodeDeploy</p></li>
+          <li><p>Bamboo</p></li>
+          <li><p>CircleCI</p></li>
+          <li><p>TeamCity</p></li>
+          </ul>
+          <p>
+          There are many different deployment tools available. Choose the deployment tool that best suits the needs of your website.
+          </p>
+          `,
+        },
+        {
+          desc1: `
+          <h4>6. Marketing and SEO</h4>
+          <p>
+          As a result, we created a website with improved user experience, performance, and design. However, what if it doesn't come up in web searches. Won't it hurt?
+          You must make your website search engine friendly in order to prevent this and make it simple for consumers to locate.<br/>
+          Keywords are the foundation of search engine marketing. Without a keyword, a website is like a vehicle without gas!<br/>
+          Because you need traffic to make money, make sure your website is SEO-optimized to bring you more visitors.<br/>
+          To find keywords, there are various tools at your disposal. Additionally, there are tools available to determine whether a site is properly optimized. There are several solutions available for tracking website traffic.<br/>
+          Here are some helpful pointers for optimizing your website for search engines:
+          </p>
+          <ul>
+          <li><p>Make the URLs simple.</p></li>
+          <li><p>Make the website compatible with all devices.</p></li>
+          <li><p>Optimize your images.</p></li>
+          <li><p>Avoid keyword stuffing in content.</p></li>
+          <li><p>Use internal linking.</p></li>
+          <li><p>Optimize meta title and meta description with keywords.</p></li>
+          <li><p>Integrate social media pages.</p></li>
+          </ul>
+          <h5>Tools for SEO</h5>
+          <ul>
+          <li><p>Google Keyword Planner</p></li>
+          <li><p>SEMRUSH</p></li>
+          <li><p>Ahrefs</p></li>
+          </ul>
+          `,
+        },
+        {
+          desc1: `
+          <h4>7. Maintenance</h4>
+          <p>
+          The website is launched online once it has received the all-clear from the testing team and has been made SEO-friendly.<br/>
+          Therefore, following the launch, you will be busy managing website upkeep. You will upgrade the website each time you upgrade your product.<br/>
+          Every trend calls for a website update, from little to significant. You will thus require the finest upkeep for the website in the long term after constructing it.
+          </p>
+          `,
+        },
+        {
+          s_id: "C3",
+          heading: "The final verdict",
+          desc1: `
+          <p>
+          The web development cycle comprises important stages at each stage. A different collection of material and human resources are required at each phase. Therefore, for superior outcomes, examine the wants and goals prior to beginning the web design and development investigation.
+  It is important to realize that there is more to web development than just writing and releasing. The process of designing and developing a website is ongoing, and you may always make changes to the site to meet your demands.<br/>
+  For optimal results, follow the trend and make the necessary adjustments.<br/>
+  <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">shezitechsolution</a> has built its reputation on providing top-notch website design and development services. Our products are completely unique, readily adaptable, naturally scalable, high-performing, feature-rich, user-friendly, and extremely secure. To learn more about our services or to have an initial conversation with a member of our sales team, <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/contact-us">get in touch with us</a>.
+          </p>
+          `,
+        },
+      ],
+    },
+    {
+      slug: "web-design-and-development-definition-elements-and-tips",
+      id: 13,
+      related: [1, 2, 5],
+      metakeywords:
+        "Web design and development, Best web design, Design development, Web design development, Web designer, Web developers",
+      alt: "Web Design and web development featured Image",
+      title: "Web design and development | Definition, Elements and Tips",
+      metadescription:
+        "Web design and development refers to creating a website. Web design determines the appearance of a website while Web development refers to website code.",
+      heading: "Web design and development | Definition, Elements and Tips",
+      description: `
+      <p>
   
-  //     The concept of web design and development has existed for about as long as there have been websites. It is simple as it is easier to create web pages.<br/>
-  //     You can see how much websites have advanced when comparing the first website with modern web pages. Today, developing and managing websites requires a variety of skill sets and is more complicated.<br/>
-  //     For designers, figuring out exactly where they fit in this environment might be difficult. This article describes web design and development, their differences, and tips to make the best website design.
+      The concept of web design and development has existed for about as long as there have been websites. It is simple as it is easier to create web pages.<br/>
+      You can see how much websites have advanced when comparing the first website with modern web pages. Today, developing and managing websites requires a variety of skill sets and is more complicated.<br/>
+      For designers, figuring out exactly where they fit in this environment might be difficult. This article describes web design and development, their differences, and tips to make the best website design.
   
-  //     </p>
-  //     `,
-  //     image1:
-  //       "assets/images/blog-images/Web-development.jpg",
-  //     author: "Sheraz khan",
-  //     date: "11/10/2022",
-  //     thumbnail:
-  //       "assets/images/blog-images/Web-development.jpg",
-  //     src: "assets/images/blog-images/Web-development.jpg",
-  //     altAttribute: "Web Design and web development",
-  //     arr: [
-  //       {
-  //         heading: "Table of Contents",
-  //         desc1: `
-  //        <ul>
-  //        <a href="#C1" class="blogContent"><li>What is web design and development?</li> </a>
-  //        <a href="#C2" class="blogContent"><li>What is web development?</li></a>
-  //        <a href="#C3" class="blogContent"><li>What is web design?</li></a>
-  //        <a href="#C4" class="blogContent"><li>Elements of best web design</li></a>
-  //        <a href="#C5" class="blogContent"><li>Web designers vs. Web developers</li></a>
-  //        <a href="#C6" class="blogContent"><li>Five tips for creating the best web design</li></a>
-  //        <a href="#C7" class="blogContent"><li>The final verdict</li></a>
-  //        </ul>
-  //         `,
-  //       },
-  //       {
-  //         heading: `What is web design and development?`,
-  //         s_id: "C1",
-  //         desc1: `
-  //         <p>
+      </p>
+      `,
+      image1:
+        "assets/images/blog-images/Web-development.jpg",
+      author: "Sheraz khan",
+      date: "11/10/2022",
+      thumbnail:
+        "assets/images/blog-images/Web-development.jpg",
+      src: "assets/images/blog-images/Web-development.jpg",
+      altAttribute: "Web Design and web development",
+      arr: [
+        {
+          heading: "Table of Contents",
+          desc1: `
+         <ul>
+         <a href="#C1" class="blogContent"><li>What is web design and development?</li> </a>
+         <a href="#C2" class="blogContent"><li>What is web development?</li></a>
+         <a href="#C3" class="blogContent"><li>What is web design?</li></a>
+         <a href="#C4" class="blogContent"><li>Elements of best web design</li></a>
+         <a href="#C5" class="blogContent"><li>Web designers vs. Web developers</li></a>
+         <a href="#C6" class="blogContent"><li>Five tips for creating the best web design</li></a>
+         <a href="#C7" class="blogContent"><li>The final verdict</li></a>
+         </ul>
+          `,
+        },
+        {
+          heading: `What is web design and development?`,
+          s_id: "C1",
+          desc1: `
+          <p>
   
-  //         Web design and development refers to creating or designing a website. It requires two skill sets of design and development, as the name suggests. The web design of a website determines the appearance and experience of a website. Web development refers to the working of a website.<br/>
-  //         Both web design and development roles were the same as there was no clear boundary to differentiate them. However, the roles change as the web continues to evolve.</br>
-  //         Since developers made the first website about 30 years ago, several job titles have appeared to represent the varied skill sets required to develop a website. Unfortunately. These positions overlap, and the definitions vary from business to business. It’s enough to confuse.</br>
-  //         </p>
+          Web design and development refers to creating or designing a website. It requires two skill sets of design and development, as the name suggests. The web design of a website determines the appearance and experience of a website. Web development refers to the working of a website.<br/>
+          Both web design and development roles were the same as there was no clear boundary to differentiate them. However, the roles change as the web continues to evolve.</br>
+          Since developers made the first website about 30 years ago, several job titles have appeared to represent the varied skill sets required to develop a website. Unfortunately. These positions overlap, and the definitions vary from business to business. It’s enough to confuse.</br>
+          </p>
           
-  //         `,
-  //       },
-  //       {
-  //         heading: "What is web development?",
-  //         s_id: "C2",
-  //         alt: "Web Development",
-  //         image1:
-  //           "assets/images/blog-images/Web-development.jpg",
-  //         desc1: `
-  //          <p>
+          `,
+        },
+        {
+          heading: "What is web development?",
+          s_id: "C2",
+          alt: "Web Development",
+          image1:
+            "assets/images/blog-images/Web-development.jpg",
+          desc1: `
+           <p>
           
-  //          Web development means the development of code that powers the website. It has two sections: Front-end and Back-end. The code controls design on websites that a designer has mocked up on the front-end or back-end of an application. An application’s backend is in charge of controlling the data in the database and sending it to the frontend for display. As you might have assumed, the role of the front-end developer overlaps the most with that of the web designer. Below is a list of some specific responsibilities of front end developers:
+           Web development means the development of code that powers the website. It has two sections: Front-end and Back-end. The code controls design on websites that a designer has mocked up on the front-end or back-end of an application. An application’s backend is in charge of controlling the data in the database and sending it to the frontend for display. As you might have assumed, the role of the front-end developer overlaps the most with that of the web designer. Below is a list of some specific responsibilities of front end developers:
   
-  //          </p>
-  //          <ul>
+           </p>
+           <ul>
   
-  //           <li><p>HTML/CSS/JavaScript</p></li>
-  //           <li><p>CSS preprocessors (i.e., LESS or Sass)</p></li>
-  //           <li><p>Frameworks (i.e., AngularJS, ReactJS, Ember)</p></li>
-  //           <li><p>Web template design</p></li>
-  //           <li><p>Libraries (i.e., jQuery)</p></li>
-  //           <li><p>Git and GitHub</p></li>
-  //           <li><p>On-site search engine optimization (SEO)</p></li>
+            <li><p>HTML/CSS/JavaScript</p></li>
+            <li><p>CSS preprocessors (i.e., LESS or Sass)</p></li>
+            <li><p>Frameworks (i.e., AngularJS, ReactJS, Ember)</p></li>
+            <li><p>Web template design</p></li>
+            <li><p>Libraries (i.e., jQuery)</p></li>
+            <li><p>Git and GitHub</p></li>
+            <li><p>On-site search engine optimization (SEO)</p></li>
   
-  //          </ul>
-  //          <p>
-  //          The designer gives mockups. Font choices, and color schemes, not front-end web developers. A developer must select the appropriate technology and achieve the intended look and experience in the final product. Finally, they must know UI/UX design best practices to produce an excellent end product. <br/>
-  //          On the backend of an application, backend developers are responsible for managing the business logic and data. They create the APIs and route the data movement between an application’s front and backend sections. The following is a list of programming languages and tools specific to backend developers:<br/>
+           </ul>
+           <p>
+           The designer gives mockups. Font choices, and color schemes, not front-end web developers. A developer must select the appropriate technology and achieve the intended look and experience in the final product. Finally, they must know UI/UX design best practices to produce an excellent end product. <br/>
+           On the backend of an application, backend developers are responsible for managing the business logic and data. They create the APIs and route the data movement between an application’s front and backend sections. The following is a list of programming languages and tools specific to backend developers:<br/>
   
            
-  //          </p>
+           </p>
   
-  //          <ul>
+           <ul>
   
-  //           <li><p>Server-side programming languages (e.g., PHP, Python, Java, C#)</p></li>
-  //           <li><p>Server-side web development frameworks (e.g., Ruby on Rails, Symfony, ASP.NET)</p></li>
-  //           <li><p>Database management systems (e.g., MySQL, MongoDB, PostgreSQL)</p></li>
-  //           <li><p>RESTful APIs</p></li>
-  //           <li><p>Authentication and security (e.g., OAuth, PassportJS)</p></li>
-  //           <li><p>Servers (e.g., Linux, Apache, Express)</p></li>
+            <li><p>Server-side programming languages (e.g., PHP, Python, Java, C#)</p></li>
+            <li><p>Server-side web development frameworks (e.g., Ruby on Rails, Symfony, ASP.NET)</p></li>
+            <li><p>Database management systems (e.g., MySQL, MongoDB, PostgreSQL)</p></li>
+            <li><p>RESTful APIs</p></li>
+            <li><p>Authentication and security (e.g., OAuth, PassportJS)</p></li>
+            <li><p>Servers (e.g., Linux, Apache, Express)</p></li>
   
-  //          </ul>
-  //          <p>Full-stack web developers are proficient in a technological stack's front-end and back-end.</p>
-  //          `,
-  //       },
-  //       {
-  //         heading: "What is web design?",
-  //         s_id: "C3",
-  //         image1:
-  //           "assets/images/blog-images/web-design-and-development/section-3.jpg",
-  //         alt: "Web Design",
-  //         desc1: `
-  //         <p>
-  //         Color scheme, layout, information flow and all other visual elements of the UI/UX are within the scope of web design.It controls every aspect of a website’s visual appeal and usefulness. The following are some basic abilities and resources that separate web designers from web developers:
-  //         </p>
-  //         <ul>
+           </ul>
+           <p>Full-stack web developers are proficient in a technological stack's front-end and back-end.</p>
+           `,
+        },
+        {
+          heading: "What is web design?",
+          s_id: "C3",
+          image1:
+            "assets/images/blog-images/web-design-and-development/section-3.jpg",
+          alt: "Web Design",
+          desc1: `
+          <p>
+          Color scheme, layout, information flow and all other visual elements of the UI/UX are within the scope of web design.It controls every aspect of a website’s visual appeal and usefulness. The following are some basic abilities and resources that separate web designers from web developers:
+          </p>
+          <ul>
   
-  //         <li><p>Adobe Creative Suite (e.g., Photoshop, Illustrator) or other design software</p></li>
-  //         <li><p>Graphic design</p></li>
-  //         <li><p>UI design</p></li>
-  //         <li><p>UX design</p></li>
-  //         <li><p>Logo design</p></li>
-  //         <li><p>Layout/format</p></li>
-  //         <li><p>Placing call-to-action buttons</p></li>
-  //         <li><p>Branding</p></li>
-  //         <li><p>Wireframes, mockups, and storyboards</p></li>
-  //         <li><p>Color palettes</p></li>
-  //         <li><p>Typography</p></li>
+          <li><p>Adobe Creative Suite (e.g., Photoshop, Illustrator) or other design software</p></li>
+          <li><p>Graphic design</p></li>
+          <li><p>UI design</p></li>
+          <li><p>UX design</p></li>
+          <li><p>Logo design</p></li>
+          <li><p>Layout/format</p></li>
+          <li><p>Placing call-to-action buttons</p></li>
+          <li><p>Branding</p></li>
+          <li><p>Wireframes, mockups, and storyboards</p></li>
+          <li><p>Color palettes</p></li>
+          <li><p>Typography</p></li>
   
-  //        </ul>
+         </ul>
           
-  //        <p>The main concern of web design is the user’s interface on the device, not the technical details that enable everything to operate. Instead, they bring user experiences to life using color, graphics, fonts, and layout.  </p>
-  //        <p>However, many web designers are proficient in HTML, CSS, and JavaScript. This is helpful when attempting to present an idea to the team or improve the UI/UX of an app because it allows you to make live mockups of a web app. In addition, web designers use platforms that construct websites utilizing themes and widgets without writing a single line of code.</p>
+         <p>The main concern of web design is the user’s interface on the device, not the technical details that enable everything to operate. Instead, they bring user experiences to life using color, graphics, fonts, and layout.  </p>
+         <p>However, many web designers are proficient in HTML, CSS, and JavaScript. This is helpful when attempting to present an idea to the team or improve the UI/UX of an app because it allows you to make live mockups of a web app. In addition, web designers use platforms that construct websites utilizing themes and widgets without writing a single line of code.</p>
           
-  //         `,
-  //       },
-  //       {
-  //         heading: "Elements of the best web design:",
-  //         s_id: "C4",
-  //         desc1: `
-  //          <p>
-  //                   For their users, web designers always come up with solutions. Users should be able to navigate websites and carry out their desired actions. An unhappy user is less likely to hang around and return to a website. All the components of web design make the users visit from time to time to engage with the website’s functionality.<br/>
-  //          </p>
-  //          <p>
-  //          <strong>Layout:</strong> A website's header, navigation bar, footer, content, and images are arranged according to its layout. The layout is determined by the goals of the website and the desired user experience.<br/>
-  //          </p>
-  //          <p><strong>Graphical Structure:</strong> A user should be able to find the information they need on a website. Graphical structure enters the scene at this point. Choosing which aesthetic elements of the website should stand out utilizing size, color, spacing, and other factors are known as graphical structure.</p>
-  //          <p><strong>Navigation:</strong> Using navigational help like site layout, menus, and search bars, allows a user to move from one place to another. Users may locate the information they're looking for with uncomplicated and efficient navigation.</p>
-  //          <p><strong>Color:</strong> A website's color scheme gives it identity, helps it stand out in the market, and instructs users on what to do. The current business or website content identification may influence the color scheme. An organized color scheme adds purpose to a website.</p>
-  //          <p><strong>Graphics:</strong> A website's pictures, icons, and logos are its graphics. They need to fit with the style, content, and color scheme.</p>
-  //          <p><strong>Speed:</strong> The time it takes for a website to load impacts the user's first impression. The possibility is that the user won't stay if it takes a bit longer.</p>
+          `,
+        },
+        {
+          heading: "Elements of the best web design:",
+          s_id: "C4",
+          desc1: `
+           <p>
+                    For their users, web designers always come up with solutions. Users should be able to navigate websites and carry out their desired actions. An unhappy user is less likely to hang around and return to a website. All the components of web design make the users visit from time to time to engage with the website’s functionality.<br/>
+           </p>
+           <p>
+           <strong>Layout:</strong> A website's header, navigation bar, footer, content, and images are arranged according to its layout. The layout is determined by the goals of the website and the desired user experience.<br/>
+           </p>
+           <p><strong>Graphical Structure:</strong> A user should be able to find the information they need on a website. Graphical structure enters the scene at this point. Choosing which aesthetic elements of the website should stand out utilizing size, color, spacing, and other factors are known as graphical structure.</p>
+           <p><strong>Navigation:</strong> Using navigational help like site layout, menus, and search bars, allows a user to move from one place to another. Users may locate the information they're looking for with uncomplicated and efficient navigation.</p>
+           <p><strong>Color:</strong> A website's color scheme gives it identity, helps it stand out in the market, and instructs users on what to do. The current business or website content identification may influence the color scheme. An organized color scheme adds purpose to a website.</p>
+           <p><strong>Graphics:</strong> A website's pictures, icons, and logos are its graphics. They need to fit with the style, content, and color scheme.</p>
+           <p><strong>Speed:</strong> The time it takes for a website to load impacts the user's first impression. The possibility is that the user won't stay if it takes a bit longer.</p>
            
            
-  //          `,
-  //       },
-  //       {
-  //         heading: "Web designers vs. web developers",
-  //         s_id: "C5",
-  //         alt: "Web designers vs Web Developers",
-  //         image1:
-  //           "assets/images/blog-images/web-design-and-development/section-5.jpg",
-  //         desc1: `
+           `,
+        },
+        {
+          heading: "Web designers vs. web developers",
+          s_id: "C5",
+          alt: "Web designers vs Web Developers",
+          image1:
+            "assets/images/blog-images/web-design-and-development/section-5.jpg",
+          desc1: `
           
-  //         <p>
-  //         Now that we've established that web design and web development are two different fields, let's examine the main differences between web designers and web developers.
-  //         </p>  
-  //         <h4>Web designers are not coders.</h4>
-  //         <p>
-  //         A website's appearance and user experience are the web designers' responsibility. Designers may use a visual editor like Photoshop, an app prototype, and an animation application to develop layouts and produce high-fidelity mockups. However, none of these primary duties need coding.<br/>
-  //         Web designers may use their visual skills to develop your website without knowing how to code, thanks to the rise of content management systems (CMS) like WordPress and no-code website builders like Wix. This goes beyond their conventional job as visual designers.
-  //         </p>
-  //         <h4>Assets are not the responsibility of web developers.</h4>
-  //         <p>Web developers have the coding knowledge necessary to expand a website's functionality. Using HTML, CSS, and JavaScript, they convert the schematics and mockups of the designer into code. The pictures used as the background for buttons, color schemes, and fonts are examples of visual assets that web developers often don't have to produce themselves. Instead, they only need to use programming to integrate them into the page.<br/>
-  //         </p>
-  //         <h4>The market value of web designers and developers.</h4>
-  //         <p>
-  //         A web developer is more costly than a web designer. Supply and demand are the leading causes of this mismatch; there are more designers than developers, and coding is in-demand. The difference in pricing decreases as coding becomes more commonplace across the market. However, you are paying for experience with market competence.</p>
+          <p>
+          Now that we've established that web design and web development are two different fields, let's examine the main differences between web designers and web developers.
+          </p>  
+          <h4>Web designers are not coders.</h4>
+          <p>
+          A website's appearance and user experience are the web designers' responsibility. Designers may use a visual editor like Photoshop, an app prototype, and an animation application to develop layouts and produce high-fidelity mockups. However, none of these primary duties need coding.<br/>
+          Web designers may use their visual skills to develop your website without knowing how to code, thanks to the rise of content management systems (CMS) like WordPress and no-code website builders like Wix. This goes beyond their conventional job as visual designers.
+          </p>
+          <h4>Assets are not the responsibility of web developers.</h4>
+          <p>Web developers have the coding knowledge necessary to expand a website's functionality. Using HTML, CSS, and JavaScript, they convert the schematics and mockups of the designer into code. The pictures used as the background for buttons, color schemes, and fonts are examples of visual assets that web developers often don't have to produce themselves. Instead, they only need to use programming to integrate them into the page.<br/>
+          </p>
+          <h4>The market value of web designers and developers.</h4>
+          <p>
+          A web developer is more costly than a web designer. Supply and demand are the leading causes of this mismatch; there are more designers than developers, and coding is in-demand. The difference in pricing decreases as coding becomes more commonplace across the market. However, you are paying for experience with market competence.</p>
   
-  //         `,
-  //       },
-  //       {
-  //         heading: "Five tips for creating the best web design",
-  //         s_id: "C6",
-  //         desc1: `
-  //         <p>
-  //         There are countless turns and directions your website may take when it comes to design. It can be anything from elegant to simple, fun and vivid to stylish and contemporary.<br/>
-  //         Specific broad rules are always applicable, even though your final design represents your taste, industry, and brand identity.<br/>
-  //         The functionality and user experience of your website are enhanced by the best web design, which is also intuitive at first sight. Below are four quick tips for designing a website that will be engaging and effective:
+          `,
+        },
+        {
+          heading: "Five tips for creating the best web design",
+          s_id: "C6",
+          desc1: `
+          <p>
+          There are countless turns and directions your website may take when it comes to design. It can be anything from elegant to simple, fun and vivid to stylish and contemporary.<br/>
+          Specific broad rules are always applicable, even though your final design represents your taste, industry, and brand identity.<br/>
+          The functionality and user experience of your website are enhanced by the best web design, which is also intuitive at first sight. Below are four quick tips for designing a website that will be engaging and effective:
   
           
-  //         </p>
+          </p>
           
-  //         <ul>
+          <ul>
           
-  //         <li><p>Keep your homepage simple and clutter-free</p></li>
-  //         <li><p>Design with a focus on graphic sequence</p></li>
-  //         <li><p>Ensure that your website is easy to navigate.</p></li>
-  //         <li><p>Keep it mobile-friendly</p></li>
+          <li><p>Keep your homepage simple and clutter-free</p></li>
+          <li><p>Design with a focus on graphic sequence</p></li>
+          <li><p>Ensure that your website is easy to navigate.</p></li>
+          <li><p>Keep it mobile-friendly</p></li>
           
-  //         </ul>
+          </ul>
           
-  //         <h4>Keep your homepage simple and clutter-free</h4>
+          <h4>Keep your homepage simple and clutter-free</h4>
   
-  //         <p>
+          <p>
           
-  //         Your website's home page should immediately convey your essential purpose. Users don't usually browse a webpage from top to bottom, highlighting essential phrases, sentences, and pictures. Instead of focusing on word count, appeal to emotions is preferred.<br/>
-  //         Visitors to your website will better comprehend and assess your content if there is less for them to read, click on, or remember. You may increase the likelihood that people will do the actions you want them to by planning for dwindling attention spans and using the best website design. When you move towards a more stylish and modern website design, there is a probability that you may attract more attention from users.<br/>
-  //         These simple website design hints can assist you in understanding how to break up your material and create an appealing and welcoming homepage:
+          Your website's home page should immediately convey your essential purpose. Users don't usually browse a webpage from top to bottom, highlighting essential phrases, sentences, and pictures. Instead of focusing on word count, appeal to emotions is preferred.<br/>
+          Visitors to your website will better comprehend and assess your content if there is less for them to read, click on, or remember. You may increase the likelihood that people will do the actions you want them to by planning for dwindling attention spans and using the best website design. When you move towards a more stylish and modern website design, there is a probability that you may attract more attention from users.<br/>
+          These simple website design hints can assist you in understanding how to break up your material and create an appealing and welcoming homepage:
           
-  //         </p>
+          </p>
   
-  //         <ul>
-  //         <li><p><strong>Keep essential information visible at all times:</strong> Visitors should be able to comprehend the purpose of your website without having to navigate or click anywhere.</p></li>
-  //         <li><p><strong>Give your content space:</strong> Use space between components to breathe. By leaving specific areas empty, you may give the design a much more airy, balanced sense. Write your material in manageable, readable chunks.</p></li>
-  //         <li><p><strong>Imagery addition:</strong> High-quality media elements, including stunning photos, vector art, or icons, work well as substitute ways to make your argument.</p></li>
-  //         <li><p><strong>Use call to action:</strong> Use a call-to-action (CTA) button on your website's home page to persuade users to do the desired action, such as buying or signing up.</p></li>
-  //         </ul>
+          <ul>
+          <li><p><strong>Keep essential information visible at all times:</strong> Visitors should be able to comprehend the purpose of your website without having to navigate or click anywhere.</p></li>
+          <li><p><strong>Give your content space:</strong> Use space between components to breathe. By leaving specific areas empty, you may give the design a much more airy, balanced sense. Write your material in manageable, readable chunks.</p></li>
+          <li><p><strong>Imagery addition:</strong> High-quality media elements, including stunning photos, vector art, or icons, work well as substitute ways to make your argument.</p></li>
+          <li><p><strong>Use call to action:</strong> Use a call-to-action (CTA) button on your website's home page to persuade users to do the desired action, such as buying or signing up.</p></li>
+          </ul>
   
-  //         <h4>Design with a focus on graphic structure</h4>
+          <h4>Design with a focus on graphic structure</h4>
   
-  //         <p>
+          <p>
           
-  //         Sequencing is a crucial design idea that aids in presenting your material. The correct usage of the graphical sequence will enable you to draw site users' attention to certain page parts in the correct order, beginning with the essential factor.<br/>
-  //         The main components of the graphical structure are:
-  //         </p>
+          Sequencing is a crucial design idea that aids in presenting your material. The correct usage of the graphical sequence will enable you to draw site users' attention to certain page parts in the correct order, beginning with the essential factor.<br/>
+          The main components of the graphical structure are:
+          </p>
   
-  //         <ul>
-  //         <li><p><strong>Size and weight:</strong> Make your company's name and logo, among other key assets, larger and more prominent. Large, strong headlines catch readers' attention, then go on to smaller paragraph material.</p></li>
-  //         <li><p><strong>Placing the element:</strong> Use the proper website layout to draw users' attention to the appropriate areas. For instance, you could put your logo in the header or a key call-to-action button right in the middle of the screen.</p></li>
-  //         </ul>
+          <ul>
+          <li><p><strong>Size and weight:</strong> Make your company's name and logo, among other key assets, larger and more prominent. Large, strong headlines catch readers' attention, then go on to smaller paragraph material.</p></li>
+          <li><p><strong>Placing the element:</strong> Use the proper website layout to draw users' attention to the appropriate areas. For instance, you could put your logo in the header or a key call-to-action button right in the middle of the screen.</p></li>
+          </ul>
   
-  //         <p>
-  //         Once you build a clear structure for your material, readers will follow the trails you have set for them without realizing it. Apply color, contrast, and space to the area that needs more emphasis, keeping an eye on what's grabbing the most attention and ensuring it's always deliberate.</p>
+          <p>
+          Once you build a clear structure for your material, readers will follow the trails you have set for them without realizing it. Apply color, contrast, and space to the area that needs more emphasis, keeping an eye on what's grabbing the most attention and ensuring it's always deliberate.</p>
   
-  //         <h4>Ensure that your website is easy to navigate.</h4>
+          <h4>Ensure that your website is easy to navigate.</h4>
   
-  //         <p>
+          <p>
           
-  //         Even though breaking the rules may be in your nature, website navigation is not the place to be innovative. In the end, you want your users to find what they need. Additionally, a site with good navigation makes it easier for users to navigate and for search engines to index your content:
-  //         </p>
+          Even though breaking the rules may be in your nature, website navigation is not the place to be innovative. In the end, you want your users to find what they need. Additionally, a site with good navigation makes it easier for users to navigate and for search engines to index your content:
+          </p>
   
-  //         <ul>
-  //         <li><p><strong>Link your logo to the homepage:</strong> This website design tip is a standard practice that your visitors will anticipate, saving them valuable clicks. If you don't already have one, developing a logo as part of your branding activities is advised.</p></li>
-  //         <li><p><strong>Mind your menu:</strong> Regardless of whether you use a traditional horizontal list, a hamburger menu, or something different, your website menu should be visible and simple to access. In addition, make sure the design is based on the significance of each area.</p></li>
-  //         <li><p><strong>Offer vertical navigation:</strong> If your website has a long scroll, like a one-page website, use an anchor menu. Viewers may navigate to any website part with only one click. Another choice is the "Back to Top" button, which returns them to the page's top no matter where a user is on your website.</p></li>
-  //         <li><p><strong>Work on your footer:</strong> All of your essential links should be included in the website footer as it is the final thing visitors will see when they visit your page. This might be a condensed menu version, social network icons, your contact information, or any other valuable connections that site visitors might require.</p></li>
-  //         </ul>
+          <ul>
+          <li><p><strong>Link your logo to the homepage:</strong> This website design tip is a standard practice that your visitors will anticipate, saving them valuable clicks. If you don't already have one, developing a logo as part of your branding activities is advised.</p></li>
+          <li><p><strong>Mind your menu:</strong> Regardless of whether you use a traditional horizontal list, a hamburger menu, or something different, your website menu should be visible and simple to access. In addition, make sure the design is based on the significance of each area.</p></li>
+          <li><p><strong>Offer vertical navigation:</strong> If your website has a long scroll, like a one-page website, use an anchor menu. Viewers may navigate to any website part with only one click. Another choice is the "Back to Top" button, which returns them to the page's top no matter where a user is on your website.</p></li>
+          <li><p><strong>Work on your footer:</strong> All of your essential links should be included in the website footer as it is the final thing visitors will see when they visit your page. This might be a condensed menu version, social network icons, your contact information, or any other valuable connections that site visitors might require.</p></li>
+          </ul>
   
-  //         <h4>Keep it mobile-friendly</h4>
+          <h4>Keep it mobile-friendly</h4>
   
-  //         <p>
-  //         All website visitors should be able to experience your website at its very best, regardless of the device they're using to browse.<br/>
-  //         Examine and test every page, user choice, and button on the mobile version of your website while keeping in mind the user's perspective.<br/>
-  //         To make your website simpler and less cluttered on mobile than the desktop version, consider minimizing page components and scaling down some elements, such as the menu. You might also employ certain mobile features to enhance your mobile design.
+          <p>
+          All website visitors should be able to experience your website at its very best, regardless of the device they're using to browse.<br/>
+          Examine and test every page, user choice, and button on the mobile version of your website while keeping in mind the user's perspective.<br/>
+          To make your website simpler and less cluttered on mobile than the desktop version, consider minimizing page components and scaling down some elements, such as the menu. You might also employ certain mobile features to enhance your mobile design.
           
-  //         </p>
+          </p>
   
   
-  //         `,
-  //       },
-  //       {
-  //         s_id: "C7",
-  //         heading: "The final verdict",
-  //         desc1: `  
-  //       <p>
-  //       How can your team ensure that your product delivers the online experience that keeps users returning? Every day, more and more of life is taking place on screens.<br/>
-  //       <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">shezitechsolution INC</a> is a customer-focused web design and development firm based in Canada. <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/contact-us">Get in touch</a> with us now to see how we can help your company succeed online! 
-  //       <a href="https://www.facebook.com/shezitechsolutionINC" target="_blank"  class="blogLinks" rel="nofollow">Find us on Facebook</a>, 
-  //       <a href="https://twitter.com/shezitechsolutionINC" target="_blank"  class="blogLinks" rel="nofollow">Twitter</a>, 
-  //       and <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQF8Q2nQ1WomfwAAAYRiT65gm_vlz_LxHybBC0_qcRQApNiFaDRqDfVpuzbA4h3OTnd1MyjNTUd093kgOhyvy3WxjubwGh-WbjI4K_UUMe7Og4ZHmz64Lv7PJQDulGP4uc9xab4=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fweb-sailors-inc" target="_blank"  class="blogLinks" rel="nofollow">LinkedIn</a>.
-  //       </p>`,
-  //       },
-  //     ],
-  //   },
+          `,
+        },
+        {
+          s_id: "C7",
+          heading: "The final verdict",
+          desc1: `  
+        <p>
+        How can your team ensure that your product delivers the online experience that keeps users returning? Every day, more and more of life is taking place on screens.<br/>
+        <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">shezitechsolution INC</a> is a customer-focused web design and development firm based in Canada. <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/contact-us">Get in touch</a> with us now to see how we can help your company succeed online! 
+        <a href="https://www.facebook.com/shezitechsolutionINC" target="_blank"  class="blogLinks" rel="nofollow">Find us on Facebook</a>, 
+        <a href="https://twitter.com/shezitechsolutionINC" target="_blank"  class="blogLinks" rel="nofollow">Twitter</a>, 
+        and <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQF8Q2nQ1WomfwAAAYRiT65gm_vlz_LxHybBC0_qcRQApNiFaDRqDfVpuzbA4h3OTnd1MyjNTUd093kgOhyvy3WxjubwGh-WbjI4K_UUMe7Og4ZHmz64Lv7PJQDulGP4uc9xab4=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fweb-sailors-inc" target="_blank"  class="blogLinks" rel="nofollow">LinkedIn</a>.
+        </p>`,
+        },
+      ],
+    },
   //   {
   //     slug: "how-to-work-with-your-outsource-development-team",
   //     id: 12,
