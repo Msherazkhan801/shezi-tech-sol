@@ -1,7 +1,7 @@
 import  { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Link, useLocation } from "react-router-dom";
-import Logo from "../assets/images/Logo2.png";
+import Logo from "../assets/images/Logo2.webp";
 import {  FiChevronDown, FiArrowRight } from "react-icons/fi";
 import {
   FaHome,

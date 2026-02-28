@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { motion, useAnimation } from "framer-motion";
 import { Link } from "react-router-dom";
-import heroImage from "../assets/images/SaaS-4.png"; // Replace with your image
+import heroImage from "../assets/images/SaaS-4.webp"; // Replace with your image
 import { 
   FaPenAlt, 
   FaCode, 

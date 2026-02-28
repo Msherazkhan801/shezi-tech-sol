@@ -1,6 +1,6 @@
 // src/components/CallToActionSection.js
 import React from 'react';
-import bg from '../assets/images/call-to-action-bg.png'; // Make sure image is in src/assets
+import bg from '../assets/images/call-to-action-bg.webp'; // Make sure image is in src/assets
 import { Link } from 'react-router-dom';
 
 const CallToActionSection = () => {
