@@ -1,5 +1,5 @@
 import React from 'react';
-import { Scale, FileText, AlertCircle, Ban, CheckCircle, ArrowLeft } from 'lucide-react';
+import { Scale, FileText, AlertCircle, Ban, CheckCircle, } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 

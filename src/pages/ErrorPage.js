@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { Home, RefreshCcw, Search } from 'lucide-react';
+import { Home, } from 'lucide-react';
 
 const ErrorPage = () => {
   return (
