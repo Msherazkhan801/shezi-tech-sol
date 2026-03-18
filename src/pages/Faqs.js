@@ -59,7 +59,7 @@ const faqData = [
     icon: <FileText className="w-5 h-5 text-blue-500" />
   },
 
-  // --- SECTION: PAYMENTS & PROCESS ---
+  // --- SECTION: PAYMENTS & PROCESS ----
   {
     question: "How do you handle revisions if I'm not satisfied?",
     answer: "Customer satisfaction is key. We offer unlimited minor revisions for technical projects and specific revision windows for academic work to ensure the final result meets your expectations.",
