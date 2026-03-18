@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Link, useLocation } from 'react-router-dom';
 import {
@@ -8,7 +8,6 @@ import {
   FaYoutube,
   FaEnvelope,
   FaPhone,
-  FaMapMarkerAlt,
   FaRocket,
   FaPaperPlane,
   FaHeart,
@@ -93,7 +92,6 @@ const Footer = () => {
   ];
 
   const contactInfo = [
-    // { icon: <FaMapMarkerAlt />, text: "Bahria Town phase IV, Islamabad,Pakistan " },
     { icon: <FaEnvelope />, text: "shezitechsolution@gmail.com" },
     { icon: <FaPhone />, text: "+92 347 294 3510" },
   ];
