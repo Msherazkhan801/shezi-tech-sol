@@ -173,7 +173,10 @@
   .twitterBtn:hover {
     color: #00acee;
   }
-  
+  a{
+      color: #123eff;
+      textdecoration: underline;
+  }
   @media screen and (min-width: 1600px) {
     .blogDetailCover {
       margin-top: 245px;
