@@ -5,7 +5,7 @@ import { ChevronDown, BookOpen, Code, Search, ShieldCheck, Globe, GraduationCap,
 const faqData = [
   // --- SECTION: CUSTOM SAAS & TECH ---
   {
-    question: "What tech stack do you use for Custom SaaS Development?",
+    question: "What tech stack in 2026 do you use for Custom SaaS Development?",
     answer: "We specialize in modern, scalable stacks including React, Next.js, and Node.js. Every project is built with a focus on SEO-friendly architecture and mobile optimization to ensure high performance.",
     icon: <Code className="w-5 h-5 text-purple-600" />
   },

@@ -2374,7 +2374,7 @@ const BlogsContents = [
           desc1: `
           <h4>6. Marketing and SEO</h4>
           <p>
-          As a result, we created a website with improved user experience, performance, and design. However, what if it doesn't come up in web searches. Won't it hurt?
+          As a result, we created a website with improved user experience,<a href="https://sunnysidevideo.com/" target="_blank"  class="blogLinks" rel="nofollow">performance, and design.</a>  However, what if it doesn't come up in web searches. Won't it hurt?
           You must make your website search engine friendly in order to prevent this and make it simple for consumers to locate.<br/>
           Keywords are the foundation of search engine marketing. Without a keyword, a website is like a vehicle without gas!<br/>
           Because you need traffic to make money, make sure your website is SEO-optimized to bring you more visitors.<br/>
@@ -2690,420 +2690,420 @@ const BlogsContents = [
         },
       ],
     },
-  //   {
-  //     slug: "how-to-work-with-your-outsource-development-team",
-  //     id: 12,
-  //     related: [2, 5, 9],
-  //     metakeywords:
-  //       "outsource development, Outsource development team, Offshore development, Offshore development team, Offshore team, developers outsourcing dedicated team, outsourced software development team, outsource development, Outsource development team, outsource dedicated software development teams" +
-  //       "Offshore development team, offshore staff, outsource software development team",
-  //     alt: "Outsource development team",
-  //     title: "How to Work With Your Outsource Development Team",
-  //     metadescription:
-  //       "Outsourcing Development team was thought to be a way to reduce costs and gain time but it supports firms, especially startups, in remaining competitive and achieving an advantage over their rivals.",
-  //     heading: "How to Work With Your Outsource Development Team",
-  //     description: `
-  //     <p>Outsourcing is a tried-and-true strategy businesses use to access global talent, streamline operations, and enable entrepreneurs to concentrate on their core company objectives.<br/>
-  //     Offshoring was thought to be a way to reduce costs and gain time. Today, it supports firms, especially startups, in remaining competitive and achieving an advantage over their rivals.<br/>
-  //     The success of a startup depends on assembling the right team. The best teams are onshore and offshore for most successful firms. For example, a product specialist to guarantee that what the customer wants and the developers offer are the same, a founder onshore to get first-hand customer input, a technical person to break it down into technical requirements for developers, and a team of developers who produce top-notch code. Whether an offshore or onshore team, the success of the product delivery hinges on how effectively they collaborate.<br/>
-  //     Is finding the ideal onshore-offshore balance the best course of action? Your choice.
-  //     </p>
-  //     `,
-  //     image1:
-  //       "assets/images/blog-images/team.jpg",
-  //     author: "Sheraz khan",
-  //     date: "11/8/2022",
-  //     thumbnail:
-  //       "assets/images/blog-images/team.jpg",
-  //     src: "assets/images/blog-images/team.jpg",
-  //     altAttribute: "mobile app",
-  //     arr: [
-  //       {
-  //         heading: "Table of Contents",
-  //         desc1: `
-  //        <ul>
-  //        <a href="#C1" class="blogContent"><li>Why Having an outsource Development Team Is a Good Idea</li> </a>
-  //        <a href="#C2" class="blogContent"><li>How We Roll?</li></a>
-  //        <a href="#C3" class="blogContent"><li>They Are Your outsource development team</li></a>
-  //        <a href="#C4" class="blogContent"><li>Take Advantage of Different Communication Channels</li></a>
-  //        <a href="#C5" class="blogContent"><li>The final verdict</li></a>
-  //        </ul>
-  //         `,
-  //       },
-  //       {
-  //         heading: `Why Having an outsource Development Team Is a Good Idea`,
-  //         s_id: "C1",
-  //       },
-  //       {
-  //         headings: "More Skills Than On Site",
-  //         desc1: `
-  //          <p>
-  //          Finding highly experienced software engineers may be incredibly challenging, especially when your firm is just getting off the ground. For starters, there needs to be more skill to discover the necessary resources in the world. Second, given the fierce competition for brilliant people, persuading the greatest talents to join your firm will be challenging.<br/>
-  //          Finding an outsource development team will help you overcome these obstacles. Your ideal team's potential source of talent will grow exponentially larger. If you recruit them, productivity will grow, and you could even save time or manage your time effectively.<br/>
-  //          Your committed outsource development team members will work through the night while your onshore workforce is sleeping. But, even while you are asleep, you are working. 
+    {
+      slug: "how-to-work-with-your-outsource-development-team",
+      id: 12,
+      related: [2, 5, 9],
+      metakeywords:
+        "outsource development, Outsource development team, Offshore development, Offshore development team, Offshore team, developers outsourcing dedicated team, outsourced software development team, outsource development, Outsource development team, outsource dedicated software development teams" +
+        "Offshore development team, offshore staff, outsource software development team",
+      alt: "Outsource development team",
+      title: "How to Work With Your Outsource Development Team",
+      metadescription:
+        "Outsourcing Development team was thought to be a way to reduce costs and gain time but it supports firms, especially startups, in remaining competitive and achieving an advantage over their rivals.",
+      heading: "How to Work With Your Outsource Development Team",
+      description: `
+      <p>Outsourcing is a tried-and-true strategy businesses use to access global talent, streamline operations, and enable entrepreneurs to concentrate on their core company objectives.<br/>
+      Offshoring was thought to be a way to reduce costs and gain time. Today, it supports firms, especially startups, in remaining competitive and achieving an advantage over their rivals.<br/>
+      The success of a startup depends on assembling the right team. The best teams are onshore and offshore for most successful firms. For example, a product specialist to guarantee that what the customer wants and the developers offer are the same, a founder onshore to get first-hand customer input, a technical person to break it down into technical requirements for developers, and a team of developers who produce top-notch code. Whether an offshore or onshore team, the success of the product delivery hinges on how effectively they collaborate.<br/>
+      Is finding the ideal onshore-offshore balance the best course of action? Your choice.
+      </p>
+      `,
+      image1:
+        "assets/images/blog-images/team.jpg",
+      author: "Sheraz khan",
+      date: "11/8/2022",
+      thumbnail:
+        "assets/images/blog-images/team.jpg",
+      src: "assets/images/blog-images/team.jpg",
+      altAttribute: "mobile app",
+      arr: [
+        {
+          heading: "Table of Contents",
+          desc1: `
+         <ul>
+         <a href="#C1" class="blogContent"><li>Why Having an outsource Development Team Is a Good Idea</li> </a>
+         <a href="#C2" class="blogContent"><li>How We Roll?</li></a>
+         <a href="#C3" class="blogContent"><li>They Are Your outsource development team</li></a>
+         <a href="#C4" class="blogContent"><li>Take Advantage of Different Communication Channels</li></a>
+         <a href="#C5" class="blogContent"><li>The final verdict</li></a>
+         </ul>
+          `,
+        },
+        {
+          heading: `Why Having an outsource Development Team Is a Good Idea`,
+          s_id: "C1",
+        },
+        {
+          headings: "More Skills Than On Site",
+          desc1: `
+           <p>
+           Finding highly experienced software engineers may be incredibly challenging, especially when your firm is just getting off the ground. For starters, there needs to be more skill to discover the necessary resources in the world. Second, given the fierce competition for brilliant people, persuading the greatest talents to join your firm will be challenging.<br/>
+           Finding an outsource development team will help you overcome these obstacles. Your ideal team's potential source of talent will grow exponentially larger. If you recruit them, productivity will grow, and you could even save time or manage your time effectively.<br/>
+           Your committed outsource development team members will work through the night while your onshore workforce is sleeping. But, even while you are asleep, you are working. 
           
-  //          </p>
-  //          `,
-  //       },
-  //       {
-  //         headings: "Cost-Effectiveness",
-  //         desc1: `
-  //         <p>
-  //         As a startup, you must always monitor your resource use. In addition, your team's salaries make up a sizable portion of your costs, so your firm needs to strike the ideal balance between skill and cost-effectiveness.<br/>
-  //         Offshoring is helpful in this situation. You may <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/hiring-react-developers">hire some of the top professionals</a> in the field for practically half the price. If you outsource your development, you can save money on benefits, bonuses, and pay.<br/>
-  //         A developer typically charges at least $75 per hour in the USA. However, you may hire a senior developer overseas for $25 to $35 per hour.<br/>
-  //         These prospective savings are only  meaningful if the team functions well. Based on our experience, getting the team to operate effectively together is more important than debating whether to have someone onshore or offshore.<br/>
-  //         Your ability to concentrate on your core company operations will improve thanks to an outsource development team that will handle your <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/technologies">technological needs</a>. They assist your internal team in focusing on the essential matters that demand your undivided attention, such as business strategy, goals, development plans, etc. Additionally, you have the freedom to adjust the size of your team in accordance with your needs.<br/>
-  //         The main line is that it doesn't matter if your team is onshore or offshore as long as they are working effectively together and toward the same goal. You might save thousands of dollars each month if your team structure is appropriately balanced.<br/>
-  //         Not just that.<br/>
-  //         Offshoring offers numerous advantages but also introduces new challenges. We will look into solutions to these problems and learn how to manage developers of your outsourcing dedicated team.<br/>
-  //         Let's get going and discover how to manage an overseas crew properly.
-  //         </p>`,
-  //       },
-  //       {
-  //         headings: "Flexibility",
-  //         desc1: `
-  //          <p>
-  //          There are several ways to look at this, but let's start with the most apparent one: working remotely allows you to pick the appropriate candidates from a vast audience. You can relieve someone of their tasks and look for someone else if you discover they need to provide you with the results you are looking for, selecting your preferred abilities from a list.<br/>
-  //          The other perspective is that your core team may concentrate on the duties that have been given to them, and your remote team can work on the things that support your core team. An onshore and outsource development team that functions seamlessly may be built with an efficient team management plan.<br/>
-  //          Companies that create software and apps gain the most from managing an outsource team. It will be difficult for a physical product to be created and dispatched in real-time without delay. Still, their product can be finished extremely close to the deadline.
-  //          </p>`,
-  //       },
-  //       {
-  //         headings: "Communication",
-  //         alt: "outsource team communication",
-  //         image1:
-  //           "assets/images/blog-images/working-with-offshore-companies/section1-1.jpg",
-  //         desc1: `
-  //         <p>
-  //         Your prospects of success might be made or broken by your ability to communicate. For example, when you take a little break from work to stretch your legs and take a walk around your workplace, you may frequently start up a chat with some of your coworkers and offer them some advice.<br/>
-  //         While collaborating with your outsource web development company this is not feasible. However, you may still communicate with them thanks to the numerous modern communication platforms. In addition, everyone has become accustomed to working remotely since Covid. Therefore communicating with your remote staff will be easier than it once was.<br/>
-  //         Still, the issue of the time zone difference would arise, as your outsource software development team would begin working just as you are getting ready for bed, and there would be times when they would require your input. This significant issue will put your team's task <a href="https://www.stxnext.com/blog/how-manage-your-outsourced-development-team/" target="_blank"  class="blogLinks" rel="nofollow">management skills to the test</a>.<br/>
-  //         Overlapping your work hours is one way to address this issue and ensure that you spend at least a few hours with your colleagues. In the early phases of your business, self-managing teams can also be effective, but doing so requires significant effort and expertise.<br/>
-  //         However, be careful to communicate with your outsource development team as frequently as possible, at least until you and your team are entirely on the same page. Demonstrate your accessibility and tell them they can come to you with any questions or uncertainties. Be approachable and candid with your group. Make it clear to them that you are ready to listen to and support them. Being a friend to your team will ensure they are there for you when you need them.
-  //         </p>  
-  //         `,
-  //       },
-  //       {
-  //         headings: "Daily Scrum Meetings",
-  //         alt: "Scrum Meeting with outsource team",
-  //         image1:
-  //           "assets/images/blog-images/working-with-offshore-companies/section1-2.jpg",
-  //         desc1: `
-  //         <p>
-  //         Setting up daily scrum meetings is an excellent approach to communicating with the team and staying informed about your project's status. You can increase process visibility by asking your team members these three crucial questions during scrum sessions.<br/>
-  //         </p>
-  //         <ul>
-  //         <li>What activities are scheduled for today?</li>
-  //         <li>What problems have you encountered thus far?</li>
-  //         </ul>
-  //         <p>Additionally, by attending these meetings, you can get to know everyone better and develop trust.</p>
-  //         `,
-  //       },
-  //       {
-  //         headings: "Agile Methodology",
-  //         desc1: `  
-  //       <p>
-  //       The agile approach is a very successful team management technique that works especially well for remote teams. It will assist you in determining what is and is not functioning.<br/>
-  //       This approach divides long-term objectives into manageable short-term goals, giving the team a clear understanding of what has to be accomplished and when. It emphasizes moving quickly, altering course as required, and adapting.<br/>
-  //       You must get everyone on the same page and keep them updated on their objectives via kanban boards, scrum calls, or video calls for this to succeed. Although meetings are unavoidable, they can be time-consuming and ineffective if they are optional.<br/>
-  //       You may use this approach in conjunction with your team management system to boost the productivity of your outsource development team.<br/>
-  //       Read about the advantages of the agile software development technique. Check out the agile methodology's project planning capabilities as well.
-  //       </p>`,
-  //       },
-  //       {
-  //         headings: "Get off on the Right Foot",
-  //         desc1: `
-  //         <p>
-  //         Get to know the team first before distributing work and deadlines. Learn about each of your athletes and express a sincere interest in them. Encourage them to be excited about your project and the journey you will take together.<br/>
-  //         Spend some time introducing yourself to your outsourced personnel and outlining your goals.<br/>
-  //         Tell them about the product, its function, the features you seek, the deadlines you need to fulfill, and the person you are selling it to or your target market.
-  //         </p>
-  //         `,
-  //       },
-  //       {
-  //         headings: "Get Your Vision Across",
-  //         desc1: `
-  //         <p>
-  //         Throughout the development process, your outsource development team will see a mirror of your vision and values. In addition, the staff will support your goals and participate actively in the creation process.<br/>
-  //         They will provide fresh ideas and be more productive and creative, guaranteeing that the finished result doesn't just consist of some generic software but rather closely follows your vision and meets your organizational objectives.        
-  //         </p>
-  //          `,
-  //       },
-  //       {
-  //         s_id: "C2",
-  //         heading: "How We Roll?",
-  //         desc1: `
-  //         <p>
-  //         We will take our time with product development at shezitechsolution. We ensure that our clients and we have all the information required to understand every facet of the project. In addition, the project managers, team leads, and all team members are introduced to the stakeholders.</br>
-  //         Putting faces to names helps people build a trusting relationship and converge on a common objective.
-  //         </p>
-  //          `,
-  //       },
-  //       {
-  //         s_id: "C3",
-  //         heading: "They Are Your outsource development team",
-  //         image1:
-  //           "assets/images/blog-images/working-with-offshore-companies/section-3.jpg",
-  //         alt: "maximum performance of outsource team",
-  //         desc1: `
-  //          <p>
-  //          To maximize the performance of developers of your outsourcing development company, start treating them like team members. Why not, then? They are assisting you in achieving your company objectives and contributing to your success, right? So why would you handle them any differently?
-  //          </p>
-  //          `,
-  //       },
-  //       {
-  //         headings: "1. Keep Morale High",
-  //         desc1: `
-  //          <p>
-  //          Knowing that they are valued will always boost a team's morale. As a consequence, they gain a sense of belonging, and you gain their dedication and devotion in return. Unfortunately, due to their lack of communication with you, offshore personnel frequently experience a sense of alienation. Therefore, try to get in touch with them as often as possible.<br/>
-  //          Give them your full attention while you hear what they have to say. For example, you want to get the most out of your offshore dedicated software development team. In that case, communication with your team should be more comprehensive than discussing your business goals.
-  //          </p>
-  //          `,
-  //       },
-  //       {
-  //         headings: "2. Motivation is key",
-  //         desc1: `
-  //          <p>The little things, like commemorating milestones like birthdays and anniversaries and occasionally having informal discussions, may have a major impact on your outsourced software development company. If they deliver the goods on schedule and within the allocated budget, thank them for a well-done job.<br/>
-  //          You may raise their morale by praising them for their effort and the significant contribution they are making to your company. Make it a point to let the staff know when clients start praising your goods and engage them in your celebrations.
-  //          </p>
-  //          `,
-  //       },
-  //       {
-  //         headings:
-  //           "3. Believe in Your outsourced team (They Know What They Are Doing)",
-  //         desc1: `
-  //          <p>
-  //          Which offshore development company specifically did you hire? They offer a set of abilities and knowledge to areas where you are weak or need to strengthen. What results, therefore, from micromanaging all they do? First, it will be unsettling for your staff to work for you.<br/>
-  //          You must learn to appreciate and have faith in your offshore team if you want to avoid it. They are authorities in their domains and occasionally know what would benefit your goods the most.<br/>
-  //          Yes, it's admirable that you want to be involved in every stage of the process, and that's excellent. But it ought to be constrained. You must allow them to express themselves freely.<br/>
-  //          They'll feel more important and more at ease making comments and judgments.<br/>
-  //          They are experts. Therefore you should routinely solicit their opinions to enhance your final product and the entire process. It could inspire them to act independently and make an extra effort. If you start to put your faith in the proper individuals, no amount of money in the world will be able to substitute the results you'll see.
+           </p>
+           `,
+        },
+        {
+          headings: "Cost-Effectiveness",
+          desc1: `
+          <p>
+          As a startup, you must always monitor your resource use. In addition, your team's salaries make up a sizable portion of your costs, so your firm needs to strike the ideal balance between skill and cost-effectiveness.<br/>
+          Offshoring is helpful in this situation. You may <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/blogs/hiring-react-developers">hire some of the top professionals</a> in the field for practically half the price. If you outsource your development, you can save money on benefits, bonuses, and pay.<br/>
+          A developer typically charges at least $75 per hour in the USA. However, you may hire a senior developer overseas for $25 to $35 per hour.<br/>
+          These prospective savings are only  meaningful if the team functions well. Based on our experience, getting the team to operate effectively together is more important than debating whether to have someone onshore or offshore.<br/>
+          Your ability to concentrate on your core company operations will improve thanks to an outsource development team that will handle your <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/technologies">technological needs</a>. They assist your internal team in focusing on the essential matters that demand your undivided attention, such as business strategy, goals, development plans, etc. Additionally, you have the freedom to adjust the size of your team in accordance with your needs.<br/>
+          The main line is that it doesn't matter if your team is onshore or offshore as long as they are working effectively together and toward the same goal. You might save thousands of dollars each month if your team structure is appropriately balanced.<br/>
+          Not just that.<br/>
+          Offshoring offers numerous advantages but also introduces new challenges. We will look into solutions to these problems and learn how to manage developers of your outsourcing dedicated team.<br/>
+          Let's get going and discover how to manage an overseas crew properly.
+          </p>`,
+        },
+        {
+          headings: "Flexibility",
+          desc1: `
+           <p>
+           There are several ways to look at this, but let's start with the most apparent one: working remotely allows you to pick the appropriate candidates from a vast audience. You can relieve someone of their tasks and look for someone else if you discover they need to provide you with the results you are looking for, selecting your preferred abilities from a list.<br/>
+           The other perspective is that your core team may concentrate on the duties that have been given to them, and your remote team can work on the things that support your core team. An onshore and outsource development team that functions seamlessly may be built with an efficient team management plan.<br/>
+           Companies that create software and apps gain the most from managing an outsource team. It will be difficult for a physical product to be created and dispatched in real-time without delay. Still, their product can be finished extremely close to the deadline.
+           </p>`,
+        },
+        {
+          headings: "Communication",
+          alt: "outsource team communication",
+          image1:
+            "assets/images/blog-images/working-with-offshore-companies/section1-1.jpg",
+          desc1: `
+          <p>
+          Your prospects of success might be made or broken by your ability to communicate. For example, when you take a little break from work to stretch your legs and take a walk around your workplace, you may frequently start up a chat with some of your coworkers and offer them some advice.<br/>
+          While collaborating with your outsource web development company this is not feasible. However, you may still communicate with them thanks to the numerous modern communication platforms. In addition, everyone has become accustomed to working remotely since Covid. Therefore communicating with your remote staff will be easier than it once was.<br/>
+          Still, the issue of the time zone difference would arise, as your outsource software development team would begin working just as you are getting ready for bed, and there would be times when they would require your input. This significant issue will put your team's task <a href="https://www.stxnext.com/blog/how-manage-your-outsourced-development-team/" target="_blank"  class="blogLinks" rel="nofollow">management skills to the test</a>.<br/>
+          Overlapping your work hours is one way to address this issue and ensure that you spend at least a few hours with your colleagues. In the early phases of your business, self-managing teams can also be effective, but doing so requires significant effort and expertise.<br/>
+          However, be careful to communicate with your outsource development team as frequently as possible, at least until you and your team are entirely on the same page. Demonstrate your accessibility and tell them they can come to you with any questions or uncertainties. Be approachable and candid with your group. Make it clear to them that you are ready to listen to and support them. Being a friend to your team will ensure they are there for you when you need them.
+          </p>  
+          `,
+        },
+        {
+          headings: "Daily Scrum Meetings",
+          alt: "Scrum Meeting with outsource team",
+          image1:
+            "assets/images/blog-images/working-with-offshore-companies/section1-2.jpg",
+          desc1: `
+          <p>
+          Setting up daily scrum meetings is an excellent approach to communicating with the team and staying informed about your project's status. You can increase process visibility by asking your team members these three crucial questions during scrum sessions.<br/>
+          </p>
+          <ul>
+          <li>What activities are scheduled for today?</li>
+          <li>What problems have you encountered thus far?</li>
+          </ul>
+          <p>Additionally, by attending these meetings, you can get to know everyone better and develop trust.</p>
+          `,
+        },
+        {
+          headings: "Agile Methodology",
+          desc1: `  
+        <p>
+        The agile approach is a very successful team management technique that works especially well for remote teams. It will assist you in determining what is and is not functioning.<br/>
+        This approach divides long-term objectives into manageable short-term goals, giving the team a clear understanding of what has to be accomplished and when. It emphasizes moving quickly, altering course as required, and adapting.<br/>
+        You must get everyone on the same page and keep them updated on their objectives via kanban boards, scrum calls, or video calls for this to succeed. Although meetings are unavoidable, they can be time-consuming and ineffective if they are optional.<br/>
+        You may use this approach in conjunction with your team management system to boost the productivity of your outsource development team.<br/>
+        Read about the advantages of the agile software development technique. Check out the agile methodology's project planning capabilities as well.
+        </p>`,
+        },
+        {
+          headings: "Get off on the Right Foot",
+          desc1: `
+          <p>
+          Get to know the team first before distributing work and deadlines. Learn about each of your athletes and express a sincere interest in them. Encourage them to be excited about your project and the journey you will take together.<br/>
+          Spend some time introducing yourself to your outsourced personnel and outlining your goals.<br/>
+          Tell them about the product, its function, the features you seek, the deadlines you need to fulfill, and the person you are selling it to or your target market.
+          </p>
+          `,
+        },
+        {
+          headings: "Get Your Vision Across",
+          desc1: `
+          <p>
+          Throughout the development process, your outsource development team will see a mirror of your vision and values. In addition, the staff will support your goals and participate actively in the creation process.<br/>
+          They will provide fresh ideas and be more productive and creative, guaranteeing that the finished result doesn't just consist of some generic software but rather closely follows your vision and meets your organizational objectives.        
+          </p>
+           `,
+        },
+        {
+          s_id: "C2",
+          heading: "How We Roll?",
+          desc1: `
+          <p>
+          We will take our time with product development at shezitechsolution. We ensure that our clients and we have all the information required to understand every facet of the project. In addition, the project managers, team leads, and all team members are introduced to the stakeholders.</br>
+          Putting faces to names helps people build a trusting relationship and converge on a common objective.
+          </p>
+           `,
+        },
+        {
+          s_id: "C3",
+          heading: "They Are Your outsource development team",
+          image1:
+            "assets/images/blog-images/working-with-offshore-companies/section-3.jpg",
+          alt: "maximum performance of outsource team",
+          desc1: `
+           <p>
+           To maximize the performance of developers of your outsourcing development company, start treating them like team members. Why not, then? They are assisting you in achieving your company objectives and contributing to your success, right? So why would you handle them any differently?
+           </p>
+           `,
+        },
+        {
+          headings: "1. Keep Morale High",
+          desc1: `
+           <p>
+           Knowing that they are valued will always boost a team's morale. As a consequence, they gain a sense of belonging, and you gain their dedication and devotion in return. Unfortunately, due to their lack of communication with you, offshore personnel frequently experience a sense of alienation. Therefore, try to get in touch with them as often as possible.<br/>
+           Give them your full attention while you hear what they have to say. For example, you want to get the most out of your offshore dedicated software development team. In that case, communication with your team should be more comprehensive than discussing your business goals.
+           </p>
+           `,
+        },
+        {
+          headings: "2. Motivation is key",
+          desc1: `
+           <p>The little things, like commemorating milestones like birthdays and anniversaries and occasionally having informal discussions, may have a major impact on your outsourced software development company. If they deliver the goods on schedule and within the allocated budget, thank them for a well-done job.<br/>
+           You may raise their morale by praising them for their effort and the significant contribution they are making to your company. Make it a point to let the staff know when clients start praising your goods and engage them in your celebrations.
+           </p>
+           `,
+        },
+        {
+          headings:
+            "3. Believe in Your outsourced team (They Know What They Are Doing)",
+          desc1: `
+           <p>
+           Which offshore development company specifically did you hire? They offer a set of abilities and knowledge to areas where you are weak or need to strengthen. What results, therefore, from micromanaging all they do? First, it will be unsettling for your staff to work for you.<br/>
+           You must learn to appreciate and have faith in your offshore team if you want to avoid it. They are authorities in their domains and occasionally know what would benefit your goods the most.<br/>
+           Yes, it's admirable that you want to be involved in every stage of the process, and that's excellent. But it ought to be constrained. You must allow them to express themselves freely.<br/>
+           They'll feel more important and more at ease making comments and judgments.<br/>
+           They are experts. Therefore you should routinely solicit their opinions to enhance your final product and the entire process. It could inspire them to act independently and make an extra effort. If you start to put your faith in the proper individuals, no amount of money in the world will be able to substitute the results you'll see.
            
-  //          </p>
-  //          `,
-  //       },
-  //       {
-  //         headings: "4. Be Straightforward",
-  //         desc1: `
-  //          <p>
-  //          Yes, having an offshore team fluent in your language is a huge advantage. However, that only sometimes implies that they will always get your local and popular cultural allusions. Even analogies are strictly forbidden.<br/>
-  //          Therefore, try to avoid them as much as you can. To minimize misunderstanding, make your terminology simpler—the characteristic of clarity. Refrain from allowing space for guesses while giving your staff clear-cut instructions.
-  //          </p>
-  //          `,
-  //       },
-  //       {
-  //         heading: "Take Advantage of Different Communication Channels",
-  //         s_id: "C4",
-  //         desc1: `
-  //          <p>
-  //          Utilize technology to interact successfully with your staff. For example, slack's communication and information-sharing options include group messaging and video conferencing. In addition, you can utilize alternative chat programs like Skype to communicate with your team members personally.<br/>
-  //          The team may develop a strong sense of belonging by working one-on-one with each member. In addition, daily scrum calls and project management tools like Trello and Jira help you plan, monitor, and stay current on the status of your projects.<br/>
-  //          Check out some of the project management and communication tools listed below:
-  //          </p>
-  //          <ul>
-  //         <li><p>Slack</p></li>
-  //         <li><p>Jira</p></li>
-  //         <li><p>Trello</p></li>
-  //         <li><p>Skype</p></li>
-  //         <li><p>Asana</p></li>
-  //         <li><p>Discord</p></li>
+           </p>
+           `,
+        },
+        {
+          headings: "4. Be Straightforward",
+          desc1: `
+           <p>
+           Yes, having an offshore team fluent in your language is a huge advantage. However, that only sometimes implies that they will always get your local and popular cultural allusions. Even analogies are strictly forbidden.<br/>
+           Therefore, try to avoid them as much as you can. To minimize misunderstanding, make your terminology simpler—the characteristic of clarity. Refrain from allowing space for guesses while giving your staff clear-cut instructions.
+           </p>
+           `,
+        },
+        {
+          heading: "Take Advantage of Different Communication Channels",
+          s_id: "C4",
+          desc1: `
+           <p>
+           Utilize technology to interact successfully with your staff. For example, slack's communication and information-sharing options include group messaging and video conferencing. In addition, you can utilize alternative chat programs like Skype to communicate with your team members personally.<br/>
+           The team may develop a strong sense of belonging by working one-on-one with each member. In addition, daily scrum calls and project management tools like Trello and Jira help you plan, monitor, and stay current on the status of your projects.<br/>
+           Check out some of the project management and communication tools listed below:
+           </p>
+           <ul>
+          <li><p>Slack</p></li>
+          <li><p>Jira</p></li>
+          <li><p>Trello</p></li>
+          <li><p>Skype</p></li>
+          <li><p>Asana</p></li>
+          <li><p>Discord</p></li>
   
-  //          </ul>
-  //          `,
-  //       },
-  //       {
-  //         heading: "The Final verdict",
-  //         s_id: "C5",
-  //         desc1: `
-  //          <p>
-  //          Some of the best startups and scaleups are increasingly relying on outsource development teams for their success. It is now becoming a need due to the time we are currently in. Therefore, it's crucial to utilize them to the fullest.<br/>
-  //          The performance and productivity of your developers in an outsourcing dedicated team might significantly change if you choose a different strategy. A good attitude might motivate them to offer you everything they've got. Gaining their trust will boost production and enable you to learn priceless insights from them.<br/>
-  //          We at <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/work">shezitechsolution</a> consider ourselves fortunate to have collaborated with some of the coolest startup entrepreneurs. They recognize the benefits that an offshore development company can provide.<br/>
-  //          They trusted our technological know-how to lead them ahead and assist them in achieving their objectives. As a result, we've worked with startups and scaleups whose goods have received more than $20 million in investment and are utilized by millions of consumers.
-  //          Do you intend to <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/contact-us">hire an outsourced software development team?</a> We'd be delighted to hear from you!
-  //          </p>
-  //          `,
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     slug: "why-a-mobile-application-is-necessary-for-your-business",
-  //     id: 11,
-  //     related: [10, 8, 6],
-  //     metakeywords: "Mobile app development, App development, Create an app",
-  //     alt: "Mobile app development",
-  //     title: "Why a Mobile Application is Necessary for Your Business?",
-  //     metadescription:
-  //       "Does every business needs to create an app? Factors you should examine if you consider devoting time and resources to developing mobile applications.",
-  //     heading: "Why is a Mobile Application Necessary for Your Business to Grow?",
-  //     description: `
-  //     <p>Businesses are motivated to develop applications since it is predicted that in 2022, mobile users will spend $156.5 billion on app stores. In addition, applications for mobile devices might improve user experiences and brand exposure. However, before deciding whether to construct an app, you should consider your goal, how your target audience uses mobile devices, your development strategy, and your budget.<br/>
-  //     This article is written for small business owners considering creating a mobile app to enhance customer experience and increase their clientele.<br/>
-  //     Mobile applications are becoming used as marketing and retail tools. App Annie estimates that consumer spending in app markets will reach $156.5 billion in 2022 due to the proliferation of smartphones and tablets. It makes apps more and more enticing to small local companies.<br/>
-  //     Numerous neighborhood-based companies, including pubs, restaurants, flower shops, hair salons, physicians, and other healthcare providers, are utilizing apps to improve the customer experience. But does every business require an app? We'll break down the factors you should examine if you consider devoting time and resources to developing applications.
-  //     </p>
-  //     `,
-  //     image1: "assets/images/blog-images/mobile-app.jpg",
-  //     author: "Sheraz khan",
-  //     date: "11/1/2022",
-  //     thumbnail: "assets/images/blog-images/mobile-app.jpg",
-  //     src: "assets/images/blog-images/mobile-app.jpg",
-  //     altAttribute: "mobile app",
-  //     arr: [
-  //       {
-  //         heading: "Table of Contents",
-  //         desc1: `
-  //        <ul>
-  //        <a href="#C1" class="blogContent"><li>Should your company have an app strategy?</li> </a>
-  //        <a href="#C2" class="blogContent"><li>What is your goal?</li></a>
-  //        <a href="#C3" class="blogContent"><li>Who are your customers?</li></a>
-  //        <a href="#C4" class="blogContent"><li>How mobile-oriented are your customers?</li></a>
-  //        <a href="#C5" class="blogContent"><li>What do your customers want?</li></a>
-  //        <a href="#C6" class="blogContent"><li>What advantages does an app have over your present website?</li></a>
-  //        <a href="#C7" class="blogContent"><li>What plan do you have for creating an app?</li></a>
-  //        <a href="#C8" class="blogContent"><li>What is your budget for creating and maintaining an app?</li></a>
-  //        <a href="#C9" class="blogContent"><li>What you should be aware of when creating apps</li></a>
-  //        <a href="#C10" class="blogContent"><li>Six key steps in app development</li></a>
-  //        <a href="#C11" class="blogContent"><li>Considering your app's purpose and your budget.</li></a>
-  //        </ul>
-  //         `,
-  //       },
-  //       {
-  //         heading: `Should your company have an app strategy?`,
-  //         s_id: "C1",
-  //         desc1: `
-  //         <p>
-  //         People spend a lot of time interacting with mobile apps on their smartphones and tablets as the use of mobile devices rises. 97% of Americans, according to Pew Research, own a cellphone of some kind, with 85% having a smartphone. According to eMarketer research, hands are busy typing away on mobile applications throughout the country, accounting for 88% of the time Americans over 18 spend on digital media.<br/>
-  //         The question is not whether your business can profit from having a mobile app, but rather, under what circumstances is it realistic to create and maintain an app, regularly adding engaging features and new material to keep users engaged?<br/>
-  //         Before choosing whether to use the app or not, consider the following aspects.        
-  //         </p>`,
-  //       },
-  //       {
-  //         heading: "What is your goal?",
-  //         s_id: "C2",
-  //         desc1: `
-  //          <p>
+           </ul>
+           `,
+        },
+        {
+          heading: "The Final verdict",
+          s_id: "C5",
+          desc1: `
+           <p>
+           Some of the best startups and scaleups are increasingly relying on outsource development teams for their success. It is now becoming a need due to the time we are currently in. Therefore, it's crucial to utilize them to the fullest.<br/>
+           The performance and productivity of your developers in an outsourcing dedicated team might significantly change if you choose a different strategy. A good attitude might motivate them to offer you everything they've got. Gaining their trust will boost production and enable you to learn priceless insights from them.<br/>
+           We at <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/work">shezitechsolution</a> consider ourselves fortunate to have collaborated with some of the coolest startup entrepreneurs. They recognize the benefits that an offshore development company can provide.<br/>
+           They trusted our technological know-how to lead them ahead and assist them in achieving their objectives. As a result, we've worked with startups and scaleups whose goods have received more than $20 million in investment and are utilized by millions of consumers.
+           Do you intend to <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/contact-us">hire an outsourced software development team?</a> We'd be delighted to hear from you!
+           </p>
+           `,
+        },
+      ],
+    },
+    {
+      slug: "why-a-mobile-application-is-necessary-for-your-business",
+      id: 11,
+      related: [10, 8, 6],
+      metakeywords: "Mobile app development, App development, Create an app",
+      alt: "Mobile app development",
+      title: "Why a Mobile Application is Necessary for Your Business?",
+      metadescription:
+        "Does every business needs to create an app? Factors you should examine if you consider devoting time and resources to developing mobile applications.",
+      heading: "Why is a Mobile Application Necessary for Your Business to Grow?",
+      description: `
+      <p>Businesses are motivated to develop applications since it is predicted that in 2022, mobile users will spend $156.5 billion on app stores. In addition, applications for mobile devices might improve user experiences and brand exposure. However, before deciding whether to construct an app, you should consider your goal, how your target audience uses mobile devices, your development strategy, and your budget.<br/>
+      This article is written for small business owners considering creating a mobile app to enhance customer experience and increase their clientele.<br/>
+      Mobile applications are becoming used as marketing and retail tools. App Annie estimates that consumer spending in app markets will reach $156.5 billion in 2022 due to the proliferation of smartphones and tablets. It makes apps more and more enticing to small local companies.<br/>
+      Numerous neighborhood-based companies, including pubs, restaurants, flower shops, hair salons, physicians, and other healthcare providers, are utilizing apps to improve the customer experience. But does every business require an app? We'll break down the factors you should examine if you consider devoting time and resources to developing applications.
+      </p>
+      `,
+      image1: "assets/images/blog-images/mobile-app.jpg",
+      author: "Sheraz khan",
+      date: "11/1/2022",
+      thumbnail: "assets/images/blog-images/mobile-app.jpg",
+      src: "assets/images/blog-images/mobile-app.jpg",
+      altAttribute: "mobile app",
+      arr: [
+        {
+          heading: "Table of Contents",
+          desc1: `
+         <ul>
+         <a href="#C1" class="blogContent"><li>Should your company have an app strategy?</li> </a>
+         <a href="#C2" class="blogContent"><li>What is your goal?</li></a>
+         <a href="#C3" class="blogContent"><li>Who are your customers?</li></a>
+         <a href="#C4" class="blogContent"><li>How mobile-oriented are your customers?</li></a>
+         <a href="#C5" class="blogContent"><li>What do your customers want?</li></a>
+         <a href="#C6" class="blogContent"><li>What advantages does an app have over your present website?</li></a>
+         <a href="#C7" class="blogContent"><li>What plan do you have for creating an app?</li></a>
+         <a href="#C8" class="blogContent"><li>What is your budget for creating and maintaining an app?</li></a>
+         <a href="#C9" class="blogContent"><li>What you should be aware of when creating apps</li></a>
+         <a href="#C10" class="blogContent"><li>Six key steps in app development</li></a>
+         <a href="#C11" class="blogContent"><li>Considering your app's purpose and your budget.</li></a>
+         </ul>
+          `,
+        },
+        {
+          heading: `Should your company have an app strategy?`,
+          s_id: "C1",
+          desc1: `
+          <p>
+          People spend a lot of time interacting with mobile apps on their smartphones and tablets as the use of mobile devices rises. 97% of Americans, according to Pew Research, own a cellphone of some kind, with 85% having a smartphone. According to eMarketer research, hands are busy typing away on mobile applications throughout the country, accounting for 88% of the time Americans over 18 spend on digital media.<br/>
+          The question is not whether your business can profit from having a mobile app, but rather, under what circumstances is it realistic to create and maintain an app, regularly adding engaging features and new material to keep users engaged?<br/>
+          Before choosing whether to use the app or not, consider the following aspects.        
+          </p>`,
+        },
+        {
+          heading: "What is your goal?",
+          s_id: "C2",
+          desc1: `
+           <p>
            
-  //          When developing a mobile app for your business, think about the <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/technologies">features and technologies</a> you want and how you use them.</br>
-  //          Customers, old and new, may benefit from a specialized mobile app in numerous ways. For example, marketing new goods and services, limited-time deals, loyalty plans, and other in-person or online sales benefits may draw in new consumers and better serve your current clients.</br>
-  //          A mobile app also acts as a continuous, real-time line of communication with your clients. They can access whatever information you desire, browse their items, look up locations, check their hours, and receive directions.
-  //          </p>
-  //          `,
-  //         image1: "assets/images/blog-images/app-for-company/section-2.jpg",
-  //         alt: "Mobile app development",
-  //       },
-  //       {
-  //         heading: "Who are your customers?",
-  //         s_id: "C3",
-  //         desc1: `
-  //         <p>
-  //         Consider your consumer base and how likely they are to use the app when thinking about developing a mobile app.<br/>
-  //         The majority of companies aim for a base of patrons that ranges in age from 18 to older than 65. Younger users (13 to 24 years old) visit applications more than twice as frequently as users over 45, yet they are more likely to discontinue using an app if it meets their demands.<br/>
-  //         People over 45 favor mobile browsers over applications. Still, when they do use apps, they tend to utilize them for 25% longer than younger users. Users between the ages of 25 and 44 exhibit significant app usage, particularly for retail apps.
-  //         </p>`,
-  //       },
-  //       {
-  //         heading: "How mobile-oriented are your customers?",
-  //         s_id: "C4",
-  //         desc1: `
-  //          <p>
-  //          Unsurprisingly, the same group that enjoys installing new smartphone applications also spends a tremendous amount of time tinkering with them. Younger consumers regularly utilize applications and are familiar with their features. They take in a lot of information when using their mobile devices.<br/>
-  //          Users between the ages of 25 and 44 become the ideal customers for those wishing to market an in-store experience or sell things online via mobile due to the popularity of retail applications.
-  //         People over 45 are less familiar with mobile apps and how they operate since they are more accustomed to using desktop computers. As a result, they are more likely to utilize an app with recognizable functions and an intuitive user experience.
-  //          </p>`,
-  //       },
-  //       {
-  //         heading: "What do your customers want?",
-  //         s_id: "C5",
-  //         desc1: `
-  //         <p>
-  //         If you're thinking about developing a specialized app, examine what users want. For example, customers rely on applications that offer a practical and straightforward user interface and apps that offer better discounts or promotions not available on other platforms, like the company's website.<br/>
-  //         The study found that personalization made apps more appealing to younger customers (between the ages of 16 and 34). On the other hand, those who make less than $50,000 a year are more inclined to prioritize applications that work with mobile wallets like Apple Pay and Google Pay.
-  //         </p>  
-  //         `,
-  //       },
-  //       {
-  //         heading: "What advantages does an app have over your present website?",
-  //         s_id: "C6",
-  //         desc1: `
-  //         <p>
-  //         When <a href="https://www.mxotech.com/2021/08/7-advantages-of-an-app-over-a-website/" target="_blank"  class="blogLinks" rel="nofollow">comparing mobile web pages to apps</a>, applications are more user-friendly and convenient. A dedicated app could benefit from your present online presence even if your website were created as a mobile-friendly, responsive site that seamlessly switches from desktop to mobile browsers and back.<br/>
-  //         Like having a phone, having a website that provides broad information about your business is essential. Like a phone, it requires work on the user's part to find the homepage, bookmark the site, and navigate the many pages of content. A mobile app is more complicated and time-consuming than even the nicest mobile website.<br/>
-  //         Apps are mobile by nature. They may focus on more urgent, customer-focused issues because they can stay the same to fit a new format. Users prefer mobile applications over mobile websites because they offer more personalization and efficiency as well as extra advantages like alerts, offline mode, and speedy loading times, according to VWO, an A/B testing tool platform.<br/>
-  //         </p>
-  //         `,
-  //       },
-  //       {
-  //         heading: "What plan do you have for creating an app?",
-  //         image1: "assets/images/blog-images/app-for-company/section-7.jpg",
-  //         alt: "strategy for creating an app",
-  //         s_id: "C7",
-  //         desc1: `  
-  //       <p>
-  //       The next step after deciding to construct an app is to plan your strategy. For example, can you build an app using a ready-made app builder, or should you employ a qualified mobile app developer to design one from the ground up?<br/>
-  //       AppMachine, BuildFire, GoodBarber, and Shoutem are a few examples of app builders. These tools are valuable resources for those who have the time to understand and apply them. Although utilizing software to build an app is relatively easy, it does require time, which you might not have if you are also running a business. In that situation, think about enlisting the assistance of other experts.
-  //       </p>`,
-  //       },
-  //       {
-  //         s_id: "C8",
-  //         heading: "What is your budget for creating and maintaining an app?",
-  //         image1: "assets/images/blog-images/app-for-company/section-8.jpg",
-  //         alt: "Maintaining mobile app",
-  //         desc1: `
-  //         <p>
-  //         You should prepare to spend money whether you hire a mobile design and experience business or create your app using a do-it-yourself app builder. There are certain generalities, albeit it is difficult to generalize across a wide range of organizations and app needs
-  //         </p>
-  //         <ul>
-  //           <li><p><b>DIY services: </b>DIY services may result in interesting, polished outcomes and are typically less priced. Depending on your app, devices, and markets, most services have monthly fees ranging from $20 and above. Hosting costs and app store placement are additional charges that may apply. Ensure your business is equipped to handle the frequently altering app store standards from companies like Google and Apple.</p></li>
-  //           <li><p><b>Professional developers:</b> Although costs vary greatly, app development in the US can cost anywhere from $50 and $250 per hour. An essential software can cost up to $60,000 to design. Still, more complicated apps can cost well into the six figures, according to the startup product development firm SpdLoad. Businesses must also factor in budgets for updates and marketing, and apps requiring a back-end server or connected APIs will cost significantly more. Developing for both the iOS and Android platforms will raise the price. Your app will cost more the more features, complexity, and media you have in it.</p></li>
-  //           <li><p><b>Hybrid approach:</b> Utilizing a hybrid strategy will also improve your professional outcomes while saving money. Use a DIY app creator initially, but choose one whose business also provides in-house services. In this approach, you may create your app's basic wireframe before giving it to experts to add more complex, specialized functionality. A hybrid strategy is more expensive than doing everything yourself. Still, it's less expensive than letting an app company create it from scratch.</p></li>
-  //         </ul>
-  //         `,
-  //       },
-  //       {
-  //         s_id: "C9",
-  //         heading: "What you should be aware of when creating apps",
-  //         desc1: `
-  //         <p>
-  //         The world of mobile app development is constantly evolving. A new operating system version with distinctive features will be released every six months, bringing about modifications and unique considerations.<br/>
-  //         A few Android and iOS upgrades may alter how some applications function. It's essential to keep up with upgrades and new advancements to prevent incompatibility or cybersecurity problems. You should consider the expense of upgrading your mobile app.
-  //         </p>
-  //          `,
-  //       },
-  //       {
-  //         s_id: "C10",
-  //         alt: "6 key steps in mobile app development",
-  //         image1: "assets/images/blog-images/app-for-company/section-10.jpg",
-  //         heading: "Six key steps in app development",
-  //         desc1: `
-  //         <p>
-  //         The app development process consists of six essential components, regardless of the project you wish to realize. You may create your app quickly and effectively by breaking the project into six easy stages.
-  //         <ol>
-  //         <li><p><b>Idea: </b> Determine the issue your app addresses, the audience you're aiming for, the significance of the features, and whether or not there are existing applications comparable to yours.</p>
-  //         <li><p><b>Design: </b> Design a user interface that makes it simple for people to utilize the program.</p>
-  //         <li><p><b>Development: </b> Create the code for your application, develop it, and launch the first round of testing.</p>
-  //         <li><p><b>Testing: </b> Analyze the app's performance, look for any issues, and find out what you can do better.</p>
-  //         <li><p><b>Launch: </b> Once your product is bug-free and usable, publish it to shops like the Apple App Store and the Google Play Store.</p>
-  //         <li><p><b>Marketing: </b> Make a marketing plan to encourage people to download your app and provide you with feedback on how to increase user engagement.</p>
+           When developing a mobile app for your business, think about the <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com/technologies">features and technologies</a> you want and how you use them.</br>
+           Customers, old and new, may benefit from a specialized mobile app in numerous ways. For example, marketing new goods and services, limited-time deals, loyalty plans, and other in-person or online sales benefits may draw in new consumers and better serve your current clients.</br>
+           A mobile app also acts as a continuous, real-time line of communication with your clients. They can access whatever information you desire, browse their items, look up locations, check their hours, and receive directions.
+           </p>
+           `,
+          image1: "assets/images/blog-images/app-for-company/section-2.jpg",
+          alt: "Mobile app development",
+        },
+        {
+          heading: "Who are your customers?",
+          s_id: "C3",
+          desc1: `
+          <p>
+          Consider your consumer base and how likely they are to use the app when thinking about developing a mobile app.<br/>
+          The majority of companies aim for a base of patrons that ranges in age from 18 to older than 65. Younger users (13 to 24 years old) visit applications more than twice as frequently as users over 45, yet they are more likely to discontinue using an app if it meets their demands.<br/>
+          People over 45 favor mobile browsers over applications. Still, when they do use apps, they tend to utilize them for 25% longer than younger users. Users between the ages of 25 and 44 exhibit significant app usage, particularly for retail apps.
+          </p>`,
+        },
+        {
+          heading: "How mobile-oriented are your customers?",
+          s_id: "C4",
+          desc1: `
+           <p>
+           Unsurprisingly, the same group that enjoys installing new smartphone applications also spends a tremendous amount of time tinkering with them. Younger consumers regularly utilize applications and are familiar with their features. They take in a lot of information when using their mobile devices.<br/>
+           Users between the ages of 25 and 44 become the ideal customers for those wishing to market an in-store experience or sell things online via mobile due to the popularity of retail applications.
+          People over 45 are less familiar with mobile apps and how they operate since they are more accustomed to using desktop computers. As a result, they are more likely to utilize an app with recognizable functions and an intuitive user experience.
+           </p>`,
+        },
+        {
+          heading: "What do your customers want?",
+          s_id: "C5",
+          desc1: `
+          <p>
+          If you're thinking about developing a specialized app, examine what users want. For example, customers rely on applications that offer a practical and straightforward user interface and apps that offer better discounts or promotions not available on other platforms, like the company's website.<br/>
+          The study found that personalization made apps more appealing to younger customers (between the ages of 16 and 34). On the other hand, those who make less than $50,000 a year are more inclined to prioritize applications that work with mobile wallets like Apple Pay and Google Pay.
+          </p>  
+          `,
+        },
+        {
+          heading: "What advantages does an app have over your present website?",
+          s_id: "C6",
+          desc1: `
+          <p>
+          When <a href="https://www.mxotech.com/2021/08/7-advantages-of-an-app-over-a-website/" target="_blank"  class="blogLinks" rel="nofollow">comparing mobile web pages to apps</a>, applications are more user-friendly and convenient. A dedicated app could benefit from your present online presence even if your website were created as a mobile-friendly, responsive site that seamlessly switches from desktop to mobile browsers and back.<br/>
+          Like having a phone, having a website that provides broad information about your business is essential. Like a phone, it requires work on the user's part to find the homepage, bookmark the site, and navigate the many pages of content. A mobile app is more complicated and time-consuming than even the nicest mobile website.<br/>
+          Apps are mobile by nature. They may focus on more urgent, customer-focused issues because they can stay the same to fit a new format. Users prefer mobile applications over mobile websites because they offer more personalization and efficiency as well as extra advantages like alerts, offline mode, and speedy loading times, according to VWO, an A/B testing tool platform.<br/>
+          </p>
+          `,
+        },
+        {
+          heading: "What plan do you have for creating an app?",
+          image1: "assets/images/blog-images/app-for-company/section-7.jpg",
+          alt: "strategy for creating an app",
+          s_id: "C7",
+          desc1: `  
+        <p>
+        The next step after deciding to construct an app is to plan your strategy. For example, can you build an app using a ready-made app builder, or should you employ a qualified mobile app developer to design one from the ground up?<br/>
+        AppMachine, BuildFire, GoodBarber, and Shoutem are a few examples of app builders. These tools are valuable resources for those who have the time to understand and apply them. Although utilizing software to build an app is relatively easy, it does require time, which you might not have if you are also running a business. In that situation, think about enlisting the assistance of other experts.
+        </p>`,
+        },
+        {
+          s_id: "C8",
+          heading: "What is your budget for creating and maintaining an app?",
+          image1: "assets/images/blog-images/app-for-company/section-8.jpg",
+          alt: "Maintaining mobile app",
+          desc1: `
+          <p>
+          You should prepare to spend money whether you hire a mobile design and experience business or create your app using a do-it-yourself app builder. There are certain generalities, albeit it is difficult to generalize across a wide range of organizations and app needs
+          </p>
+          <ul>
+            <li><p><b>DIY services: </b>DIY services may result in interesting, polished outcomes and are typically less priced. Depending on your app, devices, and markets, most services have monthly fees ranging from $20 and above. Hosting costs and app store placement are additional charges that may apply. Ensure your business is equipped to handle the frequently altering app store standards from companies like Google and Apple.</p></li>
+            <li><p><b>Professional developers:</b> Although costs vary greatly, app development in the US can cost anywhere from $50 and $250 per hour. An essential software can cost up to $60,000 to design. Still, more complicated apps can cost well into the six figures, according to the startup product development firm SpdLoad. Businesses must also factor in budgets for updates and marketing, and apps requiring a back-end server or connected APIs will cost significantly more. Developing for both the iOS and Android platforms will raise the price. Your app will cost more the more features, complexity, and media you have in it.</p></li>
+            <li><p><b>Hybrid approach:</b> Utilizing a hybrid strategy will also improve your professional outcomes while saving money. Use a DIY app creator initially, but choose one whose business also provides in-house services. In this approach, you may create your app's basic wireframe before giving it to experts to add more complex, specialized functionality. A hybrid strategy is more expensive than doing everything yourself. Still, it's less expensive than letting an app company create it from scratch.</p></li>
+          </ul>
+          `,
+        },
+        {
+          s_id: "C9",
+          heading: "What you should be aware of when creating apps",
+          desc1: `
+          <p>
+          The world of mobile app development is constantly evolving. A new operating system version with distinctive features will be released every six months, bringing about modifications and unique considerations.<br/>
+          A few Android and iOS upgrades may alter how some applications function. It's essential to keep up with upgrades and new advancements to prevent incompatibility or cybersecurity problems. You should consider the expense of upgrading your mobile app.
+          </p>
+           `,
+        },
+        {
+          s_id: "C10",
+          alt: "6 key steps in mobile app development",
+          image1: "assets/images/blog-images/app-for-company/section-10.jpg",
+          heading: "Six key steps in app development",
+          desc1: `
+          <p>
+          The app development process consists of six essential components, regardless of the project you wish to realize. You may create your app quickly and effectively by breaking the project into six easy stages.
+          <ol>
+          <li><p><b>Idea: </b> Determine the issue your app addresses, the audience you're aiming for, the significance of the features, and whether or not there are existing applications comparable to yours.</p>
+          <li><p><b>Design: </b> Design a user interface that makes it simple for people to utilize the program.</p>
+          <li><p><b>Development: </b> Create the code for your application, develop it, and launch the first round of testing.</p>
+          <li><p><b>Testing: </b> Analyze the app's performance, look for any issues, and find out what you can do better.</p>
+          <li><p><b>Launch: </b> Once your product is bug-free and usable, publish it to shops like the Apple App Store and the Google Play Store.</p>
+          <li><p><b>Marketing: </b> Make a marketing plan to encourage people to download your app and provide you with feedback on how to increase user engagement.</p>
           
-  //         </ol>
-  //         </p>
-  //          `,
-  //       },
-  //       {
-  //         s_id: "C11",
-  //         heading: "Considering your app's purpose and your budget.",
-  //         desc1: `
-  //          <p>
-  //          Your small business will benefit from having its specialized smartphone app. Numerous people already appreciate how simple mobile buying is. Due to the widespread usage of mobile devices, many clients will anxiously anticipate your app; it's up to you to deliver the desired features and user experiences.<br/>
-  //          Nevertheless, creating an app is only beneficial if it offers a fantastic user experience and you have the funds to sustain it over the long term, regardless of how much you want to do so.<br/>
-  //          After the initial launch, you will improve the mobile app depending on user input and new features developed as part of a continuous development process. <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">A reputable app development company</a> may offer top-notch apps to organizations in any industry or field. They can guarantee that the strategies for proper mobile app development are used to make your software effective.
-  //          </p>
-  //          `,
-  //       },
-  //     ],
-  //   },
+          </ol>
+          </p>
+           `,
+        },
+        {
+          s_id: "C11",
+          heading: "Considering your app's purpose and your budget.",
+          desc1: `
+           <p>
+           Your small business will benefit from having its specialized smartphone app. Numerous people already appreciate how simple mobile buying is. Due to the widespread usage of mobile devices, many clients will anxiously anticipate your app; it's up to you to deliver the desired features and user experiences.<br/>
+           Nevertheless, creating an app is only beneficial if it offers a fantastic user experience and you have the funds to sustain it over the long term, regardless of how much you want to do so.<br/>
+           After the initial launch, you will improve the mobile app depending on user input and new features developed as part of a continuous development process. <a class="blogLinks" rel="dofollow" href="https://www.shezitechsolution.com">A reputable app development company</a> may offer top-notch apps to organizations in any industry or field. They can guarantee that the strategies for proper mobile app development are used to make your software effective.
+           </p>
+           `,
+        },
+      ],
+    },
   //   {
   //     slug: "11-factors-to-consider-when-creating-a-mobile-app",
   //     id: 10,
