@@ -10,13 +10,16 @@ import {
   FaRocket,
   FaArrowRight,
   FaStar,
+  FaVideo,
 } from "react-icons/fa";
-
+import { BsGraphUpArrow } from "react-icons/bs";
 const categories = [
   { key: "all", label: "All Projects", icon: <FaRocket />, count: ProjectsData.length },
   { key: "web", label: "Web Development", icon: <FaCode />, count: ProjectsData.filter(p => p.category === "web").length },
   { key: "seo", label: "SEO & Digital", icon: <FaSearch />, count: ProjectsData.filter(p => p.category === "seo").length },
   { key: "academic", label: "Academic Writing", icon: <FaBook />, count: ProjectsData.filter(p => p.category === "academic").length },
+  { key: "video", label: "Video Editing", icon: <FaVideo  />, count: ProjectsData.filter(p => p.category === "video").length },
+  { key: "digital_marketing", label: "Digital Marketing", icon: <BsGraphUpArrow   />, count: ProjectsData.filter(p => p.category === "digital_marketing").length },
 ];
 
 const ProjectPage = () => {
