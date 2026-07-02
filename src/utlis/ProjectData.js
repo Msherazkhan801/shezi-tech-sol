@@ -102,16 +102,16 @@ export const ProjectsData = [
   title: "Professional Video Editing & Post-Production",
   description: "High-quality video editing services specializing in cinematic travel vlogs, promotional brand videos, and engaging short-form content (Reels/TikToks) designed to captivate audiences.",
   techStack: ["Adobe Premiere Pro", "After Effects", "Color Grading", "Sound Design", "Motion Graphics"],
-  liveLink: "https://yourportfolio.com/video-gallery", // Update with your actual portfolio or channel link
+  // liveLink: "https://yourportfolio.com/video-gallery", // Update with your actual portfolio or channel link
   repoLink: "", // Leave empty or link to a drive/behance folder
-  imageUrl: "assets/images/video.png", // Update with a sleek thumbnail image
+  imageUrl: "https://images.unsplash.com/photo-1574717025058-2f8737d2e2b7?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dmlkZW8lMjBlZGl0aW5nfGVufDB8fDB8fHww", // Update with a sleek thumbnail image
   category: "video",
 },
 {
   title: "Digital Marketing & Brand Growth",
   description: "Data-driven digital marketing services focusing on social media management, targeted ad campaigns, and comprehensive brand strategies to maximize online visibility and engagement.",
   techStack: ["Social Media Management", "Meta & Google Ads", "SEO Optimization", "Content Strategy", "Google Analytics"],
-  liveLink: "https://yourportfolio.com/marketing", // Update with your actual portfolio or agency link
+  // liveLink: "https://yourportfolio.com/marketing", // Update with your actual portfolio or agency link
   repoLink: "", // Leave empty
   imageUrl: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGRpZ2l0YWwlMjBtYXJrZXRpbmd8ZW58MHx8MHx8fDA%3D", // Update with a suitable thumbnail image
   category: "digital_marketing", // Keeps it clean for your portfolio filtering
