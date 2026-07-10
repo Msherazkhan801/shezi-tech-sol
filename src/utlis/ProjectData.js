@@ -108,13 +108,14 @@ export const ProjectsData = [
   category: "video",
 },
 {
-  title: "Digital Marketing & Brand Growth",
-  description: "Data-driven digital marketing services focusing on social media management, targeted ad campaigns, and comprehensive brand strategies to maximize online visibility and engagement.",
-  techStack: ["Social Media Management", "Meta & Google Ads", "SEO Optimization", "Content Strategy", "Google Analytics"],
-  // liveLink: "https://yourportfolio.com/marketing", // Update with your actual portfolio or agency link
-  repoLink: "", // Leave empty
-  imageUrl: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGRpZ2l0YWwlMjBtYXJrZXRpbmd8ZW58MHx8MHx8fDA%3D", // Update with a suitable thumbnail image
-  category: "digital_marketing", // Keeps it clean for your portfolio filtering
+  title: "Health and Beauty Care (HBC) — E-Commerce Platform",
+  description: "A fully responsive, high-converting e-commerce website designed for Health and Beauty Care (HBC). ",
+  techStack: ["React", "Next.js", "Tailwind CSS", "Node.js", "MongoDB", "Stripe API", "Redux Toolkit"],
+  liveLink: "https://hbcofficial.com", // placeholder
+  // repoLink: "https://github.com/yourusername/hbc-ecommerce",
+  imageUrl: "assets/images/hbc.png", // e-commerce style image
+  category: "web",
 }
+
 
 ];
