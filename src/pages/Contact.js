@@ -60,8 +60,15 @@ const ContactPage = () => {
   const contactInfo = [
     {
       icon: <FaPhone />,
-      title: "Call Us",
+      title: "Call To Shezi Tech Solutions",
       info: "+92 347 2943510",
+      subInfo: "Mon-Fri 9AM-6PM",
+      color: "from-blue-500 to-cyan-500"
+    },
+    {
+      icon: <FaPhone />,
+      title: "Call Us to Zeeshan Salaar",
+      info: "+92 300 9081537",
       subInfo: "Mon-Fri 9AM-6PM",
       color: "from-blue-500 to-cyan-500"
     },
@@ -79,13 +86,13 @@ const ContactPage = () => {
       subInfo: "Remote & On-site",
       color: "from-green-500 to-teal-500"
     },
-    {
-      icon: <FaClock />,
-      title: "Response Time",
-      info: "< 2 Hours",
-      subInfo: "For urgent queries",
-      color: "from-orange-500 to-red-500"
-    }
+    // {
+    //   icon: <FaClock />,
+    //   title: "Response Time",
+    //   info: "< 2 Hours",
+    //   subInfo: "For urgent queries",
+    //   color: "from-orange-500 to-red-500"
+    // }
   ];
 
   return (
