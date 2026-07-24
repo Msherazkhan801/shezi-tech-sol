@@ -86,13 +86,7 @@ const ContactPage = () => {
       subInfo: "Remote & On-site",
       color: "from-green-500 to-teal-500"
     },
-    // {
-    //   icon: <FaClock />,
-    //   title: "Response Time",
-    //   info: "< 2 Hours",
-    //   subInfo: "For urgent queries",
-    //   color: "from-orange-500 to-red-500"
-    // }
+
   ];
 
   return (
