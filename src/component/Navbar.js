@@ -9,9 +9,13 @@ import {
   FaCode,
   FaBlog,
   FaBriefcase,
-
+FaAddressBook,
   FaChartLine,
   FaGraduationCap,
+  FaUsers,
+  FaReceipt,
+
+
 } from "react-icons/fa";
 
 const Navbar = () => {
@@ -61,6 +65,11 @@ const Navbar = () => {
           label: "Academic Writing",
           icon: <FaGraduationCap />,
         },
+        {
+          path: "/services#pos",
+          label: "POS",
+          icon: <FaReceipt />,
+        },
       ],
     },
     {
@@ -74,9 +83,14 @@ const Navbar = () => {
       icon: <FaBriefcase />,
     },
     {
+      path: "/team",
+      label: "TEAM",
+      icon: <FaUsers />,
+    },
+    {
       path: "/contact",
       label: "Contact",
-      icon: <FaBriefcase />,
+      icon: <FaAddressBook />,
     },
   ];
 

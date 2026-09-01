@@ -21,18 +21,18 @@ import {
 } from "react-icons/fa";
 
 const jobOpenings = [
-  {
-    id: 1,
-    title: "Video Editor!",
-    location: "Remote",
-    type: "Full-time",
-    category: "tech",
-    description: "A creative, detail-oriented video editor who knows how to bring stories to life through compelling visuals.",
-    requirements: ["Premium pro","illustartor"],
-    // salary: "Free/ Unpaid",
-    experience: "1.5+ years",
-    featured: true
-  },
+  // {
+  //   id: 1,
+  //   title: "Video Editor!",
+  //   location: "Remote",
+  //   type: "Full-time",
+  //   category: "tech",
+  //   description: "A creative, detail-oriented video editor who knows how to bring stories to life through compelling visuals.",
+  //   requirements: ["Premium pro","illustartor"],
+  //   // salary: "Free/ Unpaid",
+  //   experience: "1.5+ years",
+  //   featured: true
+  // },
   // {
   //   id: 2,
   //   title: "Graphic Designer",

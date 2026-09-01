@@ -115,7 +115,16 @@ export const ProjectsData = [
   // repoLink: "https://github.com/yourusername/hbc-ecommerce",
   imageUrl: "assets/images/hbc.png", // e-commerce style image
   category: "web",
-}
+},
+{
+  title: "Shezi Med / POS",
+  description: "A fully responsive, high-converting POS web app Inventory management system. ",
+  techStack: ["React", "Next.js", "Tailwind CSS", "Node.js", "MongoDB", "Stripe API", "Redux Toolkit"],
+  liveLink: "https://shezimed.vercel.app/", // placeholder
+  // repoLink: "https://github.com/yourusername/hbc-ecommerce",
+  imageUrl: "assets/images/pos.png", // e-commerce style image
+  category: "pos",
+},
 
 
 ];

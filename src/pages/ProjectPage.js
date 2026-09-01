@@ -11,6 +11,7 @@ import {
   FaArrowRight,
   FaStar,
   FaVideo,
+  FaReceipt,
 } from "react-icons/fa";
 import { BsGraphUpArrow } from "react-icons/bs";
 const categories = [
@@ -20,6 +21,7 @@ const categories = [
   { key: "academic", label: "Academic Writing", icon: <FaBook />, count: ProjectsData.filter(p => p.category === "academic").length },
   { key: "video", label: "Video Editing", icon: <FaVideo  />, count: ProjectsData.filter(p => p.category === "video").length },
   { key: "digital_marketing", label: "Digital Marketing", icon: <BsGraphUpArrow   />, count: ProjectsData.filter(p => p.category === "digital_marketing").length },
+  { key: "pos", label: "POS", icon: <FaReceipt   />, count: ProjectsData.filter(p => p.category === "pos").length },
 ];
 
 const ProjectPage = () => {
@@ -368,6 +370,12 @@ const ProjectPage = () => {
                           <div className="absolute top-4 left-4 z-10 flex items-center gap-1 bg-gradient-to-r from-blue-600 to-cyan-600 text-white text-xs font-bold px-3 py-1 rounded-full shadow-lg">
                             <FaCode className="text-xs" />
                             <span>Web Dev</span>
+                          </div>
+                        )}
+                        {project.category === "pos" && (
+                          <div className="absolute top-4 left-4 z-10 flex items-center gap-1 bg-gradient-to-r from-yellow-600 to-cyan-600 text-white text-xs font-bold px-3 py-1 rounded-full shadow-lg">
+                            <FaCode className="text-xs" />
+                            <span>POS</span>
                           </div>
                         )}
                         {project.category === "seo" && (
