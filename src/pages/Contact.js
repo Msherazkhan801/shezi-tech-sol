@@ -64,13 +64,13 @@ const ContactPage = () => {
       subInfo: "Mon-Fri 9AM-6PM",
       color: "from-blue-500 to-cyan-500"
     },
-    {
-      icon: <FaPhone />,
-      title: "Call Us to Zeeshan Salaar",
-      info: "+92 300 9081537",
-      subInfo: "Mon-Fri 9AM-6PM",
-      color: "from-blue-500 to-cyan-500"
-    },
+    // {
+    //   icon: <FaPhone />,
+    //   title: "Call Us to Zeeshan Salaar",
+    //   info: "+92 300 9081537",
+    //   subInfo: "Mon-Fri 9AM-6PM",
+    //   color: "from-blue-500 to-cyan-500"
+    // },
     {
       icon: <FaEnvelope />,
       title: "Email Us",

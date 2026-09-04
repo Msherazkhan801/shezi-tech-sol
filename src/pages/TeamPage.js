@@ -24,6 +24,7 @@ const teamMembers = [
   {
     name: "Afaq Ahmad",
     role: "Team Lead /Socila Media Manager ",
+      contact:"",
     image: "assets/images/afaq.png",
     bio: "Executing data-driven social media strategies, growing audience engagement, and building brand presence across major platforms.",
     tags: ["SMM Content" ,"Strategy Analytics", "Brand Growth"],
@@ -32,6 +33,7 @@ const teamMembers = [
   {
     name: "Muntazir",
     role: "Web developer / Content Manager ",
+      contact:"",
     image:"https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D",
     bio: "Building responsive web platforms while creating, optimizing, and managing digital content strategies for maximum audience engagement.",
     tags: ["React" ,"CMS ","SEO Copy", "Web Dev"],
@@ -41,6 +43,7 @@ const teamMembers = [
   {
     name: "Maheen Manzoor",
     role: "HR Manager ",
+      contact:"",
     image: "assets/images/maheen.png",
     bio: "Managing talent acquisition, fostering company culture, and streamlining remote team operations to drive organizational growth.",
     tags: ["Recruitment" ,"Talent Acquisition ","Team Operations "],
@@ -49,6 +52,7 @@ const teamMembers = [
   {
     name: "Aimal khan",
     role: "Data Analyst",
+    contact:"",
     image:"assets/images/aimal.png",
     bio: "Transforming raw complex data into actionable insights, visual dashboards, and strategic business intelligence.",
     tags: ["Python SQL" ,"Power BI Data" ,"Analytics"],
@@ -57,9 +61,19 @@ const teamMembers = [
   {
     name: "Talha khan",
     role: "Graphic & Video Editor",
+      contact:"",
     image:"assets/images/talha.png",
     bio: "Crafting high-converting visual assets, dynamic motion graphics, and engaging video content tailored for social media and web branding.",
     tags: ["Premiere Pro ","After Effects" ,"Photoshop ","Figma"],
+    socials: { linkedin: "#",   email: "#" }
+  },
+  {
+    name: "Zeeshan Salaar",
+    role: "Academic Writer",
+      contact:"+92 300 9081537",
+      image:"https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D",
+    bio: "Translating complex research into high-impact academic papers, rigorous literature reviews, and precise thesis chapters tailored for publication and academic success.",
+    tags: ["AcademicWriting", "ResearchPaper", "ThesisEditing"],
     socials: { linkedin: "#",   email: "#" }
   },
   
@@ -178,6 +192,7 @@ export default function TeamPage() {
                     </div>
                     <h3 className="text-lg font-bold text-slate-900 group-hover:text-indigo-600 transition-colors">{member.name}</h3>
                     <p className="text-xs font-semibold text-indigo-600 mb-3">{member.role}</p>
+                    <p className="text-xs font-semibold text-indigo-600 mb-3">{`${member.contact ? " Contact:":""}`}{member.contact}</p>
                     <p className="text-slate-500 text-xs leading-relaxed mb-4">{member.bio}</p>
                     
                     <div className="flex flex-wrap justify-center gap-1.5 mb-6">
