@@ -59,18 +59,18 @@ const ContactPage = () => {
   const contactInfo = [
     {
       icon: <FaPhone />,
-      title: "Call To Shezi Tech Solutions",
+      title: "Shezi Tech Solutions",
+      info: "+447490471026",
+      subInfo: "Mon-Fri 9AM-6PM",
+      color: "from-blue-500 to-cyan-500"
+    },
+    {
+      icon: <FaPhone />,
+      title: "Shezi Tech Solutions",
       info: "+92 347 2943510",
       subInfo: "Mon-Fri 9AM-6PM",
       color: "from-blue-500 to-cyan-500"
     },
-    // {
-    //   icon: <FaPhone />,
-    //   title: "Call Us to Zeeshan Salaar",
-    //   info: "+92 300 9081537",
-    //   subInfo: "Mon-Fri 9AM-6PM",
-    //   color: "from-blue-500 to-cyan-500"
-    // },
     {
       icon: <FaEnvelope />,
       title: "Email Us",
@@ -275,7 +275,7 @@ const ContactPage = () => {
                   variants={floatingButtonVariants}
                   initial="initial"
                   animate="animate"
-                  href="https://wa.me/923472943510"
+                  href="https://wa.me/447490471026"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group flex items-center justify-center gap-3 bg-gradient-to-r from-green-500 to-emerald-600 text-white font-bold px-6 py-4 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 mb-8 overflow-hidden"
@@ -329,7 +329,7 @@ const ContactPage = () => {
 
       {/* Floating WhatsApp Button (Mobile Only) */}
       <motion.a
-        href="https://wa.me/923472943510"
+        href="https://wa.me/447490471026"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 lg:hidden z-50"
