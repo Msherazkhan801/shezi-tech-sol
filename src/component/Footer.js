@@ -11,7 +11,8 @@ import {
   FaRocket,
   FaPaperPlane,
   FaHeart,
-  FaShieldAlt
+  FaShieldAlt,
+  FaTiktok
 } from 'react-icons/fa';
 import Logo from '../assets/images/Logo2.png';
 
@@ -67,10 +68,10 @@ const Footer = () => {
     }
   };
 
-  const socialLinks = [
+const socialLinks = [
     { icon: <FaFacebookF />, label: "Facebook", color: "hover:bg-blue-600", href: "https://www.facebook.com/profile.php?id=61585756147687" },
-    { icon: <FaLinkedinIn />, label: "LinkedIn", color: "hover:bg-blue-700", href: "https://linkedin.com" },
-    { icon: <FaInstagram />, label: "Instagram", color: "hover:bg-pink-600", href: "https://instagram.com" },
+    { icon: <FaTiktok />, label: "LinkedIn", color: "hover:bg-blue-700", href: "https://www.tiktok.com/@shezitechsolution801" },
+    { icon: <FaInstagram />, label: "Instagram", color: "hover:bg-pink-600", href: "https://www.instagram.com/shezitechsolution" },
     { icon: <FaYoutube />, label: "YouTube", color: "hover:bg-red-600", href: "https://www.youtube.com/channel/UCjlRubK7n59ujp97X2KXZMw" },
   ];
 
