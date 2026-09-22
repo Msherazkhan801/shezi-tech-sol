@@ -3,7 +3,6 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Link, useLocation } from 'react-router-dom';
 import {
   FaFacebookF,
-  FaLinkedinIn,
   FaInstagram,
   FaYoutube,
   FaEnvelope,
