@@ -4,7 +4,6 @@ import { useParams } from "react-router-dom";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-  faTwitter,
   faFacebookF,
   faLinkedinIn,
   faInstagram, // 1. Import Instagram icon
@@ -17,7 +16,6 @@ const BlogDetail = () => {
 
   let respData = BlogsContents.find((blog) => blog.slug === slug);
 
-  const twitter = <FontAwesomeIcon icon={faTwitter} />;
   const facebook = <FontAwesomeIcon icon={faFacebookF} />;
   const linkedin = <FontAwesomeIcon icon={faLinkedinIn} />;
   const instagram = <FontAwesomeIcon icon={faInstagram} />;
