@@ -14,6 +14,7 @@ import ErrorPage from "./pages/ErrorPage";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsOfService from "./pages/TermsOfService";
 import TeamPage from "./pages/TeamPage";
+import SwabiHeroesDeletion from "./pages/SwabiHeroesDeletion";
 // import BlogDetailPage from "./component/BlogSection";
 
 function App() {
@@ -33,6 +34,7 @@ function App() {
       <Route path="/faq" element={<Faqs/>} />
       <Route path="/policy" element={<PrivacyPolicy/>} />
       <Route path="/terms" element={<TermsOfService/>} />
+      <Route path="/swabi-heroes-hub-deletion" element={<SwabiHeroesDeletion/>} />
       <Route path="*" element={<ErrorPage/>} />
       
 
